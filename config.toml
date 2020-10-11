@@ -1,0 +1,127 @@
+######################## default configuration ####################
+baseURL = "https://starlord.gr"
+title = "StarLord.gr"
+theme = "logbook"
+# post pagination
+paginate = "20"
+# post excerpt
+summaryLength = "50"
+# google analytics
+#googleAnalytics = "" # Ex: UA-123-45
+# disqus short name
+#disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = ["Fr"] # desable language from here
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+#################### default parameters ################################
+[params]
+logo = "images/starlord.png"
+# Meta data
+description = "This is meta description"
+author = "StarLord"
+# email address
+email = "georgia.young@example.com"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# search
+search = true
+# layout
+layout = "list" # layout value (full or list)
+# Sidebar
+sidebar = "right" # sidebar value (left,right or false)
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Subscription
+[params.subscription]
+enable = false
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+  
+############################# social site ########################
+[[params.social]]
+name = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/drpaneas/starlordgr"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "AstroBot is robot written by StarLord"
+# copyright
+copyright = "Human Knowledge belongs to the World"
+
+
+############### English navigation ################
+
+# Dropdown menu
+[[Languages.en.menu.main]]
+weight = 1
+name = "Home"
+hasChildren = false
+
+
+# footer menu
+[[Languages.fr.menu.footer]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[Languages.fr.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 2
+
+[[Languages.fr.menu.footer]]
+name = "Privacy Policy"
+URL = "privacy-policy"
+weight = 3
+
+[[Languages.fr.menu.footer]]
+name = "Terms Conditions"
+URL = "terms-conditions"
+weight = 4
+

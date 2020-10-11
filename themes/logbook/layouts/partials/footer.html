@@ -1,0 +1,68 @@
+<footer class="section-sm pb-0 border-top border-default">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-md-3 mb-4">
+        <a class="mb-4 d-block" href="{{ .Site.BaseURL | relLangURL }}"><img class="img-fluid" width="150px"
+            src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
+        <p>{{ .Site.Params.footer_content }}</p>
+      </div>
+      <div class="col-lg-2 col-md-3 col-6 mb-4">
+        <h6 class="mb-4">{{i18n "quick_links"}}</h6>
+        <ul class="list-unstyled footer-list">
+          {{ range .Site.Menus.footer }}
+          <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-3 col-6 mb-4">
+        <h6 class="mb-4">{{i18n "social"}}</h6>
+        <ul class="list-unstyled footer-list">
+          {{ range .Site.Params.social }}
+          <li><a href="{{ .link | safeURL }}">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ if .Site.Params.subscription.enable }}
+      <div class="col-md-3 mb-4">
+        <h6 class="mb-4">{{i18n "subscribe_newsletter"}}</h6>
+        {{ with .Site.Params.subscription }}
+        <form class="subscription" action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form"
+          target="_blank">
+          <div class="position-relative">
+            <i class="ti-email email-icon"></i>
+            <input type="email" class="form-control" placeholder="{{ i18n `email`}}">
+          </div>
+          <button class="btn btn-primary btn-block rounded" type="submit"
+            name="subscribe">{{ i18n "subscribe"}}</button>
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
+          </div>
+        </form>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    <div class="scroll-top">
+      <a href="javascript:void(0);" id="scrollTop"><i class="ti-angle-up"></i></a>
+    </div>
+    <div class="text-center">
+      <p class="content">{{ .Site.Params.copyright | markdownify }}</p>
+    </div>
+  </div>
+</footer>
+
+{{ "<!-- Search index -->" | safeHTML }}
+{{ if .Site.Params.search }}
+<script>
+  var indexURL = {{"index.json" | absURL}}
+</script>
+{{ end }}
+
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.js}}
+<script src="{{ .link | absURL }}"></script>
+{{ end }}
+
+{{ "<!-- Main Script -->" | safeHTML }}
+{{ $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>

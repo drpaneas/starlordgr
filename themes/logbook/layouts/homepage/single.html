@@ -1,0 +1,102 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <!-- left sidebar -->
+      {{ $sidebar:= .Params.sidebar }}
+      {{ $layout:= .Params.layout }}
+      {{ if eq $sidebar "left" }}
+      <aside class="col-lg-4 order-2 order-lg-1">
+        {{ partial "sidebar.html" . }}
+      </aside>
+      {{ end }}
+      <!-- /left sidebar -->
+
+      <div class="{{if or (eq $sidebar `left`) (eq $sidebar `right`)}}col-lg-8{{ else }}col-12{{end}} {{if eq $sidebar `left`}}order-1 order-lg-2{{end}} mb-5 mb-lg-0">
+        {{ range where site.RegularPages "Section" "post" }}
+
+        {{ if eq $layout "list" }}
+        <!-- list article -->
+        <article class="row mb-5">
+          {{ with .Params.Images }}
+          <div class="col-md-4 mb-4 mb-md-0">
+            <div class="post-slider slider-sm">
+              {{ range . }}
+              <img src="{{ . | absURL }}" class="img-fluid" alt="post-thumb" style="height:200px; object-fit: cover;">
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+          <div class="{{if .Params.Images}}col-md-8{{else}}col-12{{end}}">
+            <h3 class="h5"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <ul class="list-inline post-meta mb-2">
+              <li class="list-inline-item"><i class="ti-user mr-2"></i><a
+                  href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></li>
+              <li class="list-inline-item">{{ i18n "date" }} : {{ .PublishDate.Format "January 2, 2006" }}</li>
+              <li class="list-inline-item">{{ i18n "categories" }} :
+                {{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
+                  href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a>
+                {{end}}</li>
+              <li class="list-inline-item">{{i18n "tags"}} : {{ range $i,$p:= .Params.Tags }}{{if ne $i 0}},{{end}}<a
+                  href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a> {{end}}
+              </li>
+            </ul>
+            <p>
+              {{ if .Params.Images }}
+              {{if or (eq $sidebar `left`) (eq $sidebar `right`)}}{{ .Summary | truncate 100 }}{{ else }}{{ .Summary | truncate 200 }}{{end}}
+              {{ else }}
+              {{ .Summary | truncate 300 }}
+              {{ end }}
+            </p>
+            <a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ i18n "continue_reading"}}</a>
+          </div>
+        </article>
+        <!-- /list article -->
+        {{ else }}
+        <!-- full article -->
+        <article class="row mb-5">
+          {{ with .Params.Images }}
+          <div class="col-12">
+            <div class="post-slider">
+              {{ range .}}
+              <img src="{{ . | absURL }}" class="img-fluid" alt="post-thumb">
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+          <div class="{{if or (eq $sidebar `left`) (eq $sidebar `right`)}}col-12{{ else }}col-lg-10{{end}} mx-auto">
+            <h3><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <ul class="list-inline post-meta mb-4">
+              <li class="list-inline-item"><i class="ti-user mr-2"></i><a
+                  href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></li>
+              <li class="list-inline-item">{{ i18n "date"}} : {{ .PublishDate.Format "January 2, 2006" }}</li>
+              <li class="list-inline-item">{{ i18n "categories" }} :
+                {{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
+                  href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a>
+                {{end}}</li>
+              <li class="list-inline-item">{{i18n "tags"}} : {{ range $i,$p:= .Params.Tags }}{{if ne $i 0}},{{end}}<a
+                  href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a> {{end}}
+              </li>
+            </ul>
+            <p>{{ .Summary }}</p>
+            <a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ i18n "continue_reading"}}</a>
+          </div>
+        </article>
+        <!-- /full article -->
+        {{ end }}
+        {{ end }}
+      </div>
+
+      <!-- right sidebar -->
+      {{ if eq $sidebar "right" }}
+      <aside class="col-lg-4">
+        {{ partial "sidebar.html" . }}
+      </aside>
+      {{ end }}
+      <!-- /right sidebar -->
+    </div>
+  </div>
+</section>
+
+{{ end }}

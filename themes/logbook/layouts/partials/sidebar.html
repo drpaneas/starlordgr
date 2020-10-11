@@ -1,0 +1,62 @@
+{{ "<!-- Search -->" | safeHTML }}
+{{ if .Site.Params.search }}
+<div class="widget">
+  <h5 class="widget-title"><span>{{ i18n "search" }}</span></h5>
+  <form action="{{ `search`| relLangURL }}" class="widget-search">
+    <input id="search-query" name="s" type="search" placeholder="{{ i18n `search_placeholder`}}">
+    <button type="submit"><i class="ti-search"></i></button>
+  </form>
+</div>
+{{ end }}
+{{ "<!-- categories -->" | safeHTML }}
+<div class="widget">
+  <h5 class="widget-title"><span>{{ i18n "categories" }}</span></h5>
+  {{- if isset .Site.Taxonomies "categories" }}
+  {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+  <ul class="list-unstyled widget-list">
+    {{- range $name, $items := .Site.Taxonomies.categories }}
+    <li><a href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}" class="d-flex">{{ $name | humanize }}
+        <small class="ml-auto">({{ len $items }})</small></a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  {{- end }}
+</div>
+{{ "<!-- tags -->" | safeHTML }}
+<div class="widget">
+  <h5 class="widget-title"><span>{{ i18n "tags" }}</span></h5>
+  {{- if isset .Site.Taxonomies "tags" }}
+  {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+  <ul class="list-inline widget-list-inline">
+    {{- range $name, $items := .Site.Taxonomies.tags }}
+    <li class="list-inline-item"><a
+        href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  {{- end }}
+</div>
+{{ "<!-- latest post -->" | safeHTML }}
+<div class="widget">
+  <h5 class="widget-title"><span>{{ i18n "latest_article" }}</span></h5>
+  {{ "<!-- post-item -->" | safeHTML }}
+  {{ range first 3 ( where .Site.RegularPages "Section" "post" )}}
+  <ul class="list-unstyled widget-list">
+    <li class="media widget-post align-items-center">
+      <a href="{{ .Permalink }}">
+        {{ if .Params.Images }}
+        {{ range first 1 .Params.Images }}
+        <img class="mr-3" src="{{ . | absURL }}">
+        {{ end }}
+        {{ else }}
+        <p class="recent-thumb-alt mr-3">{{.Title | title}}</p>
+        {{ end }}
+      </a>
+      <div class="media-body">
+        <h5 class="h6 mb-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+        <small>{{ .PublishDate.Format "January 2, 2006" }}</small>
+      </div>
+    </li>
+  </ul>
+  {{ end }}
+</div>

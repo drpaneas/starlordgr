@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<section class="section-sm border-bottom">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="title-bordered mb-5 d-flex align-items-center">
+					<h1 class="h4">{{ .Title }}</h1>
+					<ul class="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
+						{{ range .Params.social }}
+						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{.icon }}"></i></a></li>
+						{{ end }}
+					</ul>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-4 mb-4 mb-md-0 text-center text-md-left">
+				{{ if .Params.Image }}
+				<img class="rounded-lg img-fluid" src="{{.Params.Image | absURL }}">
+				{{else if .Params.Email}}
+				<img class="rounded-lg img-fluid"
+					src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=256&pg&d=identicon">
+				{{ end }}
+			</div>
+			<div class="col-lg-9 col-md-8 content text-center text-md-left">
+				{{ .Content }}
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="section-sm">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="title text-center">
+					<h2 class="mb-5">{{ i18n "posted_by" }}</h2>
+				</div>
+			</div>
+			{{ range where .Site.RegularPages "Params.author" .Title }}
+			<div class="col-lg-4 col-sm-6 mb-4">
+				<article class="mb-5">
+					{{ with .Params.Images}}
+					<div class="post-slider slider-sm">
+						{{ range . }}
+						<img src="{{ . | absURL }}" class="img-fluid" alt="post-thumb">
+						{{ end }}
+					</div>
+					{{ end }}
+					<h3 class="h5"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+					<ul class="list-inline post-meta mb-2">
+						<li class="list-inline-item"><i class="ti-user mr-2"></i><a
+								href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></li>
+						<li class="list-inline-item">{{ i18n "date"}} : {{ .PublishDate.Format "January 2, 2006" }}</li>
+						<li class="list-inline-item">{{ i18n "categories" }} :
+							{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
+								href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a>
+							{{end}}</li>
+						<li class="list-inline-item">{{i18n "tags"}} : {{ range $i,$p:= .Params.Tags }}{{if ne $i 0}},{{end}}<a
+								href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a> {{end}}
+						</li>
+					</ul>
+					<p>{{ .Summary | truncate 100 }}</p>
+					<a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ i18n "continue_reading"}}</a>
+				</article>
+			</div>
+			{{ end }}
+		</div>
+	</div>
+</section>
+{{ end }}

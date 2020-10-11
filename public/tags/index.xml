@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on StarLord.gr</title>
+    <link>https://starlord.gr/tags/</link>
+    <description>Recent content in Tags on StarLord.gr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://starlord.gr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>space.com</title>
+      <link>https://starlord.gr/tags/space.com/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://starlord.gr/tags/space.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://starlord.gr/tags/image/</link>
+      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://starlord.gr/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo</title>
+      <link>https://starlord.gr/tags/photo/</link>
+      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://starlord.gr/tags/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>booth</title>
+      <link>https://starlord.gr/tags/booth/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://starlord.gr/tags/booth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>city</title>
+      <link>https://starlord.gr/tags/city/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://starlord.gr/tags/city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://starlord.gr/tags/new/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://starlord.gr/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seasone</title>
+      <link>https://starlord.gr/tags/seasone/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://starlord.gr/tags/seasone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://starlord.gr/tags/video/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://starlord.gr/tags/video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

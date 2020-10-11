@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<section class="section-sm pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="title-bordered">
+          <h1 class="h4">Showing items from {{ .Title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ .Scratch.Set "where" .Data.Pages }}
+{{ partial "default.html" . }}
+
+{{ end }}

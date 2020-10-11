@@ -1,0 +1,6 @@
+{{ define "main" }}
+
+{{ .Scratch.Set "where" .Site.RegularPages }}
+{{ partial "default.html" . }}
+
+{{ end }}
