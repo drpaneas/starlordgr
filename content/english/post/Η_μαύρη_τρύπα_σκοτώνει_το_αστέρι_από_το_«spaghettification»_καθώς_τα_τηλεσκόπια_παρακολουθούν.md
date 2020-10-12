@@ -1,5 +1,5 @@
 ---
-title: "Η μαύρη τρύπα σκοτώνει το αστέρι από το «spaghettification» καθώς τα τηλεσκόπια παρακολουθούν"
+title: "Mαύρη τρύπα σκοτώνει αστέρι με «spaghettification»"
 date: 2020-10-12T17:20:32+02:00
 images:
   - "images/post/Black_hole_kills_star_by_'spaghettification'_as_telescopes_watch.jpg"
