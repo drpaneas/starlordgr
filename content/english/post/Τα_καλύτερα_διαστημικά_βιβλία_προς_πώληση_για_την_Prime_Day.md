@@ -1,5 +1,5 @@
 ---
-title: "Τα καλύτερα διαστημικά βιβλία προς πώληση για την Prime Day"
+title: "Τα καλύτερα διαστημικά βιβλία προς πώληση για την Amazon Prime Day"
 date: 2020-10-12T20:02:43+02:00
 images:
   - "images/post/The_Best_Space_Books_On_Sale_for_Prime_Day.jpg"
