@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Το_Hubble_μας_έδωσε_την_εντυπωσιακότερη_φωτογραφία_υπολείμματος_supernova.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

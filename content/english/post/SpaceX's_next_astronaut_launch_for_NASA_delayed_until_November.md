@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/SpaceX's_next_astronaut_launch_for_NASA_delayed_until_November.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

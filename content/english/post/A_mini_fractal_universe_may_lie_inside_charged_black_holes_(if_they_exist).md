@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/A_mini_fractal_universe_may_lie_inside_charged_black_holes_(if_they_exist).jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

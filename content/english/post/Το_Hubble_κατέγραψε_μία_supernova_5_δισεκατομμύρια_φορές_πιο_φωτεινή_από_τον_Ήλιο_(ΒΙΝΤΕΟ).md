@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Το_Hubble_κατέγραψε_μία_supernova_5_δισεκατομμύρια_φορές_πιο_φωτεινή_από_τον_Ήλιο_(ΒΙΝΤΕΟ).jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

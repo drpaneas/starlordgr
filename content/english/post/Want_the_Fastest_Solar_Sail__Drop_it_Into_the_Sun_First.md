@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Want_the_Fastest_Solar_Sail__Drop_it_Into_the_Sun_First.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

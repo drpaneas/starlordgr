@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Η_νέα_τουαλέτα_της_NASA_είναι_έτοιμη_να_εγκατασταθεί_στο_Διεθνή_Διαστημικό_Σταθμό_(ΕΙΚΟΝΕΣ).jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

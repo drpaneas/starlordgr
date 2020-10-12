@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Watch_online_today__Small__close_passing_asteroid.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

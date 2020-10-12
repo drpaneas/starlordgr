@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Space_photos__The_most_amazing_images_this_week_.gif"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

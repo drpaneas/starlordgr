@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Just_How_Bad_are_Superflares_to_a_Planet’s_Habitability_.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

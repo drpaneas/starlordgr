@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/'Asteroid_Hunters_'_inspired_by_an_asteroid_deflection_mission__launches_in_IMAX_today.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Detailed_new_image_of_famous_stellar_nursery.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

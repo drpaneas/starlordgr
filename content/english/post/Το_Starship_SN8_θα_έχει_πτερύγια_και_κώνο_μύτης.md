@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Το_Starship_SN8_θα_έχει_πτερύγια_και_κώνο_μύτης.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Καθυστερεί_η_εκτόξευση_του_Dragonfly_για_τον_Τιτάνα.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

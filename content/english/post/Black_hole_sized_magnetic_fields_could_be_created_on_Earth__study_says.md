@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Black_hole_sized_magnetic_fields_could_be_created_on_Earth__study_says.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

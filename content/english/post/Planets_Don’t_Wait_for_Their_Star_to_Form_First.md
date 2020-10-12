@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Planets_Don’t_Wait_for_Their_Star_to_Form_First.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

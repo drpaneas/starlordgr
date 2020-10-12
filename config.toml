@@ -85,14 +85,14 @@ link = "https://github.com/drpaneas/starlordgr"
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
-languageCode = "en-us"
+languageCode = "el"
 contentDir = "content/english"
 weight = 1
-home = "Home"
+home = "Αρχική"
 # footer content
-footer_content = "AstroBot is robot written by StarLord"
+footer_content = "Το AstroBot γράφτηκε από τον StarLord"
 # copyright
-copyright = "Human Knowledge belongs to the World"
+copyright = "Ευχαριστούμε για την επίσκεψη"
 
 
 ############### English navigation ################
@@ -100,7 +100,7 @@ copyright = "Human Knowledge belongs to the World"
 # Dropdown menu
 [[Languages.en.menu.main]]
 weight = 1
-name = "Home"
+name = "Αρχική"
 hasChildren = false
 
 

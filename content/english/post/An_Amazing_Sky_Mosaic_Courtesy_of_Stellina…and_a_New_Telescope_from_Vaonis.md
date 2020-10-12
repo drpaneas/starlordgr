@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/An_Amazing_Sky_Mosaic_Courtesy_of_Stellina…and_a_New_Telescope_from_Vaonis.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

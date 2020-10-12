@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Meet_the_Pi_planet._It_orbits_its_star_every_3.14_days.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

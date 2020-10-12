@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Simulation_Helps_Explain_Saturn’s_Mysterious_Hexagon.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/These_astronauts_read_Tom_Wolfe's_'The_Right_Stuff'_and_flew_in_space._Here_what_it_meant_to_them..jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

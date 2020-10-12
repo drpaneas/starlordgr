@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/The_detection_of_phosphine_in_Venus’_clouds_is_a_big_deal.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

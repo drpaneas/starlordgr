@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Τα_Ηνωμένα_Αραβικά_Εμιράτα_θα_εκτοξεύσουν_το_δικό_τους_rover_στη_Σελήνη.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

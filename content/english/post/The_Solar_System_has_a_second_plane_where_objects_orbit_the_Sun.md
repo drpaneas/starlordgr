@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/The_Solar_System_has_a_second_plane_where_objects_orbit_the_Sun.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

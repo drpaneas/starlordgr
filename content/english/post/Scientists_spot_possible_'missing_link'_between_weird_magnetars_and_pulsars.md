@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Scientists_spot_possible_'missing_link'_between_weird_magnetars_and_pulsars.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Ο_ISS_χρειάστηκε_να_μετακινηθεί_για_να_αποφύγει_διαστημικά_συντρίμμια.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

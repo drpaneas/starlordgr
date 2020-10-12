@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Ακυρώθηκε_η_εκτόξευση_της_SpaceX_μόλις_δύο_δευτερόλεπτα_πριν_το_μηδέν_(ΒΙΝΤΕΟ).jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/UAE_will_launch_its_first_moon_rover_in_2024.png"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

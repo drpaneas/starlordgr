@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/SpaceX_launched_60_more_Starlink_satellites_this_week.jpeg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

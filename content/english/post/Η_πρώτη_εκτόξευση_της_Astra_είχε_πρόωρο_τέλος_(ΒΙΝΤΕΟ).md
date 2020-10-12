@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Η_πρώτη_εκτόξευση_της_Astra_είχε_πρόωρο_τέλος_(ΒΙΝΤΕΟ).jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

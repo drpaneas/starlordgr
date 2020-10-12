@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Gravitational_Wave_Lensing_is_Possible__but_it’s_Going_to_be_Incredibly_Difficult_to_Detect.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

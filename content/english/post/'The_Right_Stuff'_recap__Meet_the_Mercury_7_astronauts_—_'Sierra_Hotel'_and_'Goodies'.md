@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/'The_Right_Stuff'_recap__Meet_the_Mercury_7_astronauts_—_'Sierra_Hotel'_and_'Goodies'.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

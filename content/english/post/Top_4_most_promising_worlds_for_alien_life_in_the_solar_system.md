@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Top_4_most_promising_worlds_for_alien_life_in_the_solar_system.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

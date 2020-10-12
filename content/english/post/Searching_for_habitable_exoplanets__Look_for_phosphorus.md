@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Searching_for_habitable_exoplanets__Look_for_phosphorus.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

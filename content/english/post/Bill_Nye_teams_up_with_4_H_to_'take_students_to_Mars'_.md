@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Bill_Nye_teams_up_with_4_H_to_'take_students_to_Mars'_.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Pictures_from_space__Our_image_of_the_day.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/'The_Right_Stuff'_lifts_off_on_Disney_Plus__takes_flight_from_book__film.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

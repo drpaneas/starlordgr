@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Scientists_use_AI_to_find_tiny_craters_on_Mars.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

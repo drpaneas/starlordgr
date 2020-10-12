@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Large_asteroid_will_pass_safely_November_29__closer_in_subsequent_flybys.png"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

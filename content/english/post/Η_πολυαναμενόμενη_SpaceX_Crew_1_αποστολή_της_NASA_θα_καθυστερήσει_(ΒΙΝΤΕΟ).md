@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Η_πολυαναμενόμενη_SpaceX_Crew_1_αποστολή_της_NASA_θα_καθυστερήσει_(ΒΙΝΤΕΟ).jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

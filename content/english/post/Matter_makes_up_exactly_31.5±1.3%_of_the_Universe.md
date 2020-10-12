@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Matter_makes_up_exactly_31.5±1.3%_of_the_Universe.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

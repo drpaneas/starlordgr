@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Astronomers_hope_UN_can_help_protect_dark_skies_against_megaconstellation_threat.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

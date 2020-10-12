@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Radar_reveals_3_more_subsurface_polar_lakes_on_Mars.jpeg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Η_NASA_θα_αγοράσει_σεληνιακό_χώμα_από_οποιαδήποτε_ιδιωτική_εταιρία.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/X_ray_data_reveal_1st_ever_planet_orbiting_stars_in_another_galaxy.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

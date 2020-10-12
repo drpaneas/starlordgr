@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/A_new_method_for_predicting_large_solar_flares.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Are_there_active_geysers_at_Enceladus’_north_pole_.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Astronomers_capture_1st_direct_image_of_young_giant_exoplanet.png"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

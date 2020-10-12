@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/NASA’s_Planet_Patrol_wants_you_to_join_the_search_for_exoplanets.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/On_This_Day_in_Space__Oct._11__1968__Apollo_7_launches_the_1st_Apollo_crew_into_orbit.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

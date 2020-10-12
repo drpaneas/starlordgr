@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/'Superflares'_may_make_it_hard_for_life_to_begin_around_dwarf_stars.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

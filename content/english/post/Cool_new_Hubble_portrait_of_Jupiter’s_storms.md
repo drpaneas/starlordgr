@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Cool_new_Hubble_portrait_of_Jupiter’s_storms.png"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/What_is_interstellar_space_.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

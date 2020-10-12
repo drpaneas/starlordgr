@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Boulders_on_asteroid_Bennu_shed_new_light_on_the_space_rock's_history.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

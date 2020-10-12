@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Radio_Astronomers_are_Worried_About_Mega_Constellations_and_the_Square_Kilometer_Array.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

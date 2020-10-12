@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Asteroid_or_space_junk__Approaching_object_might_become_Earth’s_mini_moon.jpeg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

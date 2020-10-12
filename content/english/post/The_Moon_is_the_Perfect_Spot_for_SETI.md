@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/The_Moon_is_the_Perfect_Spot_for_SETI.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["universetoday.com"]
 draft: false
 ---

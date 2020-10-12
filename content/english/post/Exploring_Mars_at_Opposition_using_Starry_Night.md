@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Exploring_Mars_at_Opposition_using_Starry_Night.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/The_top_space_stories_of_the_week_.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

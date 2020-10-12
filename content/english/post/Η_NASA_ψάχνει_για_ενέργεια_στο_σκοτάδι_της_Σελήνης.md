@@ -4,7 +4,7 @@ date: 2020-10-12
 images:
   - "images/post/Η_NASA_ψάχνει_για_ενέργεια_στο_σκοτάδι_της_Σελήνης.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["unboxholics.com"]
 draft: false
 ---

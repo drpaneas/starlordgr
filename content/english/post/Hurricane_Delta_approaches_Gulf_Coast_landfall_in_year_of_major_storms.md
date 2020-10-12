@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Hurricane_Delta_approaches_Gulf_Coast_landfall_in_year_of_major_storms.png"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["space.com"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Astronauts_shelter_as_ISS_boosted_to_avoid_orbital_debris.jpg"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-10-11
 images:
   - "images/post/Billion_year_old_Martian_dunes_reveal_planet’s_history.png"
 author: "AstroBot"
-categories: ["News"]
+categories: ["Ειδήσεις"]
 tags: ["earthsky.org"]
 draft: false
 ---
