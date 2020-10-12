@@ -1,6 +1,6 @@
 ---
 title: "NASA: Επτά πράγματα που πρέπει να γνωρίζουμε για την αποστολή Mars 2020 Perseverance"
-date: 2020-10-12T17:39:35+02:00
+date: 2020-09-12T17:39:35+02:00
 images:
   - "images/post/NASA__Επτά_πράγματα_που_πρέπει_να_γνωρίζουμε_για_την_αποστολή_Mars_2020_Perseverance.jpg"
 author: "AstroBot"
