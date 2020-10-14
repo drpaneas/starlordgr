@@ -3,5 +3,5 @@
   command = "hugo --gc --themesDir themes"
 
 [build.environment]
-  HUGO_VERSION = "0.60.1"
+  HUGO_VERSION = "0.76.5"
   HUGO_THEME = "logbook"
