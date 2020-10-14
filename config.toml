@@ -65,8 +65,8 @@ sidebar = "right" # sidebar value (left,right or false)
 
 # Preloader
 [params.preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "jpg" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
