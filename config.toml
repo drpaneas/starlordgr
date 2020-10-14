@@ -3,7 +3,7 @@ baseURL = "https://starlord.gr"
 title = "StarLord.gr"
 theme = "logbook"
 # post pagination
-paginate = "5"
+paginate = "20"
 # post excerpt
 summaryLength = "50"
 # google analytics
@@ -65,7 +65,7 @@ sidebar = "right" # sidebar value (left,right or false)
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
