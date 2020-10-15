@@ -3,7 +3,7 @@ baseURL = "https://starlord.gr"
 title = "StarLord.gr"
 theme = "logbook"
 # post pagination
-paginate = "20"
+paginate = "10"
 # post excerpt
 summaryLength = "50"
 # google analytics
