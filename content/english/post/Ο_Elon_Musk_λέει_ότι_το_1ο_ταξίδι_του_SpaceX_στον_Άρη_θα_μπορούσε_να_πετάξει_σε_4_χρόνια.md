@@ -1,5 +1,5 @@
 ---
-title: "Ο Elon Musk λέει ότι το 1ο ταξίδι του SpaceX στον Άρη θα μπορούσε να πετάξει σε 4 χρόνια"
+title: "Ο Elon Musk λέει ότι το 1ο ταξίδι της SpaceX στον Άρη θα μπορούσε να πετάξει σε 4 χρόνια"
 date: 2020-10-17T03:01:00+02:00
 images:
   - "images/post/Elon_Musk_says_SpaceX's_1st_Starship_trip_to_Mars_could_fly_in_4_years.jpg"
