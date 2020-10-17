@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://starlord.gr"
-title = "StarLord.gr"
+title = "StarLord | Συλλέκτης Διαστημικών Ειδήσεων"
 theme = "logbook"
 # post pagination
 paginate = "10"
@@ -11,7 +11,8 @@ summaryLength = "50"
 # disqus short name
 #disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["Fr"] # desable language from here
+disableLanguages = []
+DefaultContentLanguage = "el"
 
 # output
 [outputs]
@@ -50,7 +51,7 @@ link = "plugins/search/search.js"
 [params]
 logo = "images/starlord.png"
 # Meta data
-description = "This is meta description"
+description = "Συλλέκτης Διαστημικών Ειδήσεων"
 author = "StarLord"
 # email address
 email = "georgia.young@example.com"
@@ -82,17 +83,33 @@ icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/drpaneas/starlordgr"
 
 
-################################### English language #####################################
-[Languages.en]
-languageName = "En"
+################################### Greek language #####################################
+[Languages.el]
+languageName = "Ελληνικά"
 languageCode = "el"
-contentDir = "content/english"
+contentDir = "content/greek"
 weight = 1
 home = "Αρχική"
-# footer content
 footer_content = "Το AstroBot γράφτηκε από τον StarLord"
-# copyright
 copyright = "Ευχαριστούμε για την επίσκεψη"
+
+# Greek Dropdown menu
+[[Languages.el.menu.main]]
+weight = 1
+name = "Αρχική"
+hasChildren = false
+
+################################### English language #####################################
+[Languages.en]
+languageName = "Αγγλικά"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "AstroBot is written by StarLord"
+# copyright
+copyright = "Thanks for visiting and clear skies!"
 
 
 ############### English navigation ################
@@ -100,28 +117,5 @@ copyright = "Ευχαριστούμε για την επίσκεψη"
 # Dropdown menu
 [[Languages.en.menu.main]]
 weight = 1
-name = "Αρχική"
+name = "homepage"
 hasChildren = false
-
-
-# footer menu
-[[Languages.fr.menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[Languages.fr.menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 2
-
-[[Languages.fr.menu.footer]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 3
-
-[[Languages.fr.menu.footer]]
-name = "Terms Conditions"
-URL = "terms-conditions"
-weight = 4
-

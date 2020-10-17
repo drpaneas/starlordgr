@@ -1,50 +1,50 @@
 - id: continue_reading
-  translation: Μάθε Περισσότερα
+  translation: Continue Reading
 
 - id: search_placeholder
-  translation: Πληκτρολόγισε & πάτα το πλήκτρο Enter...
+  translation: Type & Hit Enter...
 
 - id: latest_article
-  translation: Πρόσφατα Άρθρα
+  translation: Latest Article
 
 - id: categories
-  translation: Κατηγορίες
+  translation: Categories
 
 - id: tags
   translation: Tags
 
 - id: search
-  translation: Αναζήτηση
+  translation: Search
 
 - id: date
-  translation: Ημερομηνία
+  translation: Date
 
 - id: posted_by
-  translation: Δημοσιεύτηκε από αυτόν τον συντάκτη
+  translation: Posted by this author
 
 - id: send
-  translation: Στείλε το τώρα
+  translation: Send Now
 
 - id: name
-  translation: Το όνομά σου
+  translation: Your Name
 
 - id: email 
-  translation: Το e-mail σου
+  translation: Your Email Address
 
 - id: message
-  translation: Το μύνημά σου
+  translation: Your Message Here
 
 - id: subscribe
-  translation: Γράψου τώρα
+  translation: Subscribe now
 
 - id: write_email
-  translation: Μισείς τις φόρμες; Στείλε μου ένα e-mail
+  translation: Hate Forms? Write Us Email
 
 - id: subscribe_newsletter
-  translation: Εγγραφείτε στο Newsletter
+  translation: Subscribe Newsletter
 
 - id: quick_links
-  translation: Γρήγορα Links
+  translation: Quick Links
 
 - id: social
-  translation: Κοινωνικά Δίκτυα
+  translation: Social Links

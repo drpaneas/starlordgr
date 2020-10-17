@@ -1,0 +1,50 @@
+- id: continue_reading
+  translation: Μάθε Περισσότερα
+
+- id: search_placeholder
+  translation: Πληκτρολόγισε & πάτα το πλήκτρο Enter...
+
+- id: latest_article
+  translation: Πρόσφατα Άρθρα
+
+- id: categories
+  translation: Κατηγορίες
+
+- id: tags
+  translation: Tags
+
+- id: search
+  translation: Αναζήτηση
+
+- id: date
+  translation: Ημερομηνία
+
+- id: posted_by
+  translation: Δημοσιεύτηκε από αυτόν τον συντάκτη
+
+- id: send
+  translation: Στείλε το τώρα
+
+- id: name
+  translation: Το όνομά σου
+
+- id: email 
+  translation: Το e-mail σου
+
+- id: message
+  translation: Το μύνημά σου
+
+- id: subscribe
+  translation: Γράψου τώρα
+
+- id: write_email
+  translation: Μισείς τις φόρμες; Στείλε μου ένα e-mail
+
+- id: subscribe_newsletter
+  translation: Εγγραφείτε στο Newsletter
+
+- id: quick_links
+  translation: Γρήγορα Links
+
+- id: social
+  translation: Κοινωνικά Δίκτυα
