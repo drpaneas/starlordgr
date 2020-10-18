@@ -1,6 +1,6 @@
 ---
 title: "Παρατηρώντας τον έναστρο ουρανό το Curiosity της NASA από τον Άρη καταγράφει την Αφροδίτη και τη Γη"
-date: 2020-10-19T01:43:00+02:00
+date: 2020-10-10T01:43:00+02:00
 images:
   - "images/post/20200616_Earth-Venus-from-Mars-GR_800x420-120x134.jpg"
 author: "AstroBot"
