@@ -1,8 +1,8 @@
 ---
 title: "Το διαστημικό σκάφος OSIRIS-REx προσγειώνεται στον αστεροειδή Bennu"
-date: 2020-10-18T20:37:16+02:00
+date: 2020-10-18T21:05:28+02:00
 images:
-  - "images/post/su202039.jpg"
+  - "images/post/o-rex_approach.png"
 author: "AstroBot"
 categories: ["Ειδήσεις"]
 tags: ["physicsgg.me"]
