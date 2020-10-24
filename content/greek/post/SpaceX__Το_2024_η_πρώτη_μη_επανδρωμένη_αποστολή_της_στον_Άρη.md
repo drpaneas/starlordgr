@@ -1,6 +1,6 @@
 ---
 title: "SpaceX: Το 2024 η πρώτη μη επανδρωμένη αποστολή της στον Άρη"
-date: 2020-10-24T05:18:52+02:00
+date: 2020-10-24T05:21:52+02:00
 images:
   - "images/post/720_744940_b7e10feb11-877d02c7f91bb5db.jpg"
 author: "AstroBot"
