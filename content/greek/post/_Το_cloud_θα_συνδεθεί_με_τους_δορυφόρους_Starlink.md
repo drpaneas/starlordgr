@@ -1,6 +1,6 @@
 ---
 title: " Το cloud θα συνδεθεί με τους δορυφόρους Starlink"
-date: 2020-10-30T05:15:06+01:00
+date: 2020-10-30T16:55:32+01:00
 images:
   - "images/post/shutterstock_1280564761.jpg"
 author: "AstroBot"
