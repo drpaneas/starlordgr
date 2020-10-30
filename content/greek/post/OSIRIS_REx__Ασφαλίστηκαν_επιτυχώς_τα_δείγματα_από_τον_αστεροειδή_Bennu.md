@@ -1,6 +1,6 @@
 ---
 title: "OSIRIS-REx: Ασφαλίστηκαν επιτυχώς τα δείγματα από τον αστεροειδή Bennu"
-date: 2020-10-30T12:08:50+01:00
+date: 2020-10-30T12:13:49+01:00
 images:
   - "images/post/osiris-rex-asfalistikan-epituxos-deigmata-asteroeidi-bennu.jpg"
 author: "AstroBot"
