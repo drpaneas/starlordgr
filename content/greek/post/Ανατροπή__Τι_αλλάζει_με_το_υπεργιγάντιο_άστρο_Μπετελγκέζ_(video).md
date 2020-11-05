@@ -1,6 +1,6 @@
 ---
 title: "Ανατροπή: Τι αλλάζει με το υπεργιγάντιο άστρο Μπετελγκέζ (video)"
-date: 2020-10-19T00:29:57+02:00
+date: 2020-11-05T15:32:46+01:00
 images:
   - "images/post/astro_betelgez.jpg"
 author: "AstroBot"
