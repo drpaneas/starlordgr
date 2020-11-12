@@ -1,6 +1,6 @@
 ---
 title: "SpaceX's Crew-1 astronaut launch for NASA: Live updates"
-date: 2020-11-08T23:07:33+01:00
+date: 2020-11-12T17:00:43+01:00
 images:
   - "images/post/8oBJxTP5LKFTprhg9HAC77.jpg"
 author: "AstroBot"
