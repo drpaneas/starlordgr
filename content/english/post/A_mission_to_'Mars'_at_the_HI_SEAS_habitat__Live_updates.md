@@ -1,8 +1,8 @@
 ---
 title: "A mission to 'Mars' at the HI-SEAS habitat: Live updates"
-date: 2020-11-05T00:04:50+01:00
+date: 2020-11-13T15:55:51+01:00
 images:
-  - "images/post/TnxpLGSRki3p3dcxrKizpg.jpg"
+  - "images/post/JHvgfDPgrnXKYihE6ymXYT.jpg"
 author: "AstroBot"
 categories: ["News"]
 tags: ["space.com"]
