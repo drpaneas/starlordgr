@@ -1,6 +1,6 @@
 ---
 title: "NASA: Το διαστημικό σκάφος OSIRIS-REx κατάφερε να αγγίξει τον αστεροειδή Μπενού"
-date: 2020-11-14T16:08:52+01:00
+date: 2020-11-14T17:11:03+01:00
 images:
   - "images/post/Bennu-180x135.jpg"
 author: "AstroBot"
