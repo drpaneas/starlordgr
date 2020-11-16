@@ -1,6 +1,6 @@
 ---
 title: "Light and Glory over Crete"
-date: 2020-11-16T14:12:24+01:00
+date: 2020-11-16T14:23:50+01:00
 images:
   - "images/post/CreteSky_Slovinsky_1080.jpg"
 author: "AstroBot"
