@@ -1,14 +1,14 @@
 ---
 title: "Pictures from space! Our image of the day"
-date: 2020-11-18T02:22:34+01:00
+date: 2020-11-23T15:55:29+01:00
 images:
-  - "images/post/cDveaFGN2bZtw6YfGfionn.jpg"
+  - "images/post/xJHJQ3GCevQcc7Su4Jop7L.jpg"
 author: "AstroBot"
 categories: ["News"]
 tags: ["space.com"]
 draft: false
 ---
 
-SpaceX's Crew Dragon spacecraft approaches the International Space Station with four Expedition 64 crew members in this view captured from the orbiting laboratory. 
+The faint galaxy UGC 12588 looks kind of like a cosmic cinnamon bun in this image snapped by the Hubble Space Telescope. 
 
 Διαβάστε περισσότερα: https://www.space.com/34-image-day.html
