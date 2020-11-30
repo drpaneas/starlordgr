@@ -1,6 +1,6 @@
 ---
 title: "Best telescopes 2020: Top picks for beginners, viewing planets, astrophotography and all-arounders"
-date: 2020-11-25T18:29:40+01:00
+date: 2020-11-30T12:04:59+01:00
 images:
   - "images/post/46UNUtB7KJ7wERiSaeT7oa.png"
 author: "AstroBot"
