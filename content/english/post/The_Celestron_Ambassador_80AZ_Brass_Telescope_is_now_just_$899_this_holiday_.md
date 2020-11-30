@@ -1,6 +1,6 @@
 ---
 title: "The Celestron Ambassador 80AZ Brass Telescope is now just $899 this holiday "
-date: 2020-11-28T17:16:20+01:00
+date: 2020-11-30T15:11:58+01:00
 images:
   - "images/post/eYQ5Z29ngjmACA5HJv6Dui.jpg"
 author: "AstroBot"
