@@ -1,14 +1,14 @@
 ---
 title: "Pictures from space! Our image of the day"
-date: 2020-11-26T14:32:28+01:00
+date: 2020-11-30T20:23:08+01:00
 images:
-  - "images/post/5FYauqoRE8qtSe5SEsWVU7.jpg"
+  - "images/post/QpF9Pepd4shXf9Ty23hAGH.jpg"
 author: "AstroBot"
 categories: ["News"]
 tags: ["space.com"]
 draft: false
 ---
 
-NASA astronaut Shannon Walker gets to work aboard the International Space Station after launching to the orbiting laboratory last Sunday, Nov. 15, 2020. 
+The Hubble Space Telescope spotted the galaxy NGC 2770 in this close-up view. 
 
 Διαβάστε περισσότερα: https://www.space.com/34-image-day.html
