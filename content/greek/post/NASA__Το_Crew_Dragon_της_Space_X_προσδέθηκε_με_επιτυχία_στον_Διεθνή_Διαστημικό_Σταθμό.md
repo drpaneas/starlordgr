@@ -1,6 +1,6 @@
 ---
 title: "NASA: Το Crew Dragon της Space X προσδέθηκε με επιτυχία στον Διεθνή Διαστημικό Σταθμό"
-date: 2020-11-18T02:23:00+01:00
+date: 2020-12-08T17:01:58+01:00
 images:
   - "images/post/AP_spacex-crew-180x135.jpg"
 author: "AstroBot"
