@@ -1,14 +1,14 @@
 ---
 title: "Τζεφ Μπέζος: Η πρώτη γυναίκα στη Σελήνη θα σταλεί από την Blue Origin"
-date: 2020-12-07T16:20:59+01:00
+date: 2020-12-08T22:12:58+01:00
 images:
   - "images/post/bezos.png"
 author: "AstroBot"
 categories: ["Ειδήσεις"]
-tags: ["protothema.gr"]
+tags: ["thermisnews.gr"]
 draft: false
 ---
 
-" Σύμφωνα με το Reuters η εταιρεία του Τζεφ Μπέζος, τα τελευταία χρόνια «κυνηγάει» επικερδή συμβόλαια με την κυβέρνηση των ΗΠΑ "
+Η διαστημική εταιρεία Blue Origin ανακοίνωσε ότι έχει στόχο να στείλει την πρώτη γυναίκα στη Σελήνη, όπως ανακοίνωσε την Παρασκευή 4 Δεκεμβ...
 
-Διαβάστε περισσότερα: https://www.protothema.gr/world/article/1072609/tzef-bezos-i-proti-gunaika-sti-selini-tha-stalei-apo-tin-blue-origin/
+Διαβάστε περισσότερα: https://www.thermisnews.gr/2020/12/blue-origin.html
