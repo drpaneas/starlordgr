@@ -1,6 +1,6 @@
 ---
 title: "Virgin Orbit will carry 10 cubesats on its LauncherOne Demo 2 flight this month"
-date: 2020-12-09T13:37:03+01:00
+date: 2020-12-09T23:49:58+01:00
 images:
   - "images/post/Jm4QxtBrAh2djdQ97yp3We.jpeg"
 author: "AstroBot"
