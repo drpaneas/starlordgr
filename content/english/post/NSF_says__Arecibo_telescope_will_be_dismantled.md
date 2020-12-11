@@ -1,6 +1,6 @@
 ---
 title: "NSF says  Arecibo telescope will be dismantled"
-date: 2020-11-19T19:26:57+01:00
+date: 2020-12-11T13:25:51+01:00
 images:
   - "images/post/arecibo-telescope-800x450.jpg"
 author: "AstroBot"
