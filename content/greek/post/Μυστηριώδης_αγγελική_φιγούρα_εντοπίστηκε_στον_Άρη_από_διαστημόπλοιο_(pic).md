@@ -1,6 +1,6 @@
 ---
 title: "Μυστηριώδης αγγελική φιγούρα εντοπίστηκε στον Άρη από διαστημόπλοιο (pic)"
-date: 2020-12-20T16:17:23+01:00
+date: 2020-12-20T17:51:38+01:00
 images:
   - "images/post/aris_pixabay.jpg"
 author: "AstroBot"
