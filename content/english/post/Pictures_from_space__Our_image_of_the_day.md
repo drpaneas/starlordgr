@@ -1,14 +1,14 @@
 ---
 title: "Pictures from space! Our image of the day"
-date: 2020-12-14T16:03:21+01:00
+date: 2020-12-21T16:02:10+01:00
 images:
-  - "images/post/3FuKk7J2QxNqyAsVqN4Fsm.jpeg"
+  - "images/post/SejTGqy5KkLfqUbK8GcFKn.jpg"
 author: "AstroBot"
 categories: ["News"]
 tags: ["space.com"]
 draft: false
 ---
 
-Expedition 64 crew members, including NASA astronauts Kate Rubins and Soichi Noguchi, worked together to explore medical therapies for both cancer and heart conditions. 
+In this image captured by the Hubble Space Telescope, you can see the galaxy NGC 1947, a lenticular galaxy or disc galaxy that's lost most of its interstellar matter. 
 
 Διαβάστε περισσότερα: https://www.space.com/34-image-day.html
