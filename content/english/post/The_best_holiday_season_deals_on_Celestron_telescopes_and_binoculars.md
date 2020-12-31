@@ -1,6 +1,6 @@
 ---
 title: "The best holiday season deals on Celestron telescopes and binoculars"
-date: 2020-12-25T20:01:37+01:00
+date: 2020-12-31T17:27:53+01:00
 images:
   - "images/post/yHVDNTC7EEeQod62duFTXD.jpg"
 author: "AstroBot"
