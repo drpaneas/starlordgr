@@ -1,14 +1,14 @@
 ---
 title: "Pictures from space! Our image of the day"
-date: 2020-12-28T17:24:56+01:00
+date: 2021-01-05T15:45:33+01:00
 images:
-  - "images/post/fqKFmQwSUmaGPeqU73ALAe.jpg"
+  - "images/post/5PGmmvhQHubYFY9npKPjCZ.jpg"
 author: "AstroBot"
 categories: ["News"]
 tags: ["space.com"]
 draft: false
 ---
 
-This crop of radishes on the International Space Station is a welcome sight of green for astronauts living aboard the orbiting lab. 
+The astronauts currently living and working on the International Space Station posed for a festive photo to ring in the new year as 2020 became 2021. 
 
 Διαβάστε περισσότερα: https://www.space.com/34-image-day.html
