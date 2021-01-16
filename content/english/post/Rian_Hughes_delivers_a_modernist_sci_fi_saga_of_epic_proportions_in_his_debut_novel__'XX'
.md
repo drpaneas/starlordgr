@@ -1,7 +1,7 @@
 ---
 title: "Rian Hughes delivers a modernist sci-fi saga of epic proportions in his debut novel, 'XX'
 "
-date: 2021-01-16T01:27:15+01:00
+date: 2021-01-16T13:31:25+01:00
 images:
   - "images/post/3XuaiX3xtqbMDaR483vAyC.jpg"
 author: "AstroBot"
