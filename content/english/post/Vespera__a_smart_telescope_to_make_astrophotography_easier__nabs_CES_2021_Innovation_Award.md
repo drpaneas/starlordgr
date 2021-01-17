@@ -1,6 +1,6 @@
 ---
 title: "Vespera, a smart telescope to make astrophotography easier, nabs CES 2021 Innovation Award"
-date: 2021-01-17T01:35:38+01:00
+date: 2021-01-17T13:41:12+01:00
 images:
   - "images/post/NtuLQaeXJ9yATumtTzdRkE.jpg"
 author: "AstroBot"
