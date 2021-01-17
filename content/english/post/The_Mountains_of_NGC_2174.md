@@ -1,6 +1,6 @@
 ---
 title: "The Mountains of NGC 2174"
-date: 2021-01-16T13:32:10+01:00
+date: 2021-01-17T01:37:20+01:00
 images:
   - "images/post/hs-2014-18_n2174rotate1024.jpg"
 author: "AstroBot"
