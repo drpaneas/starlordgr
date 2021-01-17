@@ -1,6 +1,6 @@
 ---
 title: "Astronaut William Thornton, who invented space shuttle treadmill, dies at 91"
-date: 2021-01-16T13:31:11+01:00
+date: 2021-01-17T01:36:20+01:00
 images:
   - "images/post/ED2bHCcAyGhJqEvhTam7MK.jpg"
 author: "AstroBot"
