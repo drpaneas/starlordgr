@@ -1,6 +1,6 @@
 ---
 title: "How do stars die?"
-date: 2021-01-18T01:46:31+01:00
+date: 2021-01-18T13:54:34+01:00
 images:
   - "images/post/mJ4y3WsYY2GdknbmZSFsJW.jpg"
 author: "AstroBot"
