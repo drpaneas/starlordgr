@@ -1,6 +1,6 @@
 ---
 title: "2020 ties record for the hottest year ever, NASA analysis shows"
-date: 2021-01-17T13:42:28+01:00
+date: 2021-01-18T01:49:29+01:00
 images:
   - "images/post/yE4M3QQdXzxvjsiTFUn765.jpg"
 author: "AstroBot"
