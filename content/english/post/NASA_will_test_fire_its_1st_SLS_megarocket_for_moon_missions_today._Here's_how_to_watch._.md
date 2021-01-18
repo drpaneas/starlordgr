@@ -1,6 +1,6 @@
 ---
 title: "NASA will test-fire its 1st SLS megarocket for moon missions today. Here's how to watch. "
-date: 2021-01-17T13:40:39+01:00
+date: 2021-01-18T01:47:45+01:00
 images:
   - "images/post/bFiZtYnSQHBhDwkYSUt5yG.jpg"
 author: "AstroBot"
