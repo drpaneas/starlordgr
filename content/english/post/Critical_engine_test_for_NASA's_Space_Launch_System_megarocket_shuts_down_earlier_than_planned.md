@@ -1,6 +1,6 @@
 ---
 title: "Critical engine test for NASA's Space Launch System megarocket shuts down earlier than planned"
-date: 2021-01-17T13:39:33+01:00
+date: 2021-01-18T01:46:45+01:00
 images:
   - "images/post/2oZcxUCeeGHNDnQQtS4gbV.jpg"
 author: "AstroBot"
