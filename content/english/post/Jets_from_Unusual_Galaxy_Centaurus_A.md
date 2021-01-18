@@ -1,6 +1,6 @@
 ---
 title: "Jets from Unusual Galaxy Centaurus A"
-date: 2021-01-17T13:43:13+01:00
+date: 2021-01-18T01:50:28+01:00
 images:
   - "images/post/CenAjets_EsoNasa_960.jpg"
 author: "AstroBot"
