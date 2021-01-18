@@ -1,6 +1,6 @@
 ---
 title: "The UK is Considering Nuclear Propulsion in Space"
-date: 2021-01-17T13:43:42+01:00
+date: 2021-01-18T01:50:57+01:00
 images:
   - "images/post/copy-of-space-banner-2200-766.jpg"
 author: "AstroBot"
