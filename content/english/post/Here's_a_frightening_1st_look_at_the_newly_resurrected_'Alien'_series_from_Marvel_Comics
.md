@@ -1,7 +1,7 @@
 ---
 title: "Here's a frightening 1st look at the newly-resurrected 'Alien' series from Marvel Comics
 "
-date: 2021-01-18T01:47:59+01:00
+date: 2021-01-18T13:56:14+01:00
 images:
   - "images/post/6Vhvxnu8o9tH7SBXmKkcDK.jpg"
 author: "AstroBot"
