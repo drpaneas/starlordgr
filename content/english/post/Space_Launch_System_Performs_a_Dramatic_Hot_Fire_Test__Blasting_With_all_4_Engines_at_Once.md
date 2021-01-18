@@ -1,6 +1,6 @@
 ---
 title: "Space Launch System Performs a Dramatic Hot Fire Test, Blasting With all 4 Engines at Once"
-date: 2021-01-17T13:43:27+01:00
+date: 2021-01-18T01:50:42+01:00
 images:
   - "images/post/SLS_standing-2000x1200.jpg"
 author: "AstroBot"
