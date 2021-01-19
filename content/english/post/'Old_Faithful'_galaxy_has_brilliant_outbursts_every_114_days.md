@@ -1,6 +1,6 @@
 ---
 title: "'Old Faithful' galaxy has brilliant outbursts every 114 days"
-date: 2021-01-18T13:54:19+01:00
+date: 2021-01-19T12:58:35+01:00
 images:
   - "images/post/nrrXM9rjkXhZSdPHeSmsAC.jpg"
 author: "AstroBot"
