@@ -1,6 +1,6 @@
 ---
 title: "Virgin Orbit launches 10 satellites to orbit in landmark test flight"
-date: 2021-01-18T13:54:03+01:00
+date: 2021-01-19T12:58:19+01:00
 images:
   - "images/post/LwuovesMPogVY6TUj92G3i.jpg"
 author: "AstroBot"
