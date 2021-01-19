@@ -1,6 +1,6 @@
 ---
 title: "A neutron-star crash spotted 3 years ago is still pumping out X-rays. But why?"
-date: 2021-01-18T13:53:15+01:00
+date: 2021-01-19T12:57:31+01:00
 images:
   - "images/post/KDoErJFrxYA7mY8FqEAevR.jpg"
 author: "AstroBot"
