@@ -1,6 +1,6 @@
 ---
 title: "Citizen scientists create 3D map of brown dwarfs in our sun's neighborhood"
-date: 2021-01-18T13:53:32+01:00
+date: 2021-01-19T12:57:47+01:00
 images:
   - "images/post/mt99S9xedaJaDBDXTX37a4.jpg"
 author: "AstroBot"
