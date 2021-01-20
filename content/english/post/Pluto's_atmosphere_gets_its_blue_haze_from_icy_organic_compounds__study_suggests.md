@@ -1,6 +1,6 @@
 ---
 title: "Pluto's atmosphere gets its blue haze from icy organic compounds, study suggests"
-date: 2021-01-20T01:02:41+01:00
+date: 2021-01-20T13:14:14+01:00
 images:
   - "images/post/uTurumNukJFSGXMXUctodg.jpg"
 author: "AstroBot"
