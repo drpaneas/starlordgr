@@ -1,6 +1,6 @@
 ---
 title: "The Magnetic Fields Swirling Within the Whirlpool Galaxy"
-date: 2021-01-20T01:07:19+01:00
+date: 2021-01-20T13:18:29+01:00
 images:
   - "images/post/4162.jpg"
 author: "AstroBot"
