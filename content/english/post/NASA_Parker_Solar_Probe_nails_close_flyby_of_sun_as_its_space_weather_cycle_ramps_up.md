@@ -1,6 +1,6 @@
 ---
 title: "NASA Parker Solar Probe nails close flyby of sun as its space weather cycle ramps up"
-date: 2021-01-20T01:02:11+01:00
+date: 2021-01-20T13:13:38+01:00
 images:
   - "images/post/RG6wREQapQqxTNN6pLfqee.jpg"
 author: "AstroBot"
