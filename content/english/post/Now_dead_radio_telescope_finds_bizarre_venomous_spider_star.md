@@ -1,6 +1,6 @@
 ---
 title: "Now-dead radio telescope finds bizarre venomous-spider star"
-date: 2021-01-20T01:03:45+01:00
+date: 2021-01-20T13:15:27+01:00
 images:
   - "images/post/8SD2xEC3Eu94FuN57smBkA.jpg"
 author: "AstroBot"
