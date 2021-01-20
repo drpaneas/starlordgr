@@ -1,6 +1,6 @@
 ---
 title: "Subscribe to your favorite magazines from just $12 for 12 months!"
-date: 2021-01-20T01:03:11+01:00
+date: 2021-01-20T13:14:47+01:00
 images:
   - "images/post/cSrPrHhB4YxxN5SQtw2MeX.jpg"
 author: "AstroBot"
