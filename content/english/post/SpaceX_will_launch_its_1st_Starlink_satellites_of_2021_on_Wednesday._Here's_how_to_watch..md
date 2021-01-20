@@ -1,6 +1,6 @@
 ---
 title: "SpaceX will launch its 1st Starlink satellites of 2021 on Wednesday. Here's how to watch."
-date: 2021-01-20T01:03:30+01:00
+date: 2021-01-20T13:15:10+01:00
 images:
   - "images/post/6Zt2meURLjtUFVwjTmsn37.jpg"
 author: "AstroBot"
