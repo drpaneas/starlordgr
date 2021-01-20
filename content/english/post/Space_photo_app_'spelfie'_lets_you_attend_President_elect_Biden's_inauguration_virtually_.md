@@ -1,6 +1,6 @@
 ---
 title: "Space photo app 'spelfie' lets you attend President-elect Biden's inauguration virtually "
-date: 2021-01-20T01:01:38+01:00
+date: 2021-01-20T13:13:02+01:00
 images:
   - "images/post/vcVjPdCdHcVsSUYQhpM29.png"
 author: "AstroBot"
