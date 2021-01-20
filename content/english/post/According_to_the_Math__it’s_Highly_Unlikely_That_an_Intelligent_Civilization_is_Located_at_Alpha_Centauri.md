@@ -1,6 +1,6 @@
 ---
 title: "According to the Math, it’s Highly Unlikely That an Intelligent Civilization is Located at Alpha Centauri"
-date: 2021-01-18T13:59:06+01:00
+date: 2021-01-20T01:08:48+01:00
 images:
   - "images/post/ParkesTelescopeNight-1824x1200.jpg"
 author: "AstroBot"
