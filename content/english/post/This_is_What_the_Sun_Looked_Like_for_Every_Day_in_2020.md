@@ -1,6 +1,6 @@
 ---
 title: "This is What the Sun Looked Like for Every Day in 2020"
-date: 2021-01-18T13:58:51+01:00
+date: 2021-01-20T01:08:33+01:00
 images:
   - "images/post/The_Sun_in_2020_pillars-1920x1200.jpg"
 author: "AstroBot"
