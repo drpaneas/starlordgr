@@ -1,6 +1,6 @@
 ---
 title: "SpaceX rocket launches on record 8th flight carrying 60 Starlink satellites, nails landing"
-date: 2021-01-21T01:22:54+01:00
+date: 2021-01-21T13:33:08+01:00
 images:
   - "images/post/VzCv9GKP3bycNhiY6Nrt38.jpg"
 author: "AstroBot"
