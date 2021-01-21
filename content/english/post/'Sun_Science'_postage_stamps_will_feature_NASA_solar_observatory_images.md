@@ -1,6 +1,6 @@
 ---
 title: "'Sun Science' postage stamps will feature NASA solar observatory images"
-date: 2021-01-21T01:22:40+01:00
+date: 2021-01-21T13:32:52+01:00
 images:
   - "images/post/9BzWLqWoAcR4fJuWkLgEde.jpg"
 author: "AstroBot"
