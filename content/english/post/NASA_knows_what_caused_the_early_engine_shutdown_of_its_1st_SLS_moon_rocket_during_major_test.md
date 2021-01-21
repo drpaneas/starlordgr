@@ -1,6 +1,6 @@
 ---
 title: "NASA knows what caused the early engine shutdown of its 1st SLS moon rocket during major test"
-date: 2021-01-20T13:13:19+01:00
+date: 2021-01-21T01:25:03+01:00
 images:
   - "images/post/pgDDUrJGZjLn6r6PniqfnA.jpg"
 author: "AstroBot"
