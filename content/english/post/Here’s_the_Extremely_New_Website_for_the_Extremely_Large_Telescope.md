@@ -1,6 +1,6 @@
 ---
 title: "Here’s the Extremely New Website for the Extremely Large Telescope"
-date: 2021-01-20T13:19:18+01:00
+date: 2021-01-21T01:28:52+01:00
 images:
   - "images/post/ann21001a.jpg"
 author: "AstroBot"
