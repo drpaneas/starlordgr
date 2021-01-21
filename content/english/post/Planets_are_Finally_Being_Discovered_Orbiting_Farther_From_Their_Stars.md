@@ -1,6 +1,6 @@
 ---
 title: "Planets are Finally Being Discovered Orbiting Farther From Their Stars"
-date: 2021-01-20T13:19:02+01:00
+date: 2021-01-21T13:39:09+01:00
 images:
   - "images/post/jovian-2000x1200.jpg"
 author: "AstroBot"
