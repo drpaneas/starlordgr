@@ -1,6 +1,6 @@
 ---
 title: "What Happens to Their Supermassive Black Holes When Galaxies Collide?"
-date: 2021-01-20T13:17:57+01:00
+date: 2021-01-21T01:27:54+01:00
 images:
   - "images/post/4167.jpg"
 author: "AstroBot"
