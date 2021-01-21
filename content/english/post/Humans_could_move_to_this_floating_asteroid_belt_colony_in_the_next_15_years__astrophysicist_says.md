@@ -1,6 +1,6 @@
 ---
 title: "Humans could move to this floating asteroid belt colony in the next 15 years, astrophysicist says"
-date: 2021-01-21T01:23:23+01:00
+date: 2021-01-21T13:33:41+01:00
 images:
   - "images/post/xMnYeJyZBB58Kzz7N8qYei.jpg"
 author: "AstroBot"
