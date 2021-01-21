@@ -1,6 +1,6 @@
 ---
 title: "Earth is hotter than ever — So what happens next?"
-date: 2021-01-20T13:12:45+01:00
+date: 2021-01-21T01:24:33+01:00
 images:
   - "images/post/xvyjP2tjxTJpfAMJdCtgFB.jpg"
 author: "AstroBot"
