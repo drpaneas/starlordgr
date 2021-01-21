@@ -1,6 +1,6 @@
 ---
 title: "This is a Simulation of the Interstellar Medium Flowing Like Smoke Throughout the Milky Way"
-date: 2021-01-21T01:27:40+01:00
+date: 2021-01-21T13:37:52+01:00
 images:
   - "images/post/ISM-turbulence-1-1000x1200.jpg"
 author: "AstroBot"
