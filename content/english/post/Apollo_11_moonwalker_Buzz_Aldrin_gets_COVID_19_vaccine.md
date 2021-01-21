@@ -1,6 +1,6 @@
 ---
 title: "Apollo 11 moonwalker Buzz Aldrin gets COVID-19 vaccine"
-date: 2021-01-21T01:24:19+01:00
+date: 2021-01-21T13:34:44+01:00
 images:
   - "images/post/jzZqF4MHWcCEiMbhf433mY.jpg"
 author: "AstroBot"
