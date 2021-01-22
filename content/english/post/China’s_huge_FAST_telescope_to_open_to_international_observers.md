@@ -1,6 +1,6 @@
 ---
 title: "China’s huge FAST telescope to open to international observers"
-date: 2021-01-22T01:45:50+01:00
+date: 2021-01-22T13:56:21+01:00
 images:
   - "images/post/FAST-telescope-China.jpg"
 author: "AstroBot"
