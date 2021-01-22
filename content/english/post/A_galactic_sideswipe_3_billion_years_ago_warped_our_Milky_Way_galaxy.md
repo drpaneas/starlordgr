@@ -1,6 +1,6 @@
 ---
 title: "A galactic sideswipe 3 billion years ago warped our Milky Way galaxy"
-date: 2021-01-22T01:43:20+01:00
+date: 2021-01-22T13:54:33+01:00
 images:
   - "images/post/QxSMGg5Vx6p7TYvwfRwuAJ.jpg"
 author: "AstroBot"
