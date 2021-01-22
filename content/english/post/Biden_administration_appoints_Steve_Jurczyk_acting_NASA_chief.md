@@ -1,6 +1,6 @@
 ---
 title: "Biden administration appoints Steve Jurczyk acting NASA chief"
-date: 2021-01-22T01:42:48+01:00
+date: 2021-01-22T13:54:00+01:00
 images:
   - "images/post/HDNDkboGuATLwNXA29y7oH.jpg"
 author: "AstroBot"
