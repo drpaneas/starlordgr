@@ -1,6 +1,6 @@
 ---
 title: "Απροσδόκητη διακοπή δοκιμής του θηριωδούς πυραύλου SLS της NASA"
-date: 2021-01-22T01:49:49+01:00
+date: 2021-01-22T14:00:55+01:00
 images:
   - "images/post/sls-nasa.jpg"
 author: "AstroBot"
