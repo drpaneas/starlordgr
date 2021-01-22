@@ -1,6 +1,6 @@
 ---
 title: "Out of space, NASA is demolishing Apollo and space shuttle launch platform"
-date: 2021-01-21T13:32:36+01:00
+date: 2021-01-22T01:44:19+01:00
 images:
   - "images/post/P6MiPYJ8aKrZHz5cuT3axY.jpg"
 author: "AstroBot"
