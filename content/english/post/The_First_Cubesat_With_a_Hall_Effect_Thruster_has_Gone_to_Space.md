@@ -1,6 +1,6 @@
 ---
 title: "The First Cubesat With a Hall-Effect Thruster has Gone to Space"
-date: 2021-01-22T01:49:21+01:00
+date: 2021-01-22T14:00:26+01:00
 images:
   - "images/post/download-1.jpg"
 author: "AstroBot"
