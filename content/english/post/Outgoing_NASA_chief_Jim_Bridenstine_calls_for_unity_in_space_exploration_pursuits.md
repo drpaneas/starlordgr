@@ -1,6 +1,6 @@
 ---
 title: "Outgoing NASA chief Jim Bridenstine calls for unity in space exploration pursuits"
-date: 2021-01-21T13:32:01+01:00
+date: 2021-01-22T01:43:49+01:00
 images:
   - "images/post/EoNnCmqLwkWUW4ZZDyQWxY.jpg"
 author: "AstroBot"
