@@ -1,6 +1,6 @@
 ---
 title: "The Solar Wind is More Attracted to the Earth’s North Pole Than the South. Why?"
-date: 2021-01-21T13:38:23+01:00
+date: 2021-01-22T01:48:52+01:00
 images:
   - "images/post/Energy_from_solar_wind_favours_the_north_pillars-2000x1080.jpg"
 author: "AstroBot"
