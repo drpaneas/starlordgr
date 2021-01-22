@@ -1,6 +1,6 @@
 ---
 title: "Astronomers Confirm That Darksat is About Half as Bright as an Unpainted Starlink"
-date: 2021-01-21T13:37:37+01:00
+date: 2021-01-22T01:48:09+01:00
 images:
   - "images/post/The_trail_of_Darksat.jpg"
 author: "AstroBot"
