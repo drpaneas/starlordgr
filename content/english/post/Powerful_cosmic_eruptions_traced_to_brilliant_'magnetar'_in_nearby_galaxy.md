@@ -1,6 +1,6 @@
 ---
 title: "Powerful cosmic eruptions traced to brilliant 'magnetar' in nearby galaxy"
-date: 2021-01-22T01:42:34+01:00
+date: 2021-01-22T13:53:45+01:00
 images:
   - "images/post/UMoxNjPGpLxUSoABvbG85S.jpg"
 author: "AstroBot"
