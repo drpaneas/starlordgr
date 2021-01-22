@@ -1,6 +1,6 @@
 ---
 title: "A Habitat at Ceres Could be the Gateway to the Outer Solar System"
-date: 2021-01-21T13:37:06+01:00
+date: 2021-01-22T13:58:38+01:00
 images:
   - "images/post/Cylinder_Endcap_AC75-1883_1920-1920x1200.jpg"
 author: "AstroBot"
