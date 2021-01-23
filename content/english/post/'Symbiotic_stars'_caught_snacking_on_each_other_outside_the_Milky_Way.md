@@ -1,6 +1,6 @@
 ---
 title: "'Symbiotic stars' caught snacking on each other outside the Milky Way"
-date: 2021-01-22T13:52:23+01:00
+date: 2021-01-23T14:09:17+01:00
 images:
   - "images/post/EaMkvXedYuQ5gFuzNzhgbZ.jpg"
 author: "AstroBot"
