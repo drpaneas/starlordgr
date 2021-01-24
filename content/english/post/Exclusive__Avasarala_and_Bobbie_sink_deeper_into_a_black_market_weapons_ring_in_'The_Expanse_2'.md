@@ -1,6 +1,6 @@
 ---
 title: "Exclusive: Avasarala and Bobbie sink deeper into a black market weapons ring in 'The Expanse #2'"
-date: 2021-01-23T14:07:07+01:00
+date: 2021-01-24T02:18:04+01:00
 images:
   - "images/post/mbfPEkUeoGUfmikVakQS4W.jpg"
 author: "AstroBot"
