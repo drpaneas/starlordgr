@@ -1,6 +1,6 @@
 ---
 title: "Πρώτη ανάπτυξη δορυφόρου για την Virgin Orbit"
-date: 2021-01-24T02:25:07+01:00
+date: 2021-01-24T14:36:13+01:00
 images:
   - "images/post/launcher-one.jpg"
 author: "AstroBot"
