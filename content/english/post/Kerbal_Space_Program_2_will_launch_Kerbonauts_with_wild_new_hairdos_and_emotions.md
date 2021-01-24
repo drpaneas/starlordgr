@@ -1,6 +1,6 @@
 ---
 title: "Kerbal Space Program 2 will launch Kerbonauts with wild new hairdos and emotions"
-date: 2021-01-23T14:09:03+01:00
+date: 2021-01-24T02:19:47+01:00
 images:
   - "images/post/9QnpdnEFfyvZ23dy227Tim.jpg"
 author: "AstroBot"
