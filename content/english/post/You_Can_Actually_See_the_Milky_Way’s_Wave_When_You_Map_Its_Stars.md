@@ -1,6 +1,6 @@
 ---
 title: "You Can Actually See the Milky Way’s Wave When You Map Its Stars"
-date: 2021-01-24T02:22:29+01:00
+date: 2021-01-24T14:33:30+01:00
 images:
   - "images/post/4181.jpg"
 author: "AstroBot"
