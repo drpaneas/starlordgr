@@ -1,6 +1,6 @@
 ---
 title: "Bernie Sanders in space! These inauguration mitten memes are out of this world"
-date: 2021-01-23T14:06:48+01:00
+date: 2021-01-24T02:17:48+01:00
 images:
   - "images/post/vfTtT6y3CE373NCAYWWeUK.jpg"
 author: "AstroBot"
