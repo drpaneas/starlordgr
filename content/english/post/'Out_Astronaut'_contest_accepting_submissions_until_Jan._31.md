@@ -1,6 +1,6 @@
 ---
 title: "'Out Astronaut' contest accepting submissions until Jan. 31"
-date: 2021-01-23T14:08:34+01:00
+date: 2021-01-24T02:19:19+01:00
 images:
   - "images/post/q8juM8mm7L6DHaRn6q77bV.jpg"
 author: "AstroBot"
