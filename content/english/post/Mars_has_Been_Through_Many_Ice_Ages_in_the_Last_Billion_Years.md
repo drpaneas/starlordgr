@@ -1,6 +1,6 @@
 ---
 title: "Mars has Been Through Many Ice Ages in the Last Billion Years"
-date: 2021-01-24T02:24:24+01:00
+date: 2021-01-24T14:35:28+01:00
 images:
   - "images/post/ESP_025174_2245.jpg"
 author: "AstroBot"
