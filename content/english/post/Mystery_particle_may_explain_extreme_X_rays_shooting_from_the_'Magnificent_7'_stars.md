@@ -1,6 +1,6 @@
 ---
 title: "Mystery particle may explain extreme X-rays shooting from the 'Magnificent 7' stars"
-date: 2021-01-24T02:18:48+01:00
+date: 2021-01-24T14:30:16+01:00
 images:
   - "images/post/RJWL36W79jxSzjTuF3NQan.jpg"
 author: "AstroBot"
