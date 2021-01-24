@@ -1,6 +1,6 @@
 ---
 title: "NASA’s moon rocket test Saturday didn’t go as planned"
-date: 2021-01-24T02:21:15+01:00
+date: 2021-01-24T14:32:17+01:00
 images:
   - "images/post/nasa-sls-test-jan16-2020-Stennis-Space-Center-MS-2-800x450.png"
 author: "AstroBot"
