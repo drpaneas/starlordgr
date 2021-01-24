@@ -1,6 +1,6 @@
 ---
 title: "Strange Green Star is the Result of a Merger Between two White Dwarfs"
-date: 2021-01-24T02:24:10+01:00
+date: 2021-01-24T14:35:14+01:00
 images:
   - "images/post/binary.jpg"
 author: "AstroBot"
