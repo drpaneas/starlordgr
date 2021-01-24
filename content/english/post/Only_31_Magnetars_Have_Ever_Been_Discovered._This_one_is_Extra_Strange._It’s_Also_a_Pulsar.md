@@ -1,6 +1,6 @@
 ---
 title: "Only 31 Magnetars Have Ever Been Discovered. This one is Extra Strange. It’s Also a Pulsar"
-date: 2021-01-23T14:12:41+01:00
+date: 2021-01-24T02:23:42+01:00
 images:
   - "images/post/4098.jpg"
 author: "AstroBot"
