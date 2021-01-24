@@ -1,6 +1,6 @@
 ---
 title: "NASA mole failed to dig deep into Mars. What’s next?"
-date: 2021-01-24T02:20:44+01:00
+date: 2021-01-24T14:31:33+01:00
 images:
   - "images/post/The-mole-on-Mars-InSight-oct3-2020-800.gif"
 author: "AstroBot"
