@@ -1,6 +1,6 @@
 ---
 title: "Virgin Orbit Successfully Launches a Batch of Satellites From an Airplane"
-date: 2021-01-24T02:23:13+01:00
+date: 2021-01-24T14:34:15+01:00
 images:
   - "images/post/VirginOrbit.jpg"
 author: "AstroBot"
