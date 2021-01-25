@@ -1,6 +1,6 @@
 ---
 title: "SpaceX delays launch of 143 satellites on a single rocket due to bad weather"
-date: 2021-01-25T02:39:37+01:00
+date: 2021-01-25T14:51:49+01:00
 images:
   - "images/post/9MjUG38WkobfxeCTBU6QKN.jpg"
 author: "AstroBot"
