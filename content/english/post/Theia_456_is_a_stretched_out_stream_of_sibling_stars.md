@@ -1,6 +1,6 @@
 ---
 title: "Theia 456 is a stretched-out stream of sibling stars"
-date: 2021-01-25T02:44:40+01:00
+date: 2021-01-25T14:56:37+01:00
 images:
   - "images/post/stellar-streams-suns-location-milky-way-800x451.png"
 author: "AstroBot"
