@@ -1,6 +1,6 @@
 ---
 title: "Starships Will be Launching From These Oil Drilling Platforms Bought by SpaceX"
-date: 2021-01-25T02:45:24+01:00
+date: 2021-01-25T14:57:30+01:00
 images:
   - "images/post/Screenshot_2021-01-24-Starship-Earth-to-Earth.jpg"
 author: "AstroBot"
