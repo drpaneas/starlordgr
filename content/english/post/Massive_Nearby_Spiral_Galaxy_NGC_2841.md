@@ -1,6 +1,6 @@
 ---
 title: "Massive Nearby Spiral Galaxy NGC 2841"
-date: 2021-01-24T14:33:15+01:00
+date: 2021-01-25T02:44:55+01:00
 images:
   - "images/post/ngc2841_hstColombari_960.jpg"
 author: "AstroBot"
