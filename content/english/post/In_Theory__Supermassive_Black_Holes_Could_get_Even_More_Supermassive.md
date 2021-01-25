@@ -1,6 +1,6 @@
 ---
 title: "In Theory, Supermassive Black Holes Could get Even More Supermassive"
-date: 2021-01-25T02:46:35+01:00
+date: 2021-01-25T14:58:45+01:00
 images:
   - "images/post/slab.jpg"
 author: "AstroBot"
