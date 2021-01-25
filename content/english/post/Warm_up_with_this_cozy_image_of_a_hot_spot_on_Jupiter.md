@@ -1,6 +1,6 @@
 ---
 title: "Warm up with this cozy image of a hot spot on Jupiter"
-date: 2021-01-24T14:28:45+01:00
+date: 2021-01-25T02:40:21+01:00
 images:
   - "images/post/Hud2svMeyEFkBkt8mGHYUe.jpg"
 author: "AstroBot"
