@@ -1,6 +1,6 @@
 ---
 title: "The Universe in Formation. Hubble Sees 6 Examples of Merging Galaxies"
-date: 2021-01-24T14:33:58+01:00
+date: 2021-01-25T02:46:50+01:00
 images:
   - "images/post/All-6-Mosaic-2000x1200.jpg"
 author: "AstroBot"
