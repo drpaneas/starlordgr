@@ -1,6 +1,6 @@
 ---
 title: "Dawn Aerospace aims to launch New Zealand's 1st space plane from a conventional airport"
-date: 2021-01-25T02:41:28+01:00
+date: 2021-01-25T14:53:38+01:00
 images:
   - "images/post/ZEe9ffa8TsCJAfS4ikW9pF.jpg"
 author: "AstroBot"
