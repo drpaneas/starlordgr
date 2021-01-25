@@ -1,6 +1,6 @@
 ---
 title: "How to see the 'Great Hexagon' of bright winter stars this weekend"
-date: 2021-01-25T02:40:06+01:00
+date: 2021-01-25T14:52:21+01:00
 images:
   - "images/post/jG5A9uYJRgvLscMEHcDYZ4.jpg"
 author: "AstroBot"
