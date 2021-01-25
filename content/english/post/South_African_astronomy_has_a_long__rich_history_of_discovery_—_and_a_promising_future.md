@@ -1,6 +1,6 @@
 ---
 title: "South African astronomy has a long, rich history of discovery — and a promising future"
-date: 2021-01-24T14:27:29+01:00
+date: 2021-01-25T02:39:05+01:00
 images:
   - "images/post/NxtS4NdYJ4Lriuw3ZMNvPk.jpg"
 author: "AstroBot"
