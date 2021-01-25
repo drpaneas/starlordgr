@@ -1,6 +1,6 @@
 ---
 title: "3-D Printing on the Moon. From Regolith to Paste to Useful Objects and Structures"
-date: 2021-01-25T02:45:38+01:00
+date: 2021-01-25T14:57:45+01:00
 images:
   - "images/post/4224.jpg"
 author: "AstroBot"
