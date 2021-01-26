@@ -1,6 +1,6 @@
 ---
 title: "Massive Binary Stars Huddle Up Surprisingly Quickly"
-date: 2021-01-25T14:58:01+01:00
+date: 2021-01-26T03:11:46+01:00
 images:
   - "images/post/4226.jpg"
 author: "AstroBot"
