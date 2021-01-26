@@ -1,6 +1,6 @@
 ---
 title: "Hear the strange music of distant planetary system TOI-178"
-date: 2021-01-26T03:06:52+01:00
+date: 2021-01-26T15:20:52+01:00
 images:
   - "images/post/TOI-178-system-seen-from-above-artist-800x450.jpg"
 author: "AstroBot"
