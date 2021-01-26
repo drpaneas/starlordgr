@@ -1,6 +1,6 @@
 ---
 title: "An Active Galaxy That Erupts Predictably Every 114 Days Or So"
-date: 2021-01-26T03:10:48+01:00
+date: 2021-01-26T15:25:31+01:00
 images:
   - "images/post/nrrXM9rjkXhZSdPHeSmsAC-970-80-1.jpg"
 author: "AstroBot"
