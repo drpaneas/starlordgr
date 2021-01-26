@@ -1,6 +1,6 @@
 ---
 title: "Southern Cross over Chilean Volcano"
-date: 2021-01-25T14:56:53+01:00
+date: 2021-01-26T03:09:35+01:00
 images:
   - "images/post/SouthernCross_Slovinsky_960.jpg"
 author: "AstroBot"
