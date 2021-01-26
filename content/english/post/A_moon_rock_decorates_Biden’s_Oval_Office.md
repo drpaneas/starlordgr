@@ -1,6 +1,6 @@
 ---
 title: "A moon rock decorates Biden’s Oval Office"
-date: 2021-01-25T14:54:23+01:00
+date: 2021-01-26T03:07:22+01:00
 images:
   - "images/post/oval_office_moon_rock_2021-cp.png"
 author: "AstroBot"
