@@ -1,6 +1,6 @@
 ---
 title: "A New Idea to Harness Energy From Black Holes"
-date: 2021-01-26T03:11:03+01:00
+date: 2021-01-26T15:25:46+01:00
 images:
   - "images/post/bh_visualization-2000x1200.jpg"
 author: "AstroBot"
