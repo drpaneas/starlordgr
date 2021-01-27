@@ -1,6 +1,6 @@
 ---
 title: "Away From the Light Pollution of the Inner Solar System, New Horizons was Able to see how Dark the Universe Really is"
-date: 2021-01-27T03:39:00+01:00
+date: 2021-01-27T14:31:36+01:00
 images:
   - "images/post/949px-New_Horizons_1.jpg"
 author: "AstroBot"
