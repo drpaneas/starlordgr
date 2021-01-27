@@ -1,6 +1,6 @@
 ---
 title: "Preliminary investigation offers possible cause of Arecibo Observatory telescope collapse"
-date: 2021-01-26T15:18:11+01:00
+date: 2021-01-27T03:33:46+01:00
 images:
   - "images/post/iYyV7v9anNsfsKvXtGPTzc.jpg"
 author: "AstroBot"
