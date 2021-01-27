@@ -1,6 +1,6 @@
 ---
 title: "'Sextuply-eclipsing sextuple star system' discovered whirling through the Milky Way"
-date: 2021-01-27T03:31:08+01:00
+date: 2021-01-27T14:23:43+01:00
 images:
   - "images/post/mPK36mz92u2TgUt3GiRLcU.jpg"
 author: "AstroBot"
