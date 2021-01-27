@@ -1,6 +1,6 @@
 ---
 title: "'Elves' and 'blue jet' lightning in Earth's stratosphere spotted from space"
-date: 2021-01-27T03:30:51+01:00
+date: 2021-01-27T14:23:29+01:00
 images:
   - "images/post/j9QPhWDpziLydxWJRCz8vc.gif"
 author: "AstroBot"
