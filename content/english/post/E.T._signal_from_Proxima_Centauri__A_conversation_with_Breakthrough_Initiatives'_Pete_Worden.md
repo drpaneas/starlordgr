@@ -1,6 +1,6 @@
 ---
 title: "E.T. signal from Proxima Centauri? A conversation with Breakthrough Initiatives' Pete Worden"
-date: 2021-01-27T03:33:18+01:00
+date: 2021-01-27T14:25:57+01:00
 images:
   - "images/post/x6tZvQutqgGNC4xgu8i4vb.jpg"
 author: "AstroBot"
