@@ -1,6 +1,6 @@
 ---
 title: "'Blade Runner: 2029' exclusive: Ash returns to the rain-soaked streets of future Los Angeles"
-date: 2021-01-27T03:32:49+01:00
+date: 2021-01-27T14:25:25+01:00
 images:
   - "images/post/Lbrzi6zdq5hFQhLaVYNU6Z.jpg"
 author: "AstroBot"
