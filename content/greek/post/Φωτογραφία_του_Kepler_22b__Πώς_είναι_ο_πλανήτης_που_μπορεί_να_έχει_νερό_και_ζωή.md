@@ -1,6 +1,6 @@
 ---
 title: "Φωτογραφία του Kepler-22b: Πώς είναι ο πλανήτης που μπορεί να έχει νερό και ζωή"
-date: 2021-01-27T03:42:35+01:00
+date: 2021-01-27T14:35:11+01:00
 images:
   - "images/post/kepler22.jpg"
 author: "AstroBot"
