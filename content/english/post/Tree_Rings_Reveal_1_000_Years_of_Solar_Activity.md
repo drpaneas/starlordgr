@@ -1,6 +1,6 @@
 ---
 title: "Tree Rings Reveal 1,000 Years of Solar Activity"
-date: 2021-01-26T15:24:25+01:00
+date: 2021-01-27T03:39:29+01:00
 images:
   - "images/post/253857_web.jpg"
 author: "AstroBot"
