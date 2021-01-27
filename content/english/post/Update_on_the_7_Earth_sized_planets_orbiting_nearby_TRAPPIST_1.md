@@ -1,6 +1,6 @@
 ---
 title: "Update on the 7 Earth-sized planets orbiting nearby TRAPPIST-1"
-date: 2021-01-26T15:21:06+01:00
+date: 2021-01-27T03:35:27+01:00
 images:
   - "images/post/TRAPPIST1_earthsize_planets.jpg"
 author: "AstroBot"
