@@ -1,6 +1,6 @@
 ---
 title: "Galaxies eject gas when they merge, preventing new stars forming – new research"
-date: 2021-01-26T15:17:56+01:00
+date: 2021-01-27T03:33:32+01:00
 images:
   - "images/post/ZbMpMLsGVPbDQkvKsYGNGE.jpg"
 author: "AstroBot"
