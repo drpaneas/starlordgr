@@ -1,6 +1,6 @@
 ---
 title: "Scientists spot 6 alien worlds orbiting a star in strange — but precise — harmony"
-date: 2021-01-26T15:17:27+01:00
+date: 2021-01-27T03:33:04+01:00
 images:
   - "images/post/dyxECdciqa5CxVhTohKfRT.jpg"
 author: "AstroBot"
