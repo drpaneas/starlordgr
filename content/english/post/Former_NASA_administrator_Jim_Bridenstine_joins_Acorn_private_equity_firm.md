@@ -1,6 +1,6 @@
 ---
 title: "Former NASA administrator Jim Bridenstine joins Acorn private equity firm"
-date: 2021-01-27T03:31:52+01:00
+date: 2021-01-27T14:24:27+01:00
 images:
   - "images/post/EfeTz7saPFenWzUbaQRi8j.jpg"
 author: "AstroBot"
