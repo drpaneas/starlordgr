@@ -1,6 +1,6 @@
 ---
 title: "There are Seven Rocky Planets in the TRAPPIST-1 System and They’re Surprisingly Similar"
-date: 2021-01-27T03:39:57+01:00
+date: 2021-01-27T14:32:39+01:00
 images:
   - "images/post/PIA23870-1c.width-1280.jpg"
 author: "AstroBot"
