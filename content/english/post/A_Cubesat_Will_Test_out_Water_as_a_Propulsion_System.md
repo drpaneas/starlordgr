@@ -1,6 +1,6 @@
 ---
 title: "A Cubesat Will Test out Water as a Propulsion System"
-date: 2021-01-27T03:38:47+01:00
+date: 2021-01-27T14:31:21+01:00
 images:
   - "images/post/4207.jpg"
 author: "AstroBot"
