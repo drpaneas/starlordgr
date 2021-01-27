@@ -1,6 +1,6 @@
 ---
 title: "Central NGC 1316: After Galaxies Collide"
-date: 2021-01-26T15:23:52+01:00
+date: 2021-01-27T03:38:03+01:00
 images:
   - "images/post/NGC1316Center_HubbleNobre_960.jpg"
 author: "AstroBot"
