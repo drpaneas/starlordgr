@@ -1,6 +1,6 @@
 ---
 title: "Boeing targets a March 25 launch for next Starliner test flight for NASA"
-date: 2021-01-26T15:16:23+01:00
+date: 2021-01-27T03:32:06+01:00
 images:
   - "images/post/nEFG2x9vpUnNngX2wY4te5.jpg"
 author: "AstroBot"
