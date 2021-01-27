@@ -1,0 +1,1664 @@
+<!DOCTYPE html>
+<html lang="el" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+	<head>
+		<link rel="dns-prefetch" href="//disqus.com/">
+		<link rel="dns-prefetch" href="//iefimerida.disqus.com/">
+		<link rel="dns-prefetch" href="//realtime.services.disqus.com">
+		<link rel="dns-prefetch" href="//cdn.taboola.com">
+		<link rel="dns-prefetch" href="//vidstat.taboola.com">
+		<link rel="dns-prefetch" href="//cdn.onesignal.com">
+		<link rel="dns-prefetch" href="//s.reembed.com">
+		<link rel="dns-prefetch" href="//twpasol.com">
+		<link rel="apple-touch-icon" href="/apple/apple-touch-icon.png?13"/>
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple/apple-touch-icon-57x57.png?13"/>
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple/apple-touch-icon-72x72.png?13"/>
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple/apple-touch-icon-76x76.png?13"/>
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple/apple-touch-icon-114x114.png?13"/>
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple/apple-touch-icon-120x120.png?13"/>
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple/apple-touch-icon-144x144.png?13"/>
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple/apple-touch-icon-152x152.png?13"/>
+		    <script type="text/javascript">
+      var gdpr_consent_pg = '0';
+      var gdpr_string = '';
+    </script>
+		<meta charset="utf-8" />
+<script>window.google_analytics_uacct = "UA-45720825-1";(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-45720825-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/403.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<link rel="shortlink" href="http://www.iefimerida.gr/" />
+<link rel="canonical" href="http://www.iefimerida.gr/" />
+<script>
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+
+
+  fbq('init', '590266244822380', [], {
+    "agent": "pldrupal-8-8.9.6"
+});
+
+  fbq('track', 'PageView', []);
+</script>
+<noscript>
+
+
+<img height="1" width="1" alt="fbpx" src="https://www.facebook.com/tr?id=590266244822380&amp;ev=PageView&amp;noscript=1" />
+
+
+</noscript>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="dns-prefetch" href="//securepubads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//cdn.orangeclickmedia.com/">
+<style>
+.qc-cmp2-persistent-link {
+  z-index: 99 !important;
+}
+</style>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  var slots = [];
+</script>
+<script type="text/javascript">
+  function initAds(serveNonPersonalized) {
+    if (window._adsInitialized) {
+      return;
+    }
+
+    var script = document.createElement('script');
+    script.async = 1;
+    script.src = "//cdn.orangeclickmedia.com/tech/iefimerida_ll.gr/ocm.js";
+    document.head.appendChild(script);
+    var script = document.createElement('script');
+    script.async = 1;
+    script.src = "//securepubads.g.doubleclick.net/tag/js/gpt.js";
+    document.head.appendChild(script);
+
+    if (typeof serveNonPersonalized !== undefined) {
+      googletag.cmd.push(function () {
+        googletag.pubads().setRequestNonPersonalizedAds(serveNonPersonalized);
+      });
+    }
+
+    googletag.cmd.push(function() {
+        // Initialize the google variables.
+            var mapping = googletag.sizeMapping().
+                addSize([0, 0], [300, 250]).
+                addSize([340, 200], [[300, 250], [320, 100], [320, 50], [336, 280]]).
+                addSize([750, 200], [728, 90]).
+                addSize([1024, 200], [[970, 250], [970, 90], [728, 90]]).
+                build();
+            var mapping2 = googletag.sizeMapping().
+                addSize([0, 0], [[320, 90], 'fluid']).
+                addSize([490, 200], [[468, 60], [320, 90]]).
+                addSize([740, 200], [[715, 90], [468, 60]]).
+                build();
+            var mobile_sticky = googletag.sizeMapping()
+	.addSize([0,0],[[320,100],[320,50]])
+	.addSize([340,0],[[320,100],[320,50]])
+	.addSize([768,0],[])
+	.addSize([1024,0],[])
+	.build();
+            googletag.defineSlot("/17536639/iefimerida.gr/skin", [[1340, 800], [1, 1]], "skin")
+                        .addService(googletag.pubads());
+            googletag.defineSlot("/17536639/iefimerida.gr/prestitial", [1, 1], "prestitial")
+                        .addService(googletag.pubads());
+            googletag.defineSlot("/17536639/iefimerida.gr/ros_undermenu", [[970, 250], [970, 90], [728, 90], [320], [100], [320, 50], [300, 250], [336, 280]], "ros_undermenu")
+                        .defineSizeMapping(mapping)
+                .addService(googletag.pubads());
+            googletag.defineSlot("/17536639/iefimerida.gr/ros_sidebar_1", [[300, 600], [300, 250], [336, 280]], "ros_sidebar_1")
+                        .addService(googletag.pubads());
+            googletag.defineSlot("/17536639/iefimerida.gr/ros_sidebar_2", [[300, 600], [300, 250], [336, 280]], "ros_sidebar_2")
+                        .addService(googletag.pubads());
+      	googletag.defineSlot('/17536639/iefimerida.gr/mobile_sticky', [[320,100],[320,50]], 'div-gpt-ad-ocm-sticky-ad').defineSizeMapping(mobile_sticky).addService(googletag.pubads());
+            googletag.pubads().setTargeting("ksg", Krux.segments);
+      googletag.pubads().setTargeting("kuid", Krux.user);
+
+            googletag.pubads().enableSingleRequest();
+                  googletag.pubads().collapseEmptyDivs(true);
+            googletag.pubads().setCentering(true);
+            googletag.pubads().disableInitialLoad();
+            googletag.enableServices();
+    });
+
+    var script2 = document.createElement('script');
+    script2.async = 1;
+    script2.src = "//agorahtag.tech/c/iefimerida.js";
+    document.head.appendChild(script2);
+
+    var script3 = document.createElement('script');
+    script3.async = 1;
+    script3.src = "//cdn.elasticad.net/native/serve/js/quantx/nativeEmbed.gz.js";
+    script3.id = "quantx-embed-tag";
+    document.head.appendChild(script3);
+
+    window._adsInitialized = true;
+}
+
+  document.addEventListener("InfiniteScroll", function(e) {
+    var nid = e.detail.nid;
+    if (!nid){
+      return false;
+    }
+    var adslots = e.detail.adslots.toArray();
+    var node_slots = [];
+    googletag.cmd.push(function() {
+            var mapping = googletag.sizeMapping().
+                addSize([0, 0], [300, 250]).
+                addSize([340, 200], [[300, 250], [320, 100], [320, 50], [336, 280]]).
+                addSize([750, 200], [728, 90]).
+                addSize([1024, 200], [[970, 250], [970, 90], [728, 90]]).
+                build();
+            var mapping2 = googletag.sizeMapping().
+                addSize([0, 0], [[320, 90], 'fluid']).
+                addSize([490, 200], [[468, 60], [320, 90]]).
+                addSize([740, 200], [[715, 90], [468, 60]]).
+                build();
+      
+                                                                if (adslots.indexOf("ros_sidebar_1") > -1) {
+          node_slots.push(googletag.defineSlot("/17536639/iefimerida.gr/ros_sidebar_1", [[300, 600], [300, 250], [336, 280]], "ros_sidebar_1" + "-" + nid)
+                    .addService(googletag.pubads()));
+        }
+                              if (adslots.indexOf("ros_sidebar_2") > -1) {
+          node_slots.push(googletag.defineSlot("/17536639/iefimerida.gr/ros_sidebar_2", [[300, 600], [300, 250], [336, 280]], "ros_sidebar_2" + "-" + nid)
+                    .addService(googletag.pubads()));
+        }
+                  });
+    slots[nid] = node_slots;
+  });
+</script><link rel="shortcut icon" href="/themes/on/images/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Δεν επιτρέπεται η πρόσβαση | iefimerida.gr</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_mz5aZ1AE_GlCgfm4Xk5LiV7m7x9qxE_Ov9jJvVUEoLo.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_v9SqI6TRTMiQ_id-yW4hU09oLsS0wD1xRcxO6bmueIU.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+    <link rel='manifest' href='/manifest.json'/>
+    <script src='https://cdn.onesignal.com/sdks/OneSignalSDK.js' async=''></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+        OneSignal.push(function () {
+          OneSignal.init({
+          appId: 'e3c7fd1e-2174-4348-8fd1-33aa2c13ce03',
+          notifyButton: {
+            enable: true
+          }
+          });
+        });
+    </script>
+        <script type="text/javascript">
+      function setUpAgknTag(tag) {
+        tag.setBpId("synapsisgreece");
+        tag.setCat(ocm_category);
+        tag.setGdpr(gdpr_consent_pg);
+        if (gdpr_consent_pg === '1') {
+          tag.setGdprConsent(gdpr_string);
+        }
+      }
+    </script>
+    <script src="//js.agkn.com/prod/v0/tag.js" async></script>
+    <!-- BEGIN ControlTag for "Iefimerida.gr" -->
+    <script class="kxct" data-id="uvtt414qn" data-timing="async" data-version="3.0" type="text/javascript">
+      (function () {
+        var k = document.createElement('script');
+        k.type = 'text/javascript';
+        k.async = true;
+        k.src = (location.protocol === 'https:' ? 'https:' : 'http:') + '//cdn.krxd.net/controltag/uvtt414qn.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(k, s);
+      }());
+    </script>
+    <!-- END ControlTag -->
+    <!-- BEGIN Krux for "Iefimerida.gr" -->
+    <script class="kxint" type="text/javascript">
+      window.Krux || ((Krux = function () {
+        Krux.q.push(arguments);
+      }).q =[]);
+      function retrieve(n) {
+        var k = 'kx' + '' + n,
+        ls = (function () {
+          try {
+            return window.localStorage;
+          }
+          catch (e) {
+            return null;
+          }
+        } )();
+
+        if (ls) {
+          return ls[k] || '';
+        }
+        else if (navigator.cookieEnabled) {
+          var m = document.cookie.match(k + '=([^;]*)');
+          return(m && unescape(m[1])) || '';
+        }
+        else {
+          return '';
+        }
+      }
+
+      Krux.user = retrieve('user');
+      Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : [];
+    </script>
+    <!-- END Krux -->
+  </head>
+  <body class="not-front page-403">
+    <script type='text/javascript'>
+      var nuggprof = '';
+      var nuggtg = encodeURIComponent('__CONTENT_TAG__');
+      var nuggrid = encodeURIComponent(top.location.href);
+      var nuggscr = document.createElement('script');
+      nuggscr.type = 'text/javascript';
+      nuggscr.src = '//adweb.nuggad.net/rc?nuggn=1230610253&nuggsid=318828595&nuggtg=' + nuggtg + '&nuggrid=' + nuggrid + '';
+      var n = document.getElementsByTagName('script')[0];
+      n.parentNode.insertBefore(nuggscr, n);
+    </script>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="skin-wrapper">
+  <div class="ad-block ad-skin" data-slot="skin">
+      <div class="ad-container" id="skin">
+      <script type="text/javascript">
+        googletag.cmd.push(function () {
+          googletag.display('skin');
+        });
+      </script>
+    </div>
+  </div>
+
+</div>
+<div id="page-wrapper">
+  <div id="page">
+      <div class="search-wrapper region">
+    <div class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-3">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-search js-form-item-search">
+      <label for="edit-search">Search</label>
+        <input data-drupal-selector="edit-search" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper on-container" id="edit-actions"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="ΑΝΑΖΗΤΗΣΗ" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+  </div>
+
+  </div>
+
+    <header id="header" class="header" role="banner" aria-label="Κεφαλίδα ιστοσελίδας">
+      <div class="container-wrapper">
+        <div class="top-header-container">
+          <div class="social-block">
+            <a href="http://www.facebook.com/iefimerida" target="_blank">
+              <svg width="7px" height="15px" viewbox="0 0 7 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.487 4.491L4.487 2.858C4.487 2.858 4.487 2.45 5.099 2.45L6.732 2.45L6.732 0L3.879 0C3.879 0 1.633 0.194 1.633 2.246L1.633 4.491L0 4.491L0 6.94L1.633 6.94L1.633 14.085L4.487 14.085L4.487 6.94L6.324 6.94L6.732 4.491L4.487 4.491Z" id="Path_4" fill="#000000" stroke="none"/>
+              </svg>
+            </a>
+            <a href="http://www.twitter.com/iefimerida" target="_blank">
+              <svg width="15px" height="12px" viewbox="0 0 15 12" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14.56 1.44666L13.152 1.68066C13.152 1.68066 14.091 0.562656 14.091 0.0376568C14.091 0.0376568 12.917 0.976656 12.447 0.737658C7.08199 -1.94534 7.04699 3.55366 7.04699 3.55366C3.29198 3.55366 0.806984 0.288658 0.708984 0.502657C-0.464016 3.08466 1.88298 4.49366 1.64798 4.49366C1.21291 4.48453 0.795994 4.31748 0.474983 4.02366C0.559372 5.47953 1.47222 6.75758 2.82199 7.30966L1.41899 7.30966C1.88799 8.71766 4.23499 9.42166 4.23499 9.42166C3.29699 10.5957 -0.211006 10.7527 0.00999451 10.8317C13.16 15.5307 13.16 2.85466 13.16 2.85466C13.16 2.85466 14.56 1.77866 14.56 1.44666" id="Path_6" fill="#000000" stroke="none"/>
+              </svg>
+            </a>
+            <a href="http://www.flickr.com/photos/60935369@N02/" target="_blank">
+              <svg width="15px" height="15px" viewbox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M10.7584 8.93416C11.5286 8.6149 12.0306 7.86301 12.0302 7.02924C12.0302 5.89153 11.1079 4.96924 9.9702 4.96924C9.13642 4.96883 8.38454 5.47083 8.06528 6.24107C7.74602 7.0113 7.92229 7.89802 8.51186 8.48759C9.10143 9.07716 9.98814 9.25342 10.7584 8.93416ZM6.15221 7.03632C6.15221 7.86951 5.65031 8.62066 4.88054 8.93951C4.11076 9.25836 3.22472 9.08211 2.63557 8.49296C2.04641 7.9038 1.87017 7.01776 2.18902 6.24799C2.50787 5.47822 3.25902 4.97632 4.09221 4.97632C5.22969 4.97687 6.15166 5.89884 6.15221 7.03632M14.0602 7.0292C14.0602 4.18683 12.3474 1.62344 9.72047 0.535332C7.09354 -0.552778 4.06981 0.0486794 2.05924 2.05925C0.0486755 4.06981 -0.55278 7.09354 0.535332 9.72047C1.62344 12.3474 4.18684 14.0602 7.0302 14.0602C8.89493 14.0605 10.6833 13.3198 12.0018 12.0011C13.3203 10.6825 14.0607 8.89393 14.0602 7.0292" id="Path_7" fill="#000000" fill-rule="evenodd" stroke="none"/>
+              </svg>
+            </a>
+            <a href="http://www.youtube.com/user/iefimerida1?feature=mhum" target="_blank">
+              <?xml version="1.0" encoding="utf-8"?>
+              <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 71.412065 50" xml:space="preserve" inkscape:version="0.91 r13725" sodipodi:docname="YouTube_dark_icon (2017).svg" width="71.412064" height="50">
+                <g id="g5" transform="scale(0.58823529,0.58823529)"><path class="st0" d="M 118.9,13.3 C 117.5,8.1 113.4,4 108.2,2.6 98.7,0 60.7,0 60.7,0 60.7,0 22.7,0 13.2,2.5 8.1,3.9 3.9,8.1 2.5,13.3 0,22.8 0,42.5 0,42.5 0,42.5 0,62.3 2.5,71.7 3.9,76.9 8,81 13.2,82.4 22.8,85 60.7,85 60.7,85 c 0,0 38,0 47.5,-2.5 5.2,-1.4 9.3,-5.5 10.7,-10.7 2.5,-9.5 2.5,-29.2 2.5,-29.2 0,0 0.1,-19.8 -2.5,-29.3 z" id="path7" inkscape:connector-curvature="0" style="fill:#000000;fill-opacity:1"/><polygon class="st1" points="80.2,42.5 48.6,24.3 48.6,60.7 " id="polygon9" style="fill:#ffffff"/></g>
+              </svg>
+            </a>
+            <a href="https://www.instagram.com/iefimerida.gr/" target="_blank">
+              <svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12.3708 12.3145C12.4445 12.2409 12.486 12.1411 12.486 12.0369L12.482 5.91992L11.167 5.91992C11.6436 7.65971 10.9774 9.51151 9.50171 10.5489C8.02599 11.5864 6.058 11.5864 4.58228 10.5489C3.10654 9.51151 2.44035 7.65971 2.91699 5.91992L1.60199 5.91992L1.60199 12.0369C1.60199 12.1411 1.64343 12.2409 1.71716 12.3145C1.79089 12.388 1.89085 12.4292 1.995 12.4289L12.093 12.4289C12.1971 12.4292 12.2971 12.388 12.3708 12.3145ZM7.04601 4.354C8.13805 4.354 9.12257 5.01184 9.54048 6.02076C9.95839 7.02968 9.72739 8.191 8.9552 8.96319C8.183 9.73539 7.02168 9.96639 6.01276 9.54848C5.00385 9.13057 4.34601 8.14605 4.34601 7.054C4.34601 5.56284 5.55484 4.35401 7.04601 4.354M9.76599 1.99994C9.76599 1.78288 9.94196 1.60693 10.159 1.60694L12.059 1.60694C12.1634 1.60667 12.2636 1.64796 12.3375 1.72169C12.4114 1.79542 12.453 1.89553 12.453 1.99993L12.453 3.89993C12.4524 4.11699 12.276 4.29249 12.059 4.29193L10.159 4.29193C9.94234 4.29194 9.76656 4.11659 9.76599 3.89993L9.76599 1.99994ZM12.388 1.90735e-06L1.672 1.90735e-06C0.750076 -0.00110245 0.00166321 0.745077 0 1.667L0 12.397C0.00167847 13.319 0.750122 14.0651 1.67204 14.064L12.388 14.064C13.3098 14.0651 14.0579 13.3188 14.059 12.397L14.059 1.672C14.0578 0.750158 13.3097 0.00385094 12.3879 0.00500298" id="Path_9" fill="#000000" fill-rule="evenodd" stroke="none"/>
+              </svg>
+            </a>
+            <a href="https://gr.pinterest.com/iefimerida/" target="_blank">
+              <svg width="12px" height="15px" viewBox="0 0 12 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M5.95597 0.00801468C2.00797 0.00801468 0.0179672 2.83901 0.0179672 5.19901C-0.120796 6.5057 0.553368 7.76441 1.71796 8.37301C1.79955 8.41609 1.8969 8.41717 1.97942 8.37592C2.06193 8.33466 2.11948 8.25613 2.13396 8.16501C2.17297 8.01901 2.26396 7.65101 2.30396 7.49801C2.37103 7.33435 2.32263 7.14606 2.18496 7.03502C1.80636 6.57845 1.61072 5.9976 1.63596 5.40502C1.62304 4.32617 2.05367 3.28935 2.82709 2.5371C3.60052 1.78485 4.64889 1.38316 5.72696 1.42602C7.95795 1.42602 9.18395 2.79002 9.18395 4.61102C9.18395 7.01101 8.12395 9.02802 6.54995 9.02802C6.14246 9.04843 5.74947 8.87427 5.49089 8.55868C5.23231 8.24309 5.13882 7.82353 5.23895 7.42802C5.5665 6.46793 5.81171 5.48171 5.97195 4.48002C6.01102 4.16093 5.91008 3.84055 5.69516 3.60147C5.48025 3.3624 5.17239 3.22803 4.85095 3.23302C3.96295 3.23302 3.25095 4.15202 3.25095 5.38402C3.24529 5.83582 3.33561 6.2837 3.51595 6.69801C3.51595 6.69801 2.60696 10.551 2.44695 11.226C2.25948 12.2693 2.25137 13.337 2.42295 14.383C2.42875 14.4283 2.46196 14.4653 2.50639 14.476C2.55081 14.4867 2.59721 14.4688 2.62295 14.431C3.2788 13.6198 3.78657 12.6994 4.12294 11.712C4.22295 11.342 4.70695 9.42801 4.70695 9.42801C5.16416 10.0952 5.92838 10.4852 6.73695 10.464C9.40795 10.464 11.2199 8.02901 11.2199 4.76901C11.1673 3.4354 10.5799 2.17916 9.59026 1.28362C8.60065 0.388079 7.29218 -0.0713272 5.95995 0.00901222" id="Path_8" fill="#000000" stroke="none"/>
+              </svg>
+            </a>
+          </div>
+            <div class="top_header-wrapper region">
+    <div id="block-searchblock-2">
+  
+    
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18"
+             height="18" viewBox="0 0 20.4 21.2" style="enable-background:new 0 0 20.4 21.2;" xml:space="preserve">
+          <style type="text/css">
+            .st0{fill:#000000;}
+          </style>
+          <defs>
+          </defs>
+          <g>
+            <g>
+              <path class="st0" d="M8.1,16.2C3.6,16.2,0,12.6,0,8.1S3.6,0,8.1,0c4.5,0,8.1,3.6,8.1,8.1S12.6,16.2,8.1,16.2z M8.1,2
+                C4.7,2,2,4.7,2,8.1s2.7,6.1,6.1,6.1c3.4,0,6.1-2.7,6.1-6.1S11.5,2,8.1,2z"/>
+            </g>
+            <g>
+              <rect x="15.2" y="11.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -7.2551 16.3838)" class="st0" width="2" height="10"/>
+            </g>
+          </g>
+          </svg>
+  </div>
+
+  </div>
+
+        </div>
+          <div class="header-wrapper region">
+    <div id="block-burger-block">
+  
+    
+      <span class="top"></span><span class="middle"></span><span class="bottom"></span>
+  </div>
+<div id="block-on-branding">
+  
+    
+        <a href="/" rel="home">
+      <img src="/themes/on/images/logo.svg" alt="Αρχική" />
+    </a>
+      
+</div>
+<div id="block-weatherblock">
+  
+    
+      <div class='weather-wrapper'><div class='weather-row'><div class='left-side'>ΑΘΗΝΑ</div><div class='right-side'>12°C</div></div></div><div class='time-wrapper'><div class='date'>27/01/2021</div><span class='divider'>/</span><div class='timer'>15:38</div></div>
+  </div>
+<div id="block-searchblock">
+  
+    
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18"
+             height="18" viewBox="0 0 20.4 21.2" style="enable-background:new 0 0 20.4 21.2;" xml:space="preserve">
+          <style type="text/css">
+            .st0{fill:#000000;}
+          </style>
+          <defs>
+          </defs>
+          <g>
+            <g>
+              <path class="st0" d="M8.1,16.2C3.6,16.2,0,12.6,0,8.1S3.6,0,8.1,0c4.5,0,8.1,3.6,8.1,8.1S12.6,16.2,8.1,16.2z M8.1,2
+                C4.7,2,2,4.7,2,8.1s2.7,6.1,6.1,6.1c3.4,0,6.1-2.7,6.1-6.1S11.5,2,8.1,2z"/>
+            </g>
+            <g>
+              <rect x="15.2" y="11.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -7.2551 16.3838)" class="st0" width="2" height="10"/>
+            </g>
+          </g>
+          </svg>
+  </div>
+
+  </div>
+
+          <div class="menu-wrapper region">
+    <nav role="navigation" aria-labelledby="block-kentrikiploigisi-menu" id="block-kentrikiploigisi">
+            
+  <h2 class="visually-hidden" id="block-kentrikiploigisi-menu">Κεντρική πλοήγηση</h2>
+  
+
+        
+              <ul data-region="menu" class="menu depth-0">
+                                        <li class="menu-item menu-item-depth-0">
+              <a href="/"><svg width="20" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.63 16.08"><defs><style>.cls-1{fill:red;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls-1" points="6.82 0 0 5.54 0 16.08 13.63 16.08 13.63 5.45 13.63 5.45 6.82 0"/></g></g></svg></a>
+            </li>
+                                          <li class="menu-item menu-item-depth-0">
+            <a href="/eidiseis" title="Όλες οι ειδήσεις και τα τελευταία νέα από την κορυφαία online εφημερίδα" data-drupal-link-system-path="eidiseis">ΕΙΔΗΣΕΙΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/stories" title="Stories" data-drupal-link-system-path="taxonomy/term/31">STORIES</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/politiki" title="Διαβάστε ειδήσεις και νέα από την πολιτική επικαιρότητα, την Κυβέρνηση, την Αντιπολίτευση, την Βουλή, τις εκλογές, τις δημοσκοπήσεις και τα κόμματα." data-drupal-link-system-path="taxonomy/term/2">ΠΟΛΙΤΙΚΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/ellada" title="Διαβάστε ειδήσεις, ρεπορτάζ και τα σημαντικότερα νέα από ολόκληρη την Ελλάδα. Ολες οι εξελίξεις και η έκτακτη επικαιρότητα." data-drupal-link-system-path="taxonomy/term/21">ΕΛΛΑΔΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/panellinies" data-drupal-link-system-path="taxonomy/term/240326">ΠΑΝΕΛΛΗΝΙΕΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/oikonomia" title="Διαβάστε ειδήσεις και τα σημαντικότερα νέα για την ελληνική και παγκόσμια Οικονομία, τις επιχειρήσεις, το Χρηματιστήριο και τις διεθνείς αγορές, την κρίση χρέους, την Τρόικα, το Μνημόνιο. Όλη η έκτακτη οικονομική επικαιρότητα." data-drupal-link-system-path="taxonomy/term/1">ΟΙΚΟΝΟΜΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/kosmos" title="Τα σημαντικότερα νέα και ειδήσεις από όλον τον κόσμο: Ενημερωθείτε για τις παγκόσμιες εξελίξεις και τη διεθνή επικαιρότητα. Έκτακτη επικαιρότητα." data-drupal-link-system-path="taxonomy/term/16">ΚΟΣΜΟΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/politismos" title="Διαβάστε νέα και ειδήσεις από το χώρο του Πολιτισμού, της Τέχνης και της αρχαιολογίας. Αρθρα και κριτικές για σινεμά, θεατρικές παραστάσεις και συναυλίες." data-drupal-link-system-path="taxonomy/term/26">ΠΟΛΙΤΙΣΜΟΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/tehnologia" title="Ολες οι ειδήσεις από τον κόσμο της Τεχνολογίας, της Επιστήμης, του Ιντερνετ και των smartphones. Ενημερωθείτε για τις εξελίξεις στα apps, τα λειτουργικά συστήματα, και τα επιστημονικά επιτεύγματα σε Μαθηματικά, Φυσική, Αστρονομία κλπ." data-drupal-link-system-path="taxonomy/term/20">ΤΕΧΝΟΛΟΓΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/zoi" title="Διαβάστε όλες τις ειδήσεις και τα νέα του lifestyle, της show biz, του θεάματος και της διασκέδασης. Διάσημοι, gossip και ό,τι συμβαίνει στις τηλεοπτικές σειρές." data-drupal-link-system-path="taxonomy/term/14">ΖΩΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/ygeia" title="Ειδήσεις και νέα από τον χώρος της Υγεία και της Ιατρικής: Σημαντικές ανακαλύψεις, επιστημονικές έρευνες και ανακοινώσεις" data-drupal-link-system-path="taxonomy/term/22">ΥΓΕΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/spor" title="Οι σημαντικότερες ειδήσεις και νέα από τον Αθλητισμό και τα Σπορ. Ρεπορτάζ για Ποδόσφαιρο, Champions League, Mundial, Μπάσκετ, Eurobasket, Euroleague, Βόλει, Τένις, Ποδηλασία" data-drupal-link-system-path="taxonomy/term/15">ΣΠΟΡ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/poli" title="Τα σημαντικότερα νέα για τα γεγονότα που συμβαίνουν στην Πόλη: Οδηγός ψυχαγωγίας και διασκέδασης" data-drupal-link-system-path="taxonomy/term/19">ΠΟΛΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/gynaika" title="Οσα ενδιαφέρουν τη γυναίκα σήμερα: fashion, μόδα, παπουτσια, μαγιο, ρουχα, νυφικα, αρώματα, μαγειρική, παιδί, ψυχολογία, διακόσμηση, σπίτι, beauty, fitness." data-drupal-link-system-path="taxonomy/term/3">ΓΥΝΑΙΚΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/travel" title="Νέα, ειδήσεις και προτάσεις για ταξίδια και αναψυχή" data-drupal-link-system-path="taxonomy/term/173939">TRAVEL</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <span>ΠΕΡΙΣΣΟΤΕΡΑ</span>
+                          <ul class="menu depth-1">
+                                        <li class="menu-item menu-item-depth-1">
+              <a href="/ekloges" title="Διαβάστε ειδήσεις και νέα για τις Εκλογές 2019 και για την πολιτική επικαιρότητα, την Κυβέρνηση, την Αντιπολίτευση, την Βουλή, τις δημοσκοπήσεις και τα κόμματα." data-drupal-link-system-path="taxonomy/term/240179">ΕΚΛΟΓΕΣ</a>
+                  
+            </li>
+                                          <li class="menu-item menu-item-depth-1">
+            <a href="/moyntompasket" title="Διαβάστε ειδήσεις και νέα για το Μουντομπάσκετ 2019 και για την Αθλητική Επικαιρότητα, τις Ομάδες, τους Αγώνες, τους Αθλητές, τα Αποτελέσματα και τη Διοργάνωση του Mundobasket στην Κίνα.." data-drupal-link-system-path="taxonomy/term/240975">ΜΟΥΝΤΟΜΠΑΣΚΕΤ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/green" title="Ειδήσεις και νέα από τον χώρο της οικολογίας και πρωτοβουλίες για την αειφόρο ανάπτυξη: Κλιματική αλλαγή και συνέπειες, απειλούμενα είδη, Φαινόμενο Θερμοκηπίου κλπ" data-drupal-link-system-path="taxonomy/term/17">GREEN</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/aytokinito" title="Διαβάστε ειδήσεις και νέα από τον χώρο του Αυτοκινήτου" data-drupal-link-system-path="taxonomy/term/97451">iAUTOKINITO</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/gastronomie" data-drupal-link-system-path="taxonomy/term/73196">iGASTRONOMIE</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/books" data-drupal-link-system-path="taxonomy/term/159420">iBOOKS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/videos" data-drupal-link-system-path="videos">iVIDEO</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/opinions" data-drupal-link-system-path="opinions">iOPINIONS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/zodia" title="Ζώδια" data-drupal-link-system-path="taxonomy/term/30">ΖΩΔΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/oscars" data-drupal-link-system-path="taxonomy/term/191306">OSCARS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/media" title="Διαβάστε ειδήσεις και νέα για τον χώρο των Μέσων Μαζικής Ενημέρωσης, της Δημοσιογραφίας και των Media " data-drupal-link-system-path="taxonomy/term/4">MEDIA</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/design" title="Διαβάστε ειδήσεις και νέα από τον κόσμο του Design" data-drupal-link-system-path="taxonomy/term/173938">DESIGN</a>
+                
+          </li>
+                  </ul>
+  
+          </li>
+                  </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-kentrikiploigisi-2-menu" id="block-kentrikiploigisi-2">
+            
+  <h2 class="visually-hidden" id="block-kentrikiploigisi-2-menu">Κεντρική πλοήγηση</h2>
+  
+
+        
+              <ul data-region="menu" class="menu depth-0">
+                                        <li class="menu-item menu-item-depth-0">
+              <a href="/"><svg width="20" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.63 16.08"><defs><style>.cls-1{fill:red;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls-1" points="6.82 0 0 5.54 0 16.08 13.63 16.08 13.63 5.45 13.63 5.45 6.82 0"/></g></g></svg></a>
+            </li>
+                                          <li class="menu-item menu-item-depth-0">
+            <a href="/eidiseis" title="Όλες οι ειδήσεις και τα τελευταία νέα από την κορυφαία online εφημερίδα" data-drupal-link-system-path="eidiseis">ΕΙΔΗΣΕΙΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/stories" title="Stories" data-drupal-link-system-path="taxonomy/term/31">STORIES</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/politiki" title="Διαβάστε ειδήσεις και νέα από την πολιτική επικαιρότητα, την Κυβέρνηση, την Αντιπολίτευση, την Βουλή, τις εκλογές, τις δημοσκοπήσεις και τα κόμματα." data-drupal-link-system-path="taxonomy/term/2">ΠΟΛΙΤΙΚΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/ellada" title="Διαβάστε ειδήσεις, ρεπορτάζ και τα σημαντικότερα νέα από ολόκληρη την Ελλάδα. Ολες οι εξελίξεις και η έκτακτη επικαιρότητα." data-drupal-link-system-path="taxonomy/term/21">ΕΛΛΑΔΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/panellinies" data-drupal-link-system-path="taxonomy/term/240326">ΠΑΝΕΛΛΗΝΙΕΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/oikonomia" title="Διαβάστε ειδήσεις και τα σημαντικότερα νέα για την ελληνική και παγκόσμια Οικονομία, τις επιχειρήσεις, το Χρηματιστήριο και τις διεθνείς αγορές, την κρίση χρέους, την Τρόικα, το Μνημόνιο. Όλη η έκτακτη οικονομική επικαιρότητα." data-drupal-link-system-path="taxonomy/term/1">ΟΙΚΟΝΟΜΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/kosmos" title="Τα σημαντικότερα νέα και ειδήσεις από όλον τον κόσμο: Ενημερωθείτε για τις παγκόσμιες εξελίξεις και τη διεθνή επικαιρότητα. Έκτακτη επικαιρότητα." data-drupal-link-system-path="taxonomy/term/16">ΚΟΣΜΟΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/politismos" title="Διαβάστε νέα και ειδήσεις από το χώρο του Πολιτισμού, της Τέχνης και της αρχαιολογίας. Αρθρα και κριτικές για σινεμά, θεατρικές παραστάσεις και συναυλίες." data-drupal-link-system-path="taxonomy/term/26">ΠΟΛΙΤΙΣΜΟΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/tehnologia" title="Ολες οι ειδήσεις από τον κόσμο της Τεχνολογίας, της Επιστήμης, του Ιντερνετ και των smartphones. Ενημερωθείτε για τις εξελίξεις στα apps, τα λειτουργικά συστήματα, και τα επιστημονικά επιτεύγματα σε Μαθηματικά, Φυσική, Αστρονομία κλπ." data-drupal-link-system-path="taxonomy/term/20">ΤΕΧΝΟΛΟΓΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/zoi" title="Διαβάστε όλες τις ειδήσεις και τα νέα του lifestyle, της show biz, του θεάματος και της διασκέδασης. Διάσημοι, gossip και ό,τι συμβαίνει στις τηλεοπτικές σειρές." data-drupal-link-system-path="taxonomy/term/14">ΖΩΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/ygeia" title="Ειδήσεις και νέα από τον χώρος της Υγεία και της Ιατρικής: Σημαντικές ανακαλύψεις, επιστημονικές έρευνες και ανακοινώσεις" data-drupal-link-system-path="taxonomy/term/22">ΥΓΕΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/spor" title="Οι σημαντικότερες ειδήσεις και νέα από τον Αθλητισμό και τα Σπορ. Ρεπορτάζ για Ποδόσφαιρο, Champions League, Mundial, Μπάσκετ, Eurobasket, Euroleague, Βόλει, Τένις, Ποδηλασία" data-drupal-link-system-path="taxonomy/term/15">ΣΠΟΡ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/poli" title="Τα σημαντικότερα νέα για τα γεγονότα που συμβαίνουν στην Πόλη: Οδηγός ψυχαγωγίας και διασκέδασης" data-drupal-link-system-path="taxonomy/term/19">ΠΟΛΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/gynaika" title="Οσα ενδιαφέρουν τη γυναίκα σήμερα: fashion, μόδα, παπουτσια, μαγιο, ρουχα, νυφικα, αρώματα, μαγειρική, παιδί, ψυχολογία, διακόσμηση, σπίτι, beauty, fitness." data-drupal-link-system-path="taxonomy/term/3">ΓΥΝΑΙΚΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/travel" title="Νέα, ειδήσεις και προτάσεις για ταξίδια και αναψυχή" data-drupal-link-system-path="taxonomy/term/173939">TRAVEL</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <span>ΠΕΡΙΣΣΟΤΕΡΑ</span>
+                          <ul class="menu depth-1">
+                                        <li class="menu-item menu-item-depth-1">
+              <a href="/ekloges" title="Διαβάστε ειδήσεις και νέα για τις Εκλογές 2019 και για την πολιτική επικαιρότητα, την Κυβέρνηση, την Αντιπολίτευση, την Βουλή, τις δημοσκοπήσεις και τα κόμματα." data-drupal-link-system-path="taxonomy/term/240179">ΕΚΛΟΓΕΣ</a>
+                  
+            </li>
+                                          <li class="menu-item menu-item-depth-1">
+            <a href="/moyntompasket" title="Διαβάστε ειδήσεις και νέα για το Μουντομπάσκετ 2019 και για την Αθλητική Επικαιρότητα, τις Ομάδες, τους Αγώνες, τους Αθλητές, τα Αποτελέσματα και τη Διοργάνωση του Mundobasket στην Κίνα.." data-drupal-link-system-path="taxonomy/term/240975">ΜΟΥΝΤΟΜΠΑΣΚΕΤ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/green" title="Ειδήσεις και νέα από τον χώρο της οικολογίας και πρωτοβουλίες για την αειφόρο ανάπτυξη: Κλιματική αλλαγή και συνέπειες, απειλούμενα είδη, Φαινόμενο Θερμοκηπίου κλπ" data-drupal-link-system-path="taxonomy/term/17">GREEN</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/aytokinito" title="Διαβάστε ειδήσεις και νέα από τον χώρο του Αυτοκινήτου" data-drupal-link-system-path="taxonomy/term/97451">iAUTOKINITO</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/gastronomie" data-drupal-link-system-path="taxonomy/term/73196">iGASTRONOMIE</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/books" data-drupal-link-system-path="taxonomy/term/159420">iBOOKS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/videos" data-drupal-link-system-path="videos">iVIDEO</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/opinions" data-drupal-link-system-path="opinions">iOPINIONS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/zodia" title="Ζώδια" data-drupal-link-system-path="taxonomy/term/30">ΖΩΔΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/oscars" data-drupal-link-system-path="taxonomy/term/191306">OSCARS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/media" title="Διαβάστε ειδήσεις και νέα για τον χώρο των Μέσων Μαζικής Ενημέρωσης, της Δημοσιογραφίας και των Media " data-drupal-link-system-path="taxonomy/term/4">MEDIA</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/design" title="Διαβάστε ειδήσεις και νέα από τον κόσμο του Design" data-drupal-link-system-path="taxonomy/term/173938">DESIGN</a>
+                
+          </li>
+                  </ul>
+  
+          </li>
+                  </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+    </header>
+              <div class="messages clearfix" role="complementary">
+          <div class="messages-wrapper region">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+      <div class="ad-block ad-prestitial" data-slot="prestitial">
+      <div class="ad-container" id="prestitial">
+      <script type="text/javascript">
+        googletag.cmd.push(function () {
+          googletag.display('prestitial');
+        });
+      </script>
+    </div>
+  </div>
+
+              <main id="content" class="main-content not-front-content container-wrapper flex-wrapper" role="main">
+                    <div class="ad-block ad-ros_undermenu" data-slot="ros_undermenu">
+      <div class="ad-container" id="ros_undermenu">
+      <script type="text/javascript">
+        googletag.cmd.push(function () {
+          googletag.display('ros_undermenu');
+        });
+      </script>
+    </div>
+  </div>
+
+          <div class="two-thirds main">
+              <div class="content-wrapper region">
+    <div id="block-periehomenokentrikisselidas">
+  
+    
+      Δεν έχετε δικαίωμα πρόσβασης σε αυτή τη σελίδα.
+  </div>
+
+  </div>
+
+          </div>
+          <div class="one-third sidebar">
+                        <div class="ad-block ad-ros_sidebar_1" data-slot="ros_sidebar_1">
+      <div class="ad-container" id="ros_sidebar_1">
+      <script type="text/javascript">
+        googletag.cmd.push(function () {
+          googletag.display('ros_sidebar_1');
+        });
+      </script>
+    </div>
+  </div>
+
+              <div class="sidebar-wrapper region">
+    <div class="views-element-container" id="block-views-block-news-feed-block">
+  
+    
+      <div class="on-container"><div class="view view-news-feed view-id-news_feed view-display-id-block js-view-dom-id-cb1dd0b220af9ed5f8ea11cd35540e630d934e37bba3a7e4e04e3c129d610a1d">
+  
+    
+      <div class="view-header">
+      <a href="/eidiseis"><h2 class="sidebar-header"><span class="first-word">ΡΟΗ</span> ΕΙΔΗΣΕΩΝ</h2></a>
+    </div>
+      
+      <div class="view-content">
+          <div class="views-row">
+<article role="article" about="/gynaika/kori-monika-mpeloytsi-kai-bensan-kasel-kampania" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:34
+  </div>
+  <h3>
+    <a href="/gynaika/kori-monika-mpeloytsi-kai-bensan-kasel-kampania" rel="bookmark"><span>Η πανέμορφη κόρη της Μόνικα Μπελούτσι και του Βενσάν Κασέλ σε νέα καμπάνια -Κόβει την ανάσα με την ομορφιά της [εικόνες]</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/media/united-group-vestnik-telegraf-eood-intrust-ead" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:26
+  </div>
+  <h3>
+    <a href="/media/united-group-vestnik-telegraf-eood-intrust-ead" rel="bookmark"><span>Η United Group συμφωνεί να εξαγοράσει τον βουλγαρικό όμιλο εφημερίδων Vestnik Telegraf EOOD από την Intrust EAD</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/media/i-ananeomeni-formula-1-stin-cosmote-tv-kai-2021" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:24
+  </div>
+  <h3>
+    <a href="/media/i-ananeomeni-formula-1-stin-cosmote-tv-kai-2021" rel="bookmark"><span>Η ανανεωμένη Formula 1 στην COSMOTE TV και το 2021</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/astrazeneca-plirofories-gia-ypopto-antikeimeno" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:16
+  </div>
+  <h3>
+    <a href="/kosmos/astrazeneca-plirofories-gia-ypopto-antikeimeno" rel="bookmark"><span>Ουαλία: Συναγερμός στο εργοστάσιο της AstraZeneca -Πληροφορίες για ύποπτο αντικείμενο</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/oikonomia/kollias-epityhimeni-exodo-elladas-agores-thetiko" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:14
+  </div>
+  <h3>
+    <a href="/oikonomia/kollias-epityhimeni-exodo-elladas-agores-thetiko" rel="bookmark"><span>Κόλλιας: «Διπλά θετικό το μήνυμα από την επιτυχημένη έξοδο της Ελλάδας στις αγορές»	</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/thessaloniki-anakritria-gia-thanato-boylgaroy-opadoy" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:14
+  </div>
+  <h3>
+    <a href="/ellada/thessaloniki-anakritria-gia-thanato-boylgaroy-opadoy" rel="bookmark"><span>Θεσσαλονίκη: Στην ανακρίτρια απολογήθηκε 49χρονος που κατηγορείται για την υπόθεση θανάτου 28χρονου Βούλγαρου οπαδού</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/brexit-grafeiokratia-kai-ypsiloteres-times" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:13
+  </div>
+  <h3>
+    <a href="/kosmos/brexit-grafeiokratia-kai-ypsiloteres-times" rel="bookmark"><span>Το Brexit έφερε τα «πάνω κάτω»: Γραφειοκρατία, χρονοβόρες διαδικασίες και υψηλότερες τιμές	</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/iliopoylos-eythyni-mitsotaki-adiexodo-embolia" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:11
+  </div>
+  <h3>
+    <a href="/politiki/iliopoylos-eythyni-mitsotaki-adiexodo-embolia" rel="bookmark"><span>Ηλιόπουλος: Ευθύνη Μητσοτάκη για το αδιέξοδο με τα εμβόλια</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/aimatiri-listeia-stin-argyroypoli-eleytheroi-me-perioristikoys-oroys-oi-treis-anilikoi" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:06
+  </div>
+  <h3>
+    <a href="/ellada/aimatiri-listeia-stin-argyroypoli-eleytheroi-me-perioristikoys-oroys-oi-treis-anilikoi" rel="bookmark"><span> Αιματηρή ληστεία στην Αργυρούπολη: Ελεύθεροι με περιοριστικούς όρους οι τρεις ανήλικοι </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/mitsotakis-se-elisaf-i-ellada-tima-ti-mnimi-ton-thymaton-toy-olokaytomatos" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:03
+  </div>
+  <h3>
+    <a href="/politiki/mitsotakis-se-elisaf-i-ellada-tima-ti-mnimi-ton-thymaton-toy-olokaytomatos" rel="bookmark"><span>Μητσοτάκης σε Ελισάφ: Η Ελλάδα τιμά τη μνήμη των θυμάτων του Ολοκαυτώματος</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/tzefri-paiat-elliniki-proedria-symmahia-olokaytoma" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:02
+  </div>
+  <h3>
+    <a href="/politiki/tzefri-paiat-elliniki-proedria-symmahia-olokaytoma" rel="bookmark"><span>Πάιατ: Οι ΗΠΑ υποστηρίζουν σθεναρά την ελληνική προεδρία της Διεθνούς Συμμαχίας για τη Μνήμη του Ολοκαυτώματος</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/gynaika/i-16hroni-kori-hainti-kloym-ntempoyto-pasarela" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    15:00
+  </div>
+  <h3>
+    <a href="/gynaika/i-16hroni-kori-hainti-kloym-ntempoyto-pasarela" rel="bookmark"><span>Η 16χρονη κόρη της Χάιντι Κλουμ περπάτησε στην πασαρέλα για πρώτη φορά -Το ντεμπούτο της στο Βερολίνο [εικόνες &amp; βίντεο]</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/rena-blahopoyloy-kai-pappa-i-kne" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:57
+  </div>
+  <h3>
+    <a href="/politiki/rena-blahopoyloy-kai-pappa-i-kne" rel="bookmark"><span>Η ΚΝΕ κατά του νομοσχεδίου για τα ΑΕΙ: Σποτ με Ρένα Βλαχοπούλου και «πού είναι ο παππάς» [βίντεο]</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/oikonomia/coca-cola-tria-epsilon-koryfaios-ergodotis-2021" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:56
+  </div>
+  <h3>
+    <a href="/oikonomia/coca-cola-tria-epsilon-koryfaios-ergodotis-2021" rel="bookmark"><span>H Coca-Cola Τρία Έψιλον αναδείχθηκε Κορυφαίος Εργοδότης στην Ελλάδα και για το 2021</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/oikonomia/epiheiriseis-thetiko-isozygio-neon-d-trimino-2020" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:43
+  </div>
+  <h3>
+    <a href="/oikonomia/epiheiriseis-thetiko-isozygio-neon-d-trimino-2020" rel="bookmark"><span>Θετικό το ισοζύγιο ίδρυσης νέων επιχειρήσεων σε σχέση με αυτές που έκλεισαν, στο τελευταίο τρίμηνο του 2020</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politismos/giorgos-koymentakis-diafonia-programma-lyriki-1821" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:42
+  </div>
+  <h3>
+    <a href="/politismos/giorgos-koymentakis-diafonia-programma-lyriki-1821" rel="bookmark"><span>Ελάτε να συμφωνήσουμε ή και να διαφωνήσουμε: Ο Γ. Κουμεντάκης παρουσίασε το πρόγραμμα  της Λυρικής με πυλώνα την Επανάσταση [βίντεο]</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/mitsotakis-mnimi-ebraion-sympatrioton-olokaytoma" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:38
+  </div>
+  <h3>
+    <a href="/politiki/mitsotakis-mnimi-ebraion-sympatrioton-olokaytoma" rel="bookmark"><span>Μητσοτάκης: Τιμούμε τη μνήμη των Εβραίων και των συμπατριωτών που χάθηκαν στο Ολοκαύτωμα</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/ebeth-84-epiheiriseon-epireastikan-pandimiki-krisi" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:36
+  </div>
+  <h3>
+    <a href="/ellada/ebeth-84-epiheiriseon-epireastikan-pandimiki-krisi" rel="bookmark"><span>ΕΒΕΘ: Το 84% των επιχειρήσεων επηρεάστηκαν από την πανδημική κρίση</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/sholeia-pos-tha-ginontai-test-mathites-ekpaideytikoys" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:34
+  </div>
+  <h3>
+    <a href="/ellada/sholeia-pos-tha-ginontai-test-mathites-ekpaideytikoys" rel="bookmark"><span>Σχολεία: Πώς θα γίνονται τα τεστ σε μαθητές και εκπαιδευτικούς -Νέες οδηγίες του υπ. Παιδείας</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/xekinisan-oi-emboliasmoi-sto-kastellorizo" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:33
+  </div>
+  <h3>
+    <a href="/ellada/xekinisan-oi-emboliasmoi-sto-kastellorizo" rel="bookmark"><span>Ξεκίνησε στο Καστελλόριζο ο πρώτος μαζικός εμβολιασμός -Οριζόντιος, ανεξαρτήτως ηλικίας και επαγγέλματος </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/zoi/mimi-ntenisi-gia-giorgo-kimoyli" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:31
+  </div>
+  <h3>
+    <a href="/zoi/mimi-ntenisi-gia-giorgo-kimoyli" rel="bookmark"><span>Μιμή Ντενίση: «Θα συμβούλευα τον Γιώργο Κιμούλη να ζητήσει συγγνώμη» </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/oikonomia/papathanasis-ellada-paroysa-anaptyxi-tehnologias-aihmis" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:25
+  </div>
+  <h3>
+    <a href="/oikonomia/papathanasis-ellada-paroysa-anaptyxi-tehnologias-aihmis" rel="bookmark"><span>Παπαθανάσης: Η Ελλάδα είναι παρούσα στην ανάπτυξη τεχνολογίας αιχμής</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/o-aimilios-perdikaris-prosorina-epikefalis-toy-athinaikoy-praktoreioy-eidiseon" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:21
+  </div>
+  <h3>
+    <a href="/ellada/o-aimilios-perdikaris-prosorina-epikefalis-toy-athinaikoy-praktoreioy-eidiseon" rel="bookmark"><span>Ο Αιμίλιος Περδικάρης προσωρινά επικεφαλής του Αθηναϊκού Πρακτορείου Ειδήσεων</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/dimos-saronikoy-apoheteysi-paraliakoy-metopoy" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:20
+  </div>
+  <h3>
+    <a href="/ellada/dimos-saronikoy-apoheteysi-paraliakoy-metopoy" rel="bookmark"><span>Αποχέτευση του παραλιακού μετώπου του δήμου Σαρωνικού και Κρωπίας στο ΚΕΛ Κορωπίου-Παιανίας</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/mitsotakis-pos-tha-einai-o-kosmos-se-20-hronia-apo-tora" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:19
+  </div>
+  <h3>
+    <a href="/politiki/mitsotakis-pos-tha-einai-o-kosmos-se-20-hronia-apo-tora" rel="bookmark"><span>Μητσοτάκης: Να σκεφτούμε πιο υπερβατικά για να χαρτογραφήσουμε πώς θα είναι ο κόσμος σε 20 χρόνια από τώρα</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/rosia-diadilotria-htypithke-diadilosi-yper-nabalni" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:18
+  </div>
+  <h3>
+    <a href="/kosmos/rosia-diadilotria-htypithke-diadilosi-yper-nabalni" rel="bookmark"><span>Ρωσία: Ξανά στο νοσοκομείο διαδηλώτρια που χτυπήθηκε από αστυνομικό -Σε διαδήλωση υπέρ του Ναβάλνι</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/italia-matarela-xekina-diaboyleyseis" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:15
+  </div>
+  <h3>
+    <a href="/kosmos/italia-matarela-xekina-diaboyleyseis" rel="bookmark"><span>Ιταλία: Ο Ματαρέλα ξεκινά διαβουλεύσεις -Τα πιθανά σενάρια</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/gynaika/modato-axesoyar-gia-kryo" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:07
+  </div>
+  <h3>
+    <a href="/gynaika/modato-axesoyar-gia-kryo" rel="bookmark"><span>Αυτό το μοδάτο αξεσουάρ που θα σε κρατήσει ζεστή τον εφετινό χειμώνα -Δεν είναι το κασκόλ</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/syriza-stis-diamartyries-100-atomon-kollaei" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:06
+  </div>
+  <h3>
+    <a href="/politiki/syriza-stis-diamartyries-100-atomon-kollaei" rel="bookmark"><span>ΣΥΡΙΖΑ: Στις διαμαρτυρίες 100 ατόμων στα Προπύλαια κολλάει, με χιλιάδες πολίτες στοιβαγμένους σε τρένα, εργοστάσια ή την Ερμού δεν κολλάει</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/syggeneis-thymaton-koronoioy-oyhan-dorodokies" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:04
+  </div>
+  <h3>
+    <a href="/kosmos/syggeneis-thymaton-koronoioy-oyhan-dorodokies" rel="bookmark"><span>Κίνα: Συγγενείς θυμάτων του κορωνοϊού στην Ουχάν καταγγέλλουν δωροδοκίες και εκφοβισμό </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/boridis-katastrofikos-aytodioikisi-nomos-syriza" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    14:04
+  </div>
+  <h3>
+    <a href="/politiki/boridis-katastrofikos-aytodioikisi-nomos-syriza" rel="bookmark"><span>Βορίδης: Καταστροφικός για την αυτοδιοίκηση ο νόμος ΣΥΡΙΖΑ</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/tha-pragmatopoiithei-synantisi-astrazeneca-ee" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:57
+  </div>
+  <h3>
+    <a href="/kosmos/tha-pragmatopoiithei-synantisi-astrazeneca-ee" rel="bookmark"><span>Εμβόλια: Προς ανακωχή ΕΕ και AstraZeneca: Θα πραγματοποιηθεί τελικά η συνάντηση, λέει η εταιρεία</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/idryma-boylis-tima-esthir-koen-epezise-olokaytoma" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:56
+  </div>
+  <h3>
+    <a href="/ellada/idryma-boylis-tima-esthir-koen-epezise-olokaytoma" rel="bookmark"><span>Το Ιδρυμα της Βουλής τιμά τη Γιαννιώτισα Εσθήρ Κοέν που είχε επιζήσει του Ολοκαυτώματος -Διαδικτυακή εκδήλωση</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/oikonomia/exodos-agores-pano-apo-25-dis-gia-10etes-omologo" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:53
+  </div>
+  <h3>
+    <a href="/oikonomia/exodos-agores-pano-apo-25-dis-gia-10etes-omologo" rel="bookmark"><span>Εξοδος στις αγορές: Πάνω από 25 δισ. ευρώ οι προσφορές για το 10ετές ομόλογο</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/sygkinei-o-giannis-kallianos-gia-ton-adelfo-toy-poy-nosei-apo-koronoio-eklaiga" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:52
+  </div>
+  <h3>
+    <a href="/politiki/sygkinei-o-giannis-kallianos-gia-ton-adelfo-toy-poy-nosei-apo-koronoio-eklaiga" rel="bookmark"><span>Συγκινεί ο Γιάννης Καλλιάνος για τον αδελφό του που νοσεί από κορωνοϊό -«Εκλαιγα μόνος μου σαν μικρό παιδί»</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/mihalos-omada-ergasias-gia-epiheirimatikotita" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:47
+  </div>
+  <h3>
+    <a href="/ellada/mihalos-omada-ergasias-gia-epiheirimatikotita" rel="bookmark"><span>Μίχαλος: Συγκροτείται ομάδα εργασίας προκειμένου η επιχειρηματικότητα να πρωταγωνιστεί </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/ypoyrgos-toyrismoy-serbias-den-ypegrafi-mnimonio-katanoisis-ellada-pistopoiitiko-emboliasmoy" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:44
+  </div>
+  <h3>
+    <a href="/kosmos/ypoyrgos-toyrismoy-serbias-den-ypegrafi-mnimonio-katanoisis-ellada-pistopoiitiko-emboliasmoy" rel="bookmark"><span>Υπουργός Τουρισμού Σερβίας: Δεν υπεγράφη μνημόνιο κατανόησης με την Ελλάδα για το πιστοποιητικό εμβολιασμού</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/tsaboysogloy-parathyro-eykairias-toyrkia-ee" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:41
+  </div>
+  <h3>
+    <a href="/kosmos/tsaboysogloy-parathyro-eykairias-toyrkia-ee" rel="bookmark"><span>Τσαβούσογλου: Υπάρχει παράθυρο ευκαιρίας για ανανεωμένο διάλογο ανάμεσα σε Τουρκία και ΕΕ</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/paraitisi-konte-italia-foboi-gia-pandimia-oikonomia" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:41
+  </div>
+  <h3>
+    <a href="/kosmos/paraitisi-konte-italia-foboi-gia-pandimia-oikonomia" rel="bookmark"><span>Ιταλία: Η κυβερνητική κρίση από την παραίτηση Κόντε πυροδοτεί φόβους για τη μάχη κατά της πανδημίας και την ανάταξη της οικονομίας </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/sholiko-egheiridio-palaiopoleio-thessalonikis-ebraiopoylas" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:41
+  </div>
+  <h3>
+    <a href="/ellada/sholiko-egheiridio-palaiopoleio-thessalonikis-ebraiopoylas" rel="bookmark"><span>Σχολικό εγχειρίδιο από παλαιοπωλείο της Θεσσαλονίκης «μαρτυρά» την τραγική μοίρα Εβραιοπούλας </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/sifis-balyrakis-den-eida-allo-skafos-konta-sto-foyskoto-toy-ypoyrgoy-katoikos" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:40
+  </div>
+  <h3>
+    <a href="/ellada/sifis-balyrakis-den-eida-allo-skafos-konta-sto-foyskoto-toy-ypoyrgoy-katoikos" rel="bookmark"><span>Σήφης Βαλυράκης: «Δεν είδα άλλο σκάφος κοντά στο φουσκωτό του υπουργού» λέει κάτοικος</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/kallithea-synelifthisan-dyo-allodapoi-lathraia-tsigara" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:38
+  </div>
+  <h3>
+    <a href="/ellada/kallithea-synelifthisan-dyo-allodapoi-lathraia-tsigara" rel="bookmark"><span>Καλλιθέα: Συνελήφθησαν δύο αλλοδαποί για λαθραία τσιγάρα -Κατασχέθηκαν 6.824 πακέτα </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/design/diatiriteo-spiti-1923-exarheia-anakainisi" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:35
+  </div>
+  <h3>
+    <a href="/design/diatiriteo-spiti-1923-exarheia-anakainisi" rel="bookmark"><span>Εντυπωσιακό: Ενα διατηρητέο σπίτι του 1923 στα Εξάρχεια, έδεσε με ένα ολοκαίνουργιο μίνιμαλ και λειτουργούν σαν ένα [εικόνες]</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/kosmos/sanofi-embolio-pfizer-125-ekatommyria-doseis" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:32
+  </div>
+  <h3>
+    <a href="/kosmos/sanofi-embolio-pfizer-125-ekatommyria-doseis" rel="bookmark"><span>Η Sanofi θα κατασκευάσει 125 εκατ. δόσεις εμβολίου της Pfizer -Το καλοκαίρι, στο εργοστάσιο της Φρανκφούρτης </span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/zoi/i-istoria-toy-xenodoheioy-cecil-erhetai-netflix" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:32
+  </div>
+  <h3>
+    <a href="/zoi/i-istoria-toy-xenodoheioy-cecil-erhetai-netflix" rel="bookmark"><span>«Υπάρχει δωμάτιο που να μην πέθανε κάποιος;» -Η μυστηριώδης ιστορία του ξενοδοχείου Cecil [εικόνες &amp; βίντεο]</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/odigos-agrotodiatrofikes-epiheiriseis-thessaloniki" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:31
+  </div>
+  <h3>
+    <a href="/ellada/odigos-agrotodiatrofikes-epiheiriseis-thessaloniki" rel="bookmark"><span>Hλεκτρονικός οδηγός ψηφιακού μετασχηματισμού για αγροδιατροφικές επιχειρήσεις -Τι δυνατότες προσφέρει</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/politiki/koymoytsakos-hagi-exartithei-plaisio-symfonias" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:31
+  </div>
+  <h3>
+    <a href="/politiki/koymoytsakos-hagi-exartithei-plaisio-symfonias" rel="bookmark"><span>Κουμουτσάκος: Η προσφυγή στη Χάγη θα εξαρτηθεί από το πλαίσιο συμφωνίας των δύο πλευρών</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/aitima-na-kiryhthei-o-dimos-agrinioy-se-katastasi-ektaktis-anagkis" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:26
+  </div>
+  <h3>
+    <a href="/ellada/aitima-na-kiryhthei-o-dimos-agrinioy-se-katastasi-ektaktis-anagkis" rel="bookmark"><span>Αίτημα να κηρυχθεί ο δήμος Αγρινίου σε κατάσταση έκτακτης ανάγκης</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/gynaika/syntagi-keik-kanelas-glyko" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:18
+  </div>
+  <h3>
+    <a href="/gynaika/syntagi-keik-kanelas-glyko" rel="bookmark"><span>Συνταγή για λαχταριστό κέικ κανέλας: Ελαφρύ και τόσο αφράτο σαν σύννεφο</span>
+</a>
+  </h3>
+</article>
+</div>
+    <div class="views-row">
+<article role="article" about="/ellada/sholeia-pempti-apofasi-gia-anoigma-gymnasia-lykeia" class="node iefimerida-article node--type-article node--view-mode-news-feed node-article-news-feed">
+  
+  
+  <div class="time">
+    13:14
+  </div>
+  <h3>
+    <a href="/ellada/sholeia-pempti-apofasi-gia-anoigma-gymnasia-lykeia" rel="bookmark"><span>Σχολεία -Αρκουμανέας: Την Πέμπτη η τελική συνεδρίαση για το άνοιγμα Γυμνασίων και Λυκείων </span>
+</a>
+  </h3>
+</article>
+</div>
+
+
+          </div>
+  
+        </div>
+</div>
+
+  </div>
+<div id="block-newsletterblock">
+  
+    
+      <form class="newsletter-form" data-drupal-selector="newsletter-form" action="" method="post" id="newsletter-form" accept-charset="UTF-8">
+  <div data-drupal-selector="edit-title"><div class="newsletter-title"><img src="/themes/on/images/logo.svg" alt="Logo"><span>NEWSLETTER</span></div></div>
+<div class="js-form-item form-item js-form-type-email form-item-email js-form-item-email form-no-label">
+        <input data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" placeholder="ΣΥΜΠΛΗΡΩΣΤΕ ΤΟ EMAIL ΣΑΣ" class="form-email required" required="required" aria-required="true" />
+
+        </div>
+<div class="form-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="" class="button js-form-submit form-submit" />
+</div><input autocomplete="off" data-drupal-selector="form-qet8hpjqhijof7cqgdqwt3ud4trc4nfqk4uiftiokoe" type="hidden" name="form_build_id" value="form-qeT8hpJqhIjOf7CqGdqwt3ud4Trc4nfQk4uiftioKOE" />
+<input data-drupal-selector="edit-newsletter-form" type="hidden" name="form_id" value="newsletter_form" />
+
+</form>
+
+  </div>
+
+  </div>
+
+                        <div class="ad-block ad-ros_sidebar_2" data-slot="ros_sidebar_2">
+      <div class="ad-container" id="ros_sidebar_2">
+      <script type="text/javascript">
+        googletag.cmd.push(function () {
+          googletag.display('ros_sidebar_2');
+        });
+      </script>
+    </div>
+  </div>
+
+          </div>
+        </main>
+            </div>
+    <footer class="container-wrapper site-footer">
+      <div class="footer-container clearfix">
+        <div class="top-footer">
+            <div class="top_footer-wrapper region">
+    <div id="block-sitebranding-2">
+  
+    
+        <a href="/" rel="home">
+      <img src="/themes/on/images/logo.svg" alt="Αρχική" />
+    </a>
+      
+</div>
+
+  </div>
+
+          <div class="social-block">
+             <a href="http://www.facebook.com/iefimerida" target="_blank">
+              <svg width="7px" height="15px" viewBox="0 0 7 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.487 4.491L4.487 2.858C4.487 2.858 4.487 2.45 5.099 2.45L6.732 2.45L6.732 0L3.879 0C3.879 0 1.633 0.194 1.633 2.246L1.633 4.491L0 4.491L0 6.94L1.633 6.94L1.633 14.085L4.487 14.085L4.487 6.94L6.324 6.94L6.732 4.491L4.487 4.491Z" id="Path_4" fill="#000000" stroke="none"/>
+              </svg>
+             </a>
+             <a href="http://www.twitter.com/iefimerida" target="_blank">
+              <svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14.56 1.44666L13.152 1.68066C13.152 1.68066 14.091 0.562656 14.091 0.0376568C14.091 0.0376568 12.917 0.976656 12.447 0.737658C7.08199 -1.94534 7.04699 3.55366 7.04699 3.55366C3.29198 3.55366 0.806984 0.288658 0.708984 0.502657C-0.464016 3.08466 1.88298 4.49366 1.64798 4.49366C1.21291 4.48453 0.795994 4.31748 0.474983 4.02366C0.559372 5.47953 1.47222 6.75758 2.82199 7.30966L1.41899 7.30966C1.88799 8.71766 4.23499 9.42166 4.23499 9.42166C3.29699 10.5957 -0.211006 10.7527 0.00999451 10.8317C13.16 15.5307 13.16 2.85466 13.16 2.85466C13.16 2.85466 14.56 1.77866 14.56 1.44666" id="Path_6" fill="#000000" stroke="none"/>
+              </svg>
+             </a>
+             <a href="http://www.flickr.com/photos/60935369@N02/" target="_blank">
+              <svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M10.7584 8.93416C11.5286 8.6149 12.0306 7.86301 12.0302 7.02924C12.0302 5.89153 11.1079 4.96924 9.9702 4.96924C9.13642 4.96883 8.38454 5.47083 8.06528 6.24107C7.74602 7.0113 7.92229 7.89802 8.51186 8.48759C9.10143 9.07716 9.98814 9.25342 10.7584 8.93416ZM6.15221 7.03632C6.15221 7.86951 5.65031 8.62066 4.88054 8.93951C4.11076 9.25836 3.22472 9.08211 2.63557 8.49296C2.04641 7.9038 1.87017 7.01776 2.18902 6.24799C2.50787 5.47822 3.25902 4.97632 4.09221 4.97632C5.22969 4.97687 6.15166 5.89884 6.15221 7.03632M14.0602 7.0292C14.0602 4.18683 12.3474 1.62344 9.72047 0.535332C7.09354 -0.552778 4.06981 0.0486794 2.05924 2.05925C0.0486755 4.06981 -0.55278 7.09354 0.535332 9.72047C1.62344 12.3474 4.18684 14.0602 7.0302 14.0602C8.89493 14.0605 10.6833 13.3198 12.0018 12.0011C13.3203 10.6825 14.0607 8.89393 14.0602 7.0292" id="Path_7" fill="#000000" fill-rule="evenodd" stroke="none"/>
+              </svg>
+             </a>
+             <a href="http://www.youtube.com/user/iefimerida1?feature=mhum" target="_blank"><?xml version="1.0" encoding="utf-8"?>
+              <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 71.412065 50" xml:space="preserve" inkscape:version="0.91 r13725" sodipodi:docname="YouTube_dark_icon (2017).svg" width="71.412064" height="50">
+                <g id="g5" transform="scale(0.58823529,0.58823529)"><path class="st0" d="M 118.9,13.3 C 117.5,8.1 113.4,4 108.2,2.6 98.7,0 60.7,0 60.7,0 60.7,0 22.7,0 13.2,2.5 8.1,3.9 3.9,8.1 2.5,13.3 0,22.8 0,42.5 0,42.5 0,42.5 0,62.3 2.5,71.7 3.9,76.9 8,81 13.2,82.4 22.8,85 60.7,85 60.7,85 c 0,0 38,0 47.5,-2.5 5.2,-1.4 9.3,-5.5 10.7,-10.7 2.5,-9.5 2.5,-29.2 2.5,-29.2 0,0 0.1,-19.8 -2.5,-29.3 z" id="path7" inkscape:connector-curvature="0" style="fill:#000000;fill-opacity:1"/><polygon class="st1" points="80.2,42.5 48.6,24.3 48.6,60.7 " id="polygon9" style="fill:#ffffff"/></g>
+              </svg>
+             </a>
+            <a href="https://www.instagram.com/iefimerida.gr/" target="_blank">
+              <svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12.3708 12.3145C12.4445 12.2409 12.486 12.1411 12.486 12.0369L12.482 5.91992L11.167 5.91992C11.6436 7.65971 10.9774 9.51151 9.50171 10.5489C8.02599 11.5864 6.058 11.5864 4.58228 10.5489C3.10654 9.51151 2.44035 7.65971 2.91699 5.91992L1.60199 5.91992L1.60199 12.0369C1.60199 12.1411 1.64343 12.2409 1.71716 12.3145C1.79089 12.388 1.89085 12.4292 1.995 12.4289L12.093 12.4289C12.1971 12.4292 12.2971 12.388 12.3708 12.3145ZM7.04601 4.354C8.13805 4.354 9.12257 5.01184 9.54048 6.02076C9.95839 7.02968 9.72739 8.191 8.9552 8.96319C8.183 9.73539 7.02168 9.96639 6.01276 9.54848C5.00385 9.13057 4.34601 8.14605 4.34601 7.054C4.34601 5.56284 5.55484 4.35401 7.04601 4.354M9.76599 1.99994C9.76599 1.78288 9.94196 1.60693 10.159 1.60694L12.059 1.60694C12.1634 1.60667 12.2636 1.64796 12.3375 1.72169C12.4114 1.79542 12.453 1.89553 12.453 1.99993L12.453 3.89993C12.4524 4.11699 12.276 4.29249 12.059 4.29193L10.159 4.29193C9.94234 4.29194 9.76656 4.11659 9.76599 3.89993L9.76599 1.99994ZM12.388 1.90735e-06L1.672 1.90735e-06C0.750076 -0.00110245 0.00166321 0.745077 0 1.667L0 12.397C0.00167847 13.319 0.750122 14.0651 1.67204 14.064L12.388 14.064C13.3098 14.0651 14.0579 13.3188 14.059 12.397L14.059 1.672C14.0578 0.750158 13.3097 0.00385094 12.3879 0.00500298" id="Path_9" fill="#000000" fill-rule="evenodd" stroke="none"/>
+              </svg>
+            </a>
+            <a href="https://gr.pinterest.com/iefimerida/" target="_blank">
+              <svg width="12px" height="15px" viewBox="0 0 12 15" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <path d="M5.95597 0.00801468C2.00797 0.00801468 0.0179672 2.83901 0.0179672 5.19901C-0.120796 6.5057 0.553368 7.76441 1.71796 8.37301C1.79955 8.41609 1.8969 8.41717 1.97942 8.37592C2.06193 8.33466 2.11948 8.25613 2.13396 8.16501C2.17297 8.01901 2.26396 7.65101 2.30396 7.49801C2.37103 7.33435 2.32263 7.14606 2.18496 7.03502C1.80636 6.57845 1.61072 5.9976 1.63596 5.40502C1.62304 4.32617 2.05367 3.28935 2.82709 2.5371C3.60052 1.78485 4.64889 1.38316 5.72696 1.42602C7.95795 1.42602 9.18395 2.79002 9.18395 4.61102C9.18395 7.01101 8.12395 9.02802 6.54995 9.02802C6.14246 9.04843 5.74947 8.87427 5.49089 8.55868C5.23231 8.24309 5.13882 7.82353 5.23895 7.42802C5.5665 6.46793 5.81171 5.48171 5.97195 4.48002C6.01102 4.16093 5.91008 3.84055 5.69516 3.60147C5.48025 3.3624 5.17239 3.22803 4.85095 3.23302C3.96295 3.23302 3.25095 4.15202 3.25095 5.38402C3.24529 5.83582 3.33561 6.2837 3.51595 6.69801C3.51595 6.69801 2.60696 10.551 2.44695 11.226C2.25948 12.2693 2.25137 13.337 2.42295 14.383C2.42875 14.4283 2.46196 14.4653 2.50639 14.476C2.55081 14.4867 2.59721 14.4688 2.62295 14.431C3.2788 13.6198 3.78657 12.6994 4.12294 11.712C4.22295 11.342 4.70695 9.42801 4.70695 9.42801C5.16416 10.0952 5.92838 10.4852 6.73695 10.464C9.40795 10.464 11.2199 8.02901 11.2199 4.76901C11.1673 3.4354 10.5799 2.17916 9.59026 1.28362C8.60065 0.388079 7.29218 -0.0713272 5.95995 0.00901222" id="Path_8" fill="#000000" stroke="none"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+        <div class="main-footer">
+            <div class="footer-wrapper region">
+    <nav role="navigation" aria-labelledby="block-kentrikiploigisi-3-menu" id="block-kentrikiploigisi-3">
+            
+  <h2 class="visually-hidden" id="block-kentrikiploigisi-3-menu">Κεντρική πλοήγηση</h2>
+  
+
+        
+              <ul data-region="footer" class="menu depth-0">
+                                        <li class="menu-item menu-item-depth-0">
+              <a href="/"><svg width="20" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.63 16.08"><defs><style>.cls-1{fill:red;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls-1" points="6.82 0 0 5.54 0 16.08 13.63 16.08 13.63 5.45 13.63 5.45 6.82 0"/></g></g></svg></a>
+            </li>
+                                          <li class="menu-item menu-item-depth-0">
+            <a href="/eidiseis" title="Όλες οι ειδήσεις και τα τελευταία νέα από την κορυφαία online εφημερίδα" data-drupal-link-system-path="eidiseis">ΕΙΔΗΣΕΙΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/stories" title="Stories" data-drupal-link-system-path="taxonomy/term/31">STORIES</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/politiki" title="Διαβάστε ειδήσεις και νέα από την πολιτική επικαιρότητα, την Κυβέρνηση, την Αντιπολίτευση, την Βουλή, τις εκλογές, τις δημοσκοπήσεις και τα κόμματα." data-drupal-link-system-path="taxonomy/term/2">ΠΟΛΙΤΙΚΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/ellada" title="Διαβάστε ειδήσεις, ρεπορτάζ και τα σημαντικότερα νέα από ολόκληρη την Ελλάδα. Ολες οι εξελίξεις και η έκτακτη επικαιρότητα." data-drupal-link-system-path="taxonomy/term/21">ΕΛΛΑΔΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/panellinies" data-drupal-link-system-path="taxonomy/term/240326">ΠΑΝΕΛΛΗΝΙΕΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/oikonomia" title="Διαβάστε ειδήσεις και τα σημαντικότερα νέα για την ελληνική και παγκόσμια Οικονομία, τις επιχειρήσεις, το Χρηματιστήριο και τις διεθνείς αγορές, την κρίση χρέους, την Τρόικα, το Μνημόνιο. Όλη η έκτακτη οικονομική επικαιρότητα." data-drupal-link-system-path="taxonomy/term/1">ΟΙΚΟΝΟΜΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/kosmos" title="Τα σημαντικότερα νέα και ειδήσεις από όλον τον κόσμο: Ενημερωθείτε για τις παγκόσμιες εξελίξεις και τη διεθνή επικαιρότητα. Έκτακτη επικαιρότητα." data-drupal-link-system-path="taxonomy/term/16">ΚΟΣΜΟΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/politismos" title="Διαβάστε νέα και ειδήσεις από το χώρο του Πολιτισμού, της Τέχνης και της αρχαιολογίας. Αρθρα και κριτικές για σινεμά, θεατρικές παραστάσεις και συναυλίες." data-drupal-link-system-path="taxonomy/term/26">ΠΟΛΙΤΙΣΜΟΣ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/tehnologia" title="Ολες οι ειδήσεις από τον κόσμο της Τεχνολογίας, της Επιστήμης, του Ιντερνετ και των smartphones. Ενημερωθείτε για τις εξελίξεις στα apps, τα λειτουργικά συστήματα, και τα επιστημονικά επιτεύγματα σε Μαθηματικά, Φυσική, Αστρονομία κλπ." data-drupal-link-system-path="taxonomy/term/20">ΤΕΧΝΟΛΟΓΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/zoi" title="Διαβάστε όλες τις ειδήσεις και τα νέα του lifestyle, της show biz, του θεάματος και της διασκέδασης. Διάσημοι, gossip και ό,τι συμβαίνει στις τηλεοπτικές σειρές." data-drupal-link-system-path="taxonomy/term/14">ΖΩΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/ygeia" title="Ειδήσεις και νέα από τον χώρος της Υγεία και της Ιατρικής: Σημαντικές ανακαλύψεις, επιστημονικές έρευνες και ανακοινώσεις" data-drupal-link-system-path="taxonomy/term/22">ΥΓΕΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/spor" title="Οι σημαντικότερες ειδήσεις και νέα από τον Αθλητισμό και τα Σπορ. Ρεπορτάζ για Ποδόσφαιρο, Champions League, Mundial, Μπάσκετ, Eurobasket, Euroleague, Βόλει, Τένις, Ποδηλασία" data-drupal-link-system-path="taxonomy/term/15">ΣΠΟΡ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/poli" title="Τα σημαντικότερα νέα για τα γεγονότα που συμβαίνουν στην Πόλη: Οδηγός ψυχαγωγίας και διασκέδασης" data-drupal-link-system-path="taxonomy/term/19">ΠΟΛΗ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/gynaika" title="Οσα ενδιαφέρουν τη γυναίκα σήμερα: fashion, μόδα, παπουτσια, μαγιο, ρουχα, νυφικα, αρώματα, μαγειρική, παιδί, ψυχολογία, διακόσμηση, σπίτι, beauty, fitness." data-drupal-link-system-path="taxonomy/term/3">ΓΥΝΑΙΚΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <a href="/travel" title="Νέα, ειδήσεις και προτάσεις για ταξίδια και αναψυχή" data-drupal-link-system-path="taxonomy/term/173939">TRAVEL</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-0">
+            <span>ΠΕΡΙΣΣΟΤΕΡΑ</span>
+                          <ul class="menu depth-1">
+                                        <li class="menu-item menu-item-depth-1">
+              <a href="/ekloges" title="Διαβάστε ειδήσεις και νέα για τις Εκλογές 2019 και για την πολιτική επικαιρότητα, την Κυβέρνηση, την Αντιπολίτευση, την Βουλή, τις δημοσκοπήσεις και τα κόμματα." data-drupal-link-system-path="taxonomy/term/240179">ΕΚΛΟΓΕΣ</a>
+                  
+            </li>
+                                          <li class="menu-item menu-item-depth-1">
+            <a href="/moyntompasket" title="Διαβάστε ειδήσεις και νέα για το Μουντομπάσκετ 2019 και για την Αθλητική Επικαιρότητα, τις Ομάδες, τους Αγώνες, τους Αθλητές, τα Αποτελέσματα και τη Διοργάνωση του Mundobasket στην Κίνα.." data-drupal-link-system-path="taxonomy/term/240975">ΜΟΥΝΤΟΜΠΑΣΚΕΤ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/green" title="Ειδήσεις και νέα από τον χώρο της οικολογίας και πρωτοβουλίες για την αειφόρο ανάπτυξη: Κλιματική αλλαγή και συνέπειες, απειλούμενα είδη, Φαινόμενο Θερμοκηπίου κλπ" data-drupal-link-system-path="taxonomy/term/17">GREEN</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/aytokinito" title="Διαβάστε ειδήσεις και νέα από τον χώρο του Αυτοκινήτου" data-drupal-link-system-path="taxonomy/term/97451">iAUTOKINITO</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/gastronomie" data-drupal-link-system-path="taxonomy/term/73196">iGASTRONOMIE</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/books" data-drupal-link-system-path="taxonomy/term/159420">iBOOKS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/videos" data-drupal-link-system-path="videos">iVIDEO</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/opinions" data-drupal-link-system-path="opinions">iOPINIONS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/zodia" title="Ζώδια" data-drupal-link-system-path="taxonomy/term/30">ΖΩΔΙΑ</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/oscars" data-drupal-link-system-path="taxonomy/term/191306">OSCARS</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/media" title="Διαβάστε ειδήσεις και νέα για τον χώρο των Μέσων Μαζικής Ενημέρωσης, της Δημοσιογραφίας και των Media " data-drupal-link-system-path="taxonomy/term/4">MEDIA</a>
+                
+          </li>
+                                <li class="menu-item menu-item-depth-1">
+            <a href="/design" title="Διαβάστε ειδήσεις και νέα από τον κόσμο του Design" data-drupal-link-system-path="taxonomy/term/173938">DESIGN</a>
+                
+          </li>
+                  </ul>
+  
+          </li>
+                  </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+        </div>
+        <div class="sub-footer">
+          <div class="proudly">Proudly powered by Drupal @ 2019 iefimerida.gr </div>
+            <div class="sub_footer-wrapper region">
+    <nav role="navigation" aria-labelledby="block-yposelido-menu" id="block-yposelido">
+            
+  <h2 class="visually-hidden" id="block-yposelido-menu">Υποσέλιδο</h2>
+  
+
+        
+              <ul data-region="sub_footer" class="menu depth-0">
+                  <li class="menu-item menu-item-depth-0">
+          <a href="/" data-drupal-link-system-path="&lt;front&gt;">ΕΙΔΗΣΕΙΣ</a>
+              
+        </li>
+              <li class="menu-item menu-item-depth-0">
+          <a href="/taytotita" data-drupal-link-system-path="node/500139">ΤΑΥΤΟΤΗΤΑ</a>
+              
+        </li>
+              <li class="menu-item menu-item-depth-0">
+          <a href="/xrisima" data-drupal-link-system-path="node/500148">ΧΡΗΣΙΜΑ</a>
+              
+        </li>
+              <li class="menu-item menu-item-depth-0">
+          <a href="/contact" data-drupal-link-system-path="node/505758">ΕΠΙΚΟΙΝΩΝΙΑ</a>
+              
+        </li>
+              <li class="menu-item menu-item-depth-0">
+          <a href="/oroi-xrisis" data-drupal-link-system-path="node/500149">ΟΡΟΙ ΧΡΗΣΗΣ</a>
+              
+        </li>
+              <li class="menu-item menu-item-depth-0">
+          <a href="/advertising" data-drupal-link-system-path="node/500152">ΔΙΑΦΗΜΙΣΗ</a>
+              
+        </li>
+          </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+<a href="#" class="back-to-top"></a>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"sites\/default\/files\/styles\/horizontal_rectangle_mob\/public","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"el","currentQuery":{"file":"2021-01\/astra-planites-doryforos.jpg","q":"sites\/default\/files\/styles\/horizontal_rectangle_mob\/public\/2021-01\/astra-planites-doryforos.jpg"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":true},"ajaxTrustedUrl":{"":true,"\/search":true},"user":{"uid":0,"permissionsHash":"c1c68b4f2b237d670bf063e07e2e5e5d5efb829a8d8ca79c4d34c459e96d0854"}}</script>
+<script src="/sites/default/files/js/js_xxHP4fR_fMJDw_5XXcEZDlTp3h8VjT_TPCtHJAsZ-Pg.js"></script>
+
+  </body>
+</html>
+
