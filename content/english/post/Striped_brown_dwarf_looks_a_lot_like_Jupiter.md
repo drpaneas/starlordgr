@@ -1,6 +1,6 @@
 ---
 title: "Striped brown dwarf looks a lot like Jupiter"
-date: 2021-01-26T15:23:07+01:00
+date: 2021-01-27T03:37:19+01:00
 images:
   - "images/post/jupiters-atmosphere-with-question-about-brown-dwarfs-800x450.png"
 author: "AstroBot"
