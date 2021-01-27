@@ -1,6 +1,6 @@
 ---
 title: "Why do Planetary Nebulae Look the Way They Do?"
-date: 2021-01-26T15:24:44+01:00
+date: 2021-01-27T03:39:43+01:00
 images:
   - "images/post/STScI-H-p2031b-m-2000x1778-1.jpg"
 author: "AstroBot"
