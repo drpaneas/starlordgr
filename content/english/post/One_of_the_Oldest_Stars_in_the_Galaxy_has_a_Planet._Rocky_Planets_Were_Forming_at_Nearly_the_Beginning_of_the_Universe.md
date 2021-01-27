@@ -1,6 +1,6 @@
 ---
 title: "One of the Oldest Stars in the Galaxy has a Planet. Rocky Planets Were Forming at Nearly the Beginning of the Universe"
-date: 2021-01-27T03:38:18+01:00
+date: 2021-01-27T14:30:52+01:00
 images:
   - "images/post/TOI561_Makarenko-2000x1200.jpg"
 author: "AstroBot"
