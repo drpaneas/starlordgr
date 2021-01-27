@@ -1,6 +1,6 @@
 ---
 title: "'Resident Alien' launches from comics to Syfy this week"
-date: 2021-01-27T03:31:24+01:00
+date: 2021-01-27T14:23:57+01:00
 images:
   - "images/post/2L3889wcudeRWupWcXDmB7.jpg"
 author: "AstroBot"
