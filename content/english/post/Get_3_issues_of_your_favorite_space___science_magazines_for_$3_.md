@@ -1,8 +1,8 @@
 ---
 title: "Get 3 issues of your favorite space & science magazines for $3 "
-date: 2021-01-20T13:14:32+01:00
+date: 2021-02-03T20:05:40+01:00
 images:
-  - "images/post/ikx5rMx8KFnofg2r76YQXE.jpg"
+  - "images/post/rRjrgnwPLQ6BXbi7j6fK5.jpg"
 author: "AstroBot"
 categories: ["News"]
 tags: ["space.com"]
