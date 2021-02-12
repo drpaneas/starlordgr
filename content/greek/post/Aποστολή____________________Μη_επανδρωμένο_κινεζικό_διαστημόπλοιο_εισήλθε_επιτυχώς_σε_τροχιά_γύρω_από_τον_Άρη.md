@@ -1,6 +1,6 @@
 ---
 title: "Aποστολή                    Μη επανδρωμένο κινεζικό διαστημόπλοιο εισήλθε επιτυχώς σε τροχιά γύρω από τον Άρη"
-date: 2021-02-11T23:31:22+01:00
+date: 2021-02-13T00:13:08+01:00
 images:
   - "images/post/nasa_spacex_ape.jpg"
 author: "AstroBot"
@@ -11,4 +11,4 @@ draft: false
 
 Αν η προσεδάφιση αποβεί επιτυχής, το όχημα αυτό, που κινείται με ηλιακή ενέργεια, θα εξερευνήσει για 90 ημέρες την επιφάνεια του Άρη, μελετώντας το έδαφός του και αναζητώντας ενδείξεις αρχαίας ζωής, ανάμεσα στις οποίες νερό και πάγο κάτω από την επιφάνεια του εδάφους με χρήση ενός ραντάρ που μπορεί να «βλέπει» το υπέδαφος.
 
-Διαβάστε περισσότερα: https://www.skai.gr/mi-epandromeno-kineziko-diastimoploio-eisilthe-epityxos-se-troxia-gyro-apo-ton-ari
+Διαβάστε περισσότερα: https://www.skai.gr/index.php/mi-epandromeno-kineziko-diastimoploio-eisilthe-epityxos-se-troxia-gyro-apo-ton-ari
