@@ -1,14 +1,14 @@
 ---
 title: "Pictures from space! Our image of the day"
-date: 2021-02-06T00:10:18+01:00
+date: 2021-02-17T00:36:37+01:00
 images:
-  - "images/post/AQuzwJE7KJTdNY6YS5gi9U.jpg"
+  - "images/post/75rxrWvXfhJoNALyvQjJLd.jpg"
 author: "AstroBot"
 categories: ["News"]
 tags: ["space.com"]
 draft: false
 ---
 
-The European Space Agency's Copernicus Sentinel-2 mission snapped this chilly photo of New York City on Feb. 4, 2021 showing the city blanketed in snow. 
+Valentine Island in northern Western Australia is a swirling mix of blues and reddish browns, as seen from space by the Copernicus Sentinel-2 mission. 
 
 Διαβάστε περισσότερα: https://www.space.com/34-image-day.html
