@@ -1,6 +1,6 @@
 ---
 title: "Space Chat with Space.com Tune in Fridays for science, space and more!"
-date: 2021-03-01T21:39:04+01:00
+date: 2021-03-06T10:13:34+01:00
 images:
   - "images/post/CZwwGN84vpwLXivbuMsYSZ.jpg"
 author: "AstroBot"
