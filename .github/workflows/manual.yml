@@ -38,15 +38,14 @@ jobs:
         path: 'astrobotdir'
         
     # Runs a single command using the runners shell
-    - run: sudo apt-get install hugo
-      
-    # Install Go devenv
-    - uses: actions/setup-go@v2
-    - run: go version
-    
-    # Run it
-    - name: Run astrobot
-    - run: | 
+    - run: |
+        sudo apt-get install hugo
         cd ${{ github.workspace }}/astrobotdir
         ./astrobot
+      
+    # Install Go devenv
+    # - uses: actions/setup-go@v2
+    # - run: go version
+    
+        
       
