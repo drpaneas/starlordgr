@@ -35,10 +35,8 @@ jobs:
         path: 'astrobotdir'
         
     # Runs a single command using the runners shell
-    - name: Install hugo
-      run: apt-get install hugo
+    - run: sudo apt-get install hugo
       
     # Install Go devenv
     - uses: actions/setup-go@v2
-    - name: Setup Go
-      run: go version
+    - run: go version
