@@ -23,6 +23,13 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: ${{ github.head_ref }}
+        path: 'website'
+        
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+        path: 'https://github.com/drpaneas/astrobot'
+        
     # Runs a single command using the runners shell
     - name: Send greeting
-      run: echo "Hello ${{ github.head_ref }}"
+      run: echo "Hello ${{ github.workspace }}"
