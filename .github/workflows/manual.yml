@@ -41,7 +41,7 @@ jobs:
     - run: |
         sudo apt-get install hugo
         cd ${{ github.workspace }}/astrobotdir
-        ./astrobot
+        ./astrobot-linux
       
     # Install Go devenv
     # - uses: actions/setup-go@v2
