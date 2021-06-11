@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on StarLord | Συλλέκτης Διαστημικών Ειδήσεων</title>
-    <link>https://starlord.gr/en/categories/</link>
+    <link>https://drpaneas.net/starlordgr/public/en/categories/</link>
     <description>Recent content in Categories on StarLord | Συλλέκτης Διαστημικών Ειδήσεων</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Fri, 11 Jun 2021 13:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jun 2021 18:10:43 +0000</lastBuildDate>
     
-	<atom:link href="https://starlord.gr/en/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drpaneas.net/starlordgr/public/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News</title>
-      <link>https://starlord.gr/en/categories/news/</link>
-      <pubDate>Fri, 11 Jun 2021 13:51:31 +0000</pubDate>
+      <link>https://drpaneas.net/starlordgr/public/en/categories/news/</link>
+      <pubDate>Fri, 11 Jun 2021 18:10:43 +0000</pubDate>
       
-      <guid>https://starlord.gr/en/categories/news/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/en/categories/news/</guid>
       <description></description>
     </item>
     

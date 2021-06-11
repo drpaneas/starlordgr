@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, I Am John Doe on StarLord | Συλλέκτης Διαστημικών Ειδήσεων</title>
-    <link>https://starlord.gr/about/</link>
+    <link>https://drpaneas.net/starlordgr/public/about/</link>
     <description>Recent content in Hi, I Am John Doe on StarLord | Συλλέκτης Διαστημικών Ειδήσεων</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
     
-	<atom:link href="https://starlord.gr/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drpaneas.net/starlordgr/public/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
