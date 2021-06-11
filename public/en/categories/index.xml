@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on StarLord | Συλλέκτης Διαστημικών Ειδήσεων</title>
+    <link>https://starlord.gr/en/categories/</link>
+    <description>Recent content in Categories on StarLord | Συλλέκτης Διαστημικών Ειδήσεων</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Thanks for visiting and clear skies!</copyright>
+    <lastBuildDate>Fri, 11 Jun 2021 12:12:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://starlord.gr/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>https://starlord.gr/en/categories/news/</link>
+      <pubDate>Fri, 11 Jun 2021 12:12:33 +0000</pubDate>
+      
+      <guid>https://starlord.gr/en/categories/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
