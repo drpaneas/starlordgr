@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://starlord.gr"
+baseURL = "https://drpaneas.net/starlordgr/public/"
 title = "StarLord | Συλλέκτης Διαστημικών Ειδήσεων"
 theme = "logbook"
 # post pagination
