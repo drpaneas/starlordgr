@@ -91,4 +91,9 @@ jobs:
         skip_fetch: true
     
         
-      
+ 
+    # Deploy to GH Actions
+    - uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ${{ github.workspace }}/astrobotdir/public
