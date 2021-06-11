@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2021-06-11T18:11:21+00:00</lastmod>
+    <lastmod>2021-06-11T21:08:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2021-06-11T18:11:21+00:00</lastmod>
+    <lastmod>2021-06-11T21:08:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +33,13 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
-    <lastmod>2021-06-11T18:11:21+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</loc>
+    <lastmod>2021-06-11T21:08:09+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2021-06-11T18:11:21+00:00</lastmod>
+    <lastmod>2021-06-11T21:08:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2021-06-11T18:11:21+00:00</lastmod>
+    <lastmod>2021-06-11T21:08:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,6 +69,16 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2021-06-11T21:08:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B7%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CE%B8%CE%B1%CF%83%CF%84%CE%B5%CE%AF%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B7%CE%BD%CE%B1%CF%86%CF%81%CE%BF%CE%B4%CE%AF%CF%84%CE%B7%CF%84%CE%B7%CE%B4%CE%B9%CE%BA%CE%AE%CF%84%CE%B7%CF%82%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AEenvision/</loc>
+    <lastmod>2021-06-11T21:08:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
     <lastmod>2021-06-11T18:11:21+00:00</lastmod>
   </url>
   
@@ -135,11 +145,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CE%B7%CE%BB%CE%B9%CE%B1%CE%BA%CE%AE%CE%AD%CE%BA%CE%BB%CE%B5%CE%B9%CF%88%CE%B7%CF%83%CF%84%CE%B9%CF%8210%CE%B9%CE%BF%CF%85%CE%BD%CE%AF%CE%BF%CF%85%CE%B1%CF%80%CF%8C%CF%80%CE%BF%CF%8D%CE%B8%CE%B1%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9%CE%BF%CF%81%CE%B1%CF%84%CE%AE/</loc>
     <lastmod>2021-06-09T09:11:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</loc>
-    <lastmod>2021-06-09T06:23:58+00:00</lastmod>
   </url>
   
   <url>
