@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 12 Jun 2021 12:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jun 2021 18:09:21 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Sat, 12 Jun 2021 18:09:21 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Sat, 12 Jun 2021 18:08:47 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>skai.gr</title>
@@ -76,15 +94,6 @@
     </item>
     
     <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Wed, 09 Jun 2021 06:23:24 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>thermisnews.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</link>
       <pubDate>Thu, 03 Jun 2021 21:50:28 +0000</pubDate>
@@ -135,15 +144,6 @@
       <pubDate>Tue, 18 May 2021 03:23:06 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tanea.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Mon, 17 May 2021 06:10:16 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
       <description></description>
     </item>
     
