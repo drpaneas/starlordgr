@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
+    <lastmod>2021-06-16T12:13:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
+    <lastmod>2021-06-16T12:13:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,23 +33,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
+    <lastmod>2021-06-16T12:13:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/scorpiusenhanced/</loc>
-    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/rocketlabwinscontracttodesigntwinmarsspacecraftfornasa/</loc>
+    <lastmod>2021-06-16T12:13:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-06-16T12:13:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
+    <lastmod>2021-06-16T12:13:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
+    <lastmod>2021-06-16T12:13:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -75,6 +75,31 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/chinatolaunch3astronautstospacestationtonight/</loc>
+    <lastmod>2021-06-16T12:12:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/getdowntoearthwithformernasaastronautterryvirtsinnewpodcast/</loc>
+    <lastmod>2021-06-16T12:12:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/watchastronautsinstallnewspacestationsolararraysinaspacewalktoday/</loc>
+    <lastmod>2021-06-16T12:11:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/scorpiusenhanced/</loc>
+    <lastmod>2021-06-16T06:10:13+00:00</lastmod>
   </url>
   
   <url>
@@ -89,11 +114,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/cosmonautvladimirshatalovwholedthreesoyuzmissionsdiesat93/</loc>
-    <lastmod>2021-06-16T00:26:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
     <lastmod>2021-06-16T00:26:50+00:00</lastmod>
   </url>
   
