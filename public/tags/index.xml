@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 18:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 06:12:27 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>skai.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 15 Jun 2021 18:15:45 +0000</pubDate>
+      <pubDate>Wed, 16 Jun 2021 06:12:27 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Wed, 16 Jun 2021 06:11:54 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news247.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
+      <pubDate>Wed, 16 Jun 2021 06:10:46 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
@@ -27,15 +45,6 @@
       <pubDate>Tue, 15 Jun 2021 12:15:30 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Tue, 15 Jun 2021 09:11:37 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
       <description></description>
     </item>
     
@@ -108,15 +117,6 @@
       <pubDate>Wed, 09 Jun 2021 09:12:22 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news247.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Wed, 09 Jun 2021 09:11:54 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
