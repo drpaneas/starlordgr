@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2021-06-19T12:10:12+00:00</lastmod>
+    <lastmod>2021-06-19T15:10:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</loc>
+    <lastmod>2021-06-19T15:10:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2021-06-19T12:10:12+00:00</lastmod>
+    <lastmod>2021-06-19T15:10:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +38,8 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</loc>
-    <lastmod>2021-06-19T12:10:12+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2021-06-19T12:10:12+00:00</lastmod>
+    <lastmod>2021-06-19T15:10:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2021-06-19T12:10:12+00:00</lastmod>
+    <lastmod>2021-06-19T15:10:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,12 +68,42 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CF%83%CF%87%CE%B5%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CF%8D%CF%82%CE%B3%CE%B9%CE%B1%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AE%CF%81%CF%8C%CE%B2%CE%B5%CF%81%CE%AD%CF%89%CF%82%CF%84%CE%BF2030%CE%BA%CE%AC%CE%BD%CE%B5%CE%B9%CE%B7%CF%84%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1/</loc>
+    <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2021-06-19T15:10:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%B1%CE%AD%CF%87%CE%B5%CE%B9%CE%B7%CF%84%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1%CE%B3%CE%B9%CE%B1%CF%84%CE%BF%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CE%B8%CE%B1%CF%83%CF%84%CE%B5%CE%AF%CE%BB%CE%B5%CE%B9%CF%81%CF%8C%CE%B2%CE%B5%CF%81%CF%83%CF%84%CE%B7%CF%83%CE%B5%CE%BB%CE%AE%CE%BD%CE%B7/</loc>
+    <lastmod>2021-06-19T15:10:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</loc>
+    <lastmod>2021-06-19T15:09:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%84%CE%BF%CF%86%CE%B9%CE%BB%CF%8C%CE%B4%CE%BF%CE%BE%CE%BF%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%CF%84%CE%BF%CF%85%CE%B5%CF%81%CE%BD%CF%84%CE%BF%CE%B3%CE%AC%CE%BD%CE%B8%CE%AD%CE%BB%CE%B5%CE%B9%CE%BD%CE%B1%CF%83%CF%84%CE%B5%CE%AF%CE%BB%CE%B5%CE%B9%CE%B4%CE%B9%CE%B1%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C%CF%8C%CF%87%CE%B7%CE%BC%CE%B1%CF%83%CF%84%CE%B7%CF%83%CE%B5%CE%BB%CE%AE%CE%BD%CE%B7/</loc>
+    <lastmod>2021-06-19T15:09:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
+    <lastmod>2021-06-19T15:09:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B7%CF%84%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1%CF%83%CF%87%CE%B5%CE%B4%CE%B9%CE%AC%CE%B6%CE%B5%CE%B9%CE%BD%CE%B1%CF%83%CF%84%CE%B5%CE%AF%CE%BB%CE%B5%CE%B9%CF%81%CF%8C%CE%B2%CE%B5%CF%81%CF%83%CF%84%CE%B7%CF%83%CE%B5%CE%BB%CE%AE%CE%BD%CE%B7%CE%AD%CF%89%CF%82%CF%84%CE%BF2030%CE%BA%CE%B1%CE%B9%CE%B1%CF%83%CF%84%CF%81%CE%BF%CE%BD%CE%B1%CF%8D%CF%84%CE%B7%CF%83%CF%84%CE%BF%CE%B4%CE%B9%CE%B5%CE%B8%CE%BD%CE%AE%CE%B4%CE%B9%CE%B1%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C/</loc>
+    <lastmod>2021-06-19T15:09:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</loc>
     <lastmod>2021-06-19T12:10:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CF%83%CF%87%CE%B5%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CF%8D%CF%82%CE%B3%CE%B9%CE%B1%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AE%CF%81%CF%8C%CE%B2%CE%B5%CF%81%CE%AD%CF%89%CF%82%CF%84%CE%BF2030%CE%BA%CE%AC%CE%BD%CE%B5%CE%B9%CE%B7%CF%84%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1/</loc>
     <lastmod>2021-06-19T12:10:12+00:00</lastmod>
   </url>
   
@@ -193,11 +223,6 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
-    <lastmod>2021-06-16T06:12:27+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CE%BA%CE%AF%CE%BD%CE%B1%CF%84%CE%B7%CE%BD%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7%CE%B8%CE%B1%CE%B5%CE%BA%CF%84%CE%BF%CE%BE%CE%B5%CF%85%CE%B8%CE%B5%CE%AF%CE%B5%CF%80%CE%B1%CE%BD%CE%B4%CF%81%CF%89%CE%BC%CE%AD%CE%BD%CE%B7%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AE%CF%80%CF%81%CE%BF%CF%82%CF%84%CE%BF%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%82%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C/</loc>
     <lastmod>2021-06-16T06:12:27+00:00</lastmod>
   </url>
@@ -278,18 +303,8 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</loc>
-    <lastmod>2021-06-12T21:10:21+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CE%B1%CE%BD%CE%B1%CE%BA%CE%B1%CE%BB%CF%8D%CF%86%CE%B8%CE%B7%CE%BA%CE%B5%CE%BA%CE%BF%CE%BD%CF%84%CE%AC%CF%83%CF%84%CE%BF%CE%BA%CE%AD%CE%BD%CF%84%CF%81%CE%BF%CF%84%CE%BF%CF%85%CE%B3%CE%B1%CE%BB%CE%B1%CE%BE%CE%AF%CE%B1%CE%AD%CE%BD%CE%B1%CE%AC%CF%83%CF%84%CF%81%CE%BF%CF%80%CE%BF%CF%85%CE%B1%CE%BD%CE%B1%CE%B2%CE%BF%CF%83%CE%B2%CE%AE%CE%BD%CE%B5%CE%B9/</loc>
     <lastmod>2021-06-12T21:10:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</loc>
-    <lastmod>2021-06-12T21:09:52+00:00</lastmod>
   </url>
   
   <url>
