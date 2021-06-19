@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 19 Jun 2021 09:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jun 2021 12:10:12 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Sat, 19 Jun 2021 12:10:12 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news247.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
+      <pubDate>Sat, 19 Jun 2021 12:09:37 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>naftemporiki.gr</title>
@@ -36,15 +54,6 @@
       <pubDate>Fri, 18 Jun 2021 12:12:19 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news247.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Thu, 17 Jun 2021 06:09:46 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
@@ -108,15 +117,6 @@
       <pubDate>Sat, 12 Jun 2021 21:09:52 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Sat, 12 Jun 2021 21:09:23 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
       <description></description>
     </item>
     
