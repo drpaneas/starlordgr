@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2021-06-20T06:11:07+00:00</lastmod>
+    <lastmod>2021-06-20T12:12:25+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2021-06-20T06:11:07+00:00</lastmod>
+    <lastmod>2021-06-20T12:12:25+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,8 +33,13 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
+    <lastmod>2021-06-20T12:12:25+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2021-06-20T06:11:07+00:00</lastmod>
+    <lastmod>2021-06-20T12:12:25+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2021-06-20T06:11:07+00:00</lastmod>
+    <lastmod>2021-06-20T12:12:25+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,13 +68,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</loc>
-    <lastmod>2021-06-20T06:11:07+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2021-06-20T12:12:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
-    <lastmod>2021-06-20T06:11:07+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B9%CE%B4%CE%BF%CF%8D%CF%84%CE%BF%CF%81%CE%BF%CE%BC%CF%80%CF%8C%CF%84%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1%CF%82%CF%84%CE%BF%CF%85%CE%AC%CF%81%CE%B7/</loc>
+    <lastmod>2021-06-20T12:12:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</loc>
+    <lastmod>2021-06-20T12:11:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%85%CF%80%CE%AC%CF%81%CF%87%CE%BF%CF%85%CE%BD%CE%B5%CE%BE%CF%89%CE%B3%CE%AE%CE%B9%CE%BD%CE%BF%CE%B9%CF%80%CE%AD%CE%BD%CF%84%CE%B5%CE%B5%CE%B9%CE%B4%CE%B9%CE%BA%CE%BF%CE%AF%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%BF%CF%8D%CE%BD%CF%83%CF%84%CE%BF%CE%B1%CE%B9%CF%8E%CE%BD%CE%B9%CE%BF%CE%B5%CF%81%CF%8E%CF%84%CE%B7%CE%BC%CE%B1/</loc>
+    <lastmod>2021-06-20T12:11:47+00:00</lastmod>
   </url>
   
   <url>
@@ -125,11 +140,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CF%84%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1%CE%BF%CE%B5%CF%81%CE%BD%CF%84%CE%BF%CE%B3%CE%AC%CE%BD%CF%83%CF%84%CE%BF%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CE%B5%CF%84%CE%BF%CE%B9%CE%BC%CE%AC%CE%B6%CE%B5%CE%B910%CE%B5%CF%84%CE%AD%CF%82%CE%B4%CE%B9%CE%B1%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1/</loc>
     <lastmod>2021-06-19T12:09:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
-    <lastmod>2021-06-19T09:06:14+00:00</lastmod>
   </url>
   
   <url>
