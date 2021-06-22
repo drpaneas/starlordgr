@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Tue, 22 Jun 2021 12:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 21:15:40 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>thermisnews.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</link>
+      <pubDate>Tue, 22 Jun 2021 21:15:40 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>naftemporiki.gr</title>
@@ -108,15 +117,6 @@
       <pubDate>Thu, 17 Jun 2021 03:10:07 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thermisnews.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</link>
-      <pubDate>Wed, 16 Jun 2021 15:14:01 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
       <description></description>
     </item>
     
