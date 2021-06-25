@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Thu, 24 Jun 2021 18:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 06:09:40 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>esquire.com.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
+      <pubDate>Fri, 25 Jun 2021 06:09:40 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>thermisnews.gr</title>
@@ -135,15 +144,6 @@
       <pubDate>Tue, 15 Jun 2021 12:15:30 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>esquire.com.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
-      <pubDate>Tue, 01 Jun 2021 07:37:44 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
       <description></description>
     </item>
     
