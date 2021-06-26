@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</loc>
+    <lastmod>2021-06-26T06:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2021-06-25T12:14:54+00:00</lastmod>
+    <lastmod>2021-06-26T06:10:10+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2021-06-25T12:14:54+00:00</lastmod>
+    <lastmod>2021-06-26T06:10:10+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +38,8 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
-    <lastmod>2021-06-25T12:14:54+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2021-06-25T12:14:54+00:00</lastmod>
+    <lastmod>2021-06-26T06:10:10+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2021-06-25T12:14:54+00:00</lastmod>
+    <lastmod>2021-06-26T06:10:10+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,6 +69,31 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2021-06-26T06:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AC%CF%85%CF%80%CE%AC%CF%81%CF%87%CE%BF%CF%85%CE%BD%CE%B5%CE%BE%CF%89%CE%B3%CE%AE%CE%B9%CE%BD%CE%BF%CE%B9%CE%BD%CE%B1%CE%B9%CE%AE%CF%8C%CF%87%CE%B9/</loc>
+    <lastmod>2021-06-26T06:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/m%CE%B5105.000%CE%B5%CF%85%CF%81%CF%8E%CE%BC%CF%80%CE%BF%CF%81%CE%B5%CE%AF%CF%84%CE%B5%CE%BD%CE%B1%CE%BA%CE%AC%CE%BD%CE%B5%CF%84%CE%B5%CE%BC%CE%B9%CE%B1%CE%B5%CE%BE%CE%AC%CF%89%CF%81%CE%B7%CE%B2%CF%8C%CE%BB%CF%84%CE%B1%CF%83%CF%84%CE%BF%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CE%BC%CE%B5%CE%B1%CE%B5%CF%81%CF%8C%CF%83%CF%84%CE%B1%CF%84%CE%BF/</loc>
+    <lastmod>2021-06-26T06:09:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/news247.gr/</loc>
+    <lastmod>2021-06-26T06:09:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%85%CF%80%CE%AC%CF%81%CF%87%CE%BF%CF%85%CE%BD%CE%B5%CE%BE%CF%89%CE%B3%CE%AE%CE%B9%CE%BD%CE%BF%CE%B9%CE%B7%CF%80%CE%B5%CF%81%CE%AF%CE%B5%CF%81%CE%B3%CE%B7%CE%B1%CF%80%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B7%CE%B1%CF%80%CF%8C%CF%84%CE%B9%CF%82%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD%CF%84%CF%89%CE%BD%CE%B7%CF%80%CE%B1/</loc>
+    <lastmod>2021-06-26T06:09:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
     <lastmod>2021-06-25T12:14:54+00:00</lastmod>
   </url>
   
@@ -163,18 +188,8 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/news247.gr/</loc>
-    <lastmod>2021-06-23T18:17:34+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CE%B5%CF%85%CF%81%CF%89%CF%80%CE%B1%CF%8A%CE%BA%CF%8C%CF%82%CE%BF%CF%81%CE%B3%CE%B1%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82%CE%B4%CE%B9%CE%B1%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82280%CE%AD%CE%BB%CE%BB%CE%B7%CE%BD%CE%B5%CF%82%CE%AD%CE%BA%CE%B1%CE%BD%CE%B1%CE%BD%CE%B1%CE%AF%CF%84%CE%B7%CF%83%CE%B7%CE%BD%CE%B1%CE%B3%CE%AF%CE%BD%CE%BF%CF%85%CE%BD%CE%B1%CF%83%CF%84%CF%81%CE%BF%CE%BD%CE%B1%CF%8D%CF%84%CE%B5%CF%82/</loc>
     <lastmod>2021-06-23T18:17:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</loc>
-    <lastmod>2021-06-23T12:15:32+00:00</lastmod>
   </url>
   
   <url>
