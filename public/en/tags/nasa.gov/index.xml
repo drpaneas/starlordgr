@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Sat, 26 Jun 2021 06:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 06:07:02 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Dancing Auroras of Saturn</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/thedancingaurorasofsaturn/</link>
+      <pubDate>Sun, 27 Jun 2021 06:07:02 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/thedancingaurorasofsaturn/</guid>
+      <description>What drives auroras on Saturn?To help find out, scientists have sorted through hundreds of infrared images of Saturn taken by the Cassini spacecraft for other purposes, trying to find enough aurora images to correlate changes and make movies.Once made, some movies clearly show that Saturnian auroras can change not only with the angle of the Sun, but also as the planet rotates.</description>
+    </item>
     
     <item>
       <title>Pixels in the Sun</title>
