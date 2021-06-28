@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/apapermoonsolareclipse/</loc>
+    <lastmod>2021-06-28T06:07:42+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-06-28T00:19:33+00:00</lastmod>
+    <lastmod>2021-06-28T06:07:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-06-28T00:19:33+00:00</lastmod>
+    <lastmod>2021-06-28T06:07:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,18 +38,18 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/mostexoplanetswontreceiveenoughradiationtosupportanearthlikebiosphere/</loc>
-    <lastmod>2021-06-28T00:19:33+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-06-28T06:07:42+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-06-28T00:19:33+00:00</lastmod>
+    <lastmod>2021-06-28T06:07:42+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-06-28T00:19:33+00:00</lastmod>
+    <lastmod>2021-06-28T06:07:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-06-28T00:19:33+00:00</lastmod>
+    <lastmod>2021-06-28T06:07:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -70,6 +75,11 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/mostexoplanetswontreceiveenoughradiationtosupportanearthlikebiosphere/</loc>
+    <lastmod>2021-06-28T00:19:33+00:00</lastmod>
   </url>
   
   <url>
@@ -85,11 +95,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/gravitationalwavedetectorcouldsensemergingprimordialblackholeswiththemassofaplanetmillionsoflightyearsaway/</loc>
     <lastmod>2021-06-27T15:06:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2021-06-27T06:07:02+00:00</lastmod>
   </url>
   
   <url>
