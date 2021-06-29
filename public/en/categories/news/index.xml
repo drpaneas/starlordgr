@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Tue, 29 Jun 2021 12:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 15:11:53 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Lunar Farside Telescope Could Detect Exoplanets Through Their Magnetospheres</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/alunarfarsidetelescopecoulddetectexoplanetsthroughtheirmagnetospheres/</link>
+      <pubDate>Tue, 29 Jun 2021 15:11:53 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/alunarfarsidetelescopecoulddetectexoplanetsthroughtheirmagnetospheres/</guid>
+      <description>It’s difficult to do radio astronomy on Earth, and it’s getting harder every day. Our everyday reliance on radio technology means that radio interference is a constant challenge, even in remote areas. And for some wavelengths even the Earth’s atmosphere is a problem, absorbing or scattering radio light so that Earth-based telescopes can’t observe these wavelengths well.</description>
+    </item>
     
     <item>
       <title>Dust problems draining power from NASA&#39;s InSight Mars lander</title>
