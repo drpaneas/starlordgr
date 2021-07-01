@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Thu, 01 Jul 2021 18:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 21:09:23 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>news.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
+      <pubDate>Thu, 01 Jul 2021 21:09:23 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ethnos.gr</title>
@@ -135,15 +144,6 @@
       <pubDate>Wed, 16 Jun 2021 15:13:23 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tanea.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
-      <pubDate>Tue, 15 Jun 2021 12:15:30 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
       <description></description>
     </item>
     
