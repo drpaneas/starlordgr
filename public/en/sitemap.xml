@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/alongthemilkyway/</loc>
-    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
+    <lastmod>2021-07-03T15:08:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -24,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
+    <lastmod>2021-07-03T15:08:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -38,18 +33,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
+    <lastmod>2021-07-03T15:08:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-07-03T15:08:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/spacextrackingcameracapturesepicvideooffalcon9rocketlanding/</loc>
+    <lastmod>2021-07-03T15:08:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
+    <lastmod>2021-07-03T15:08:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
+    <lastmod>2021-07-03T15:08:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -75,6 +75,26 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/nasasperseveranceroveristakingitsownwheelformarsdrives/</loc>
+    <lastmod>2021-07-03T15:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/exclusivefilmmakershuntforthetruthinnewdocumentarytrailerforonthetrailofufosdarksky/</loc>
+    <lastmod>2021-07-03T15:06:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/alongthemilkyway/</loc>
+    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-07-03T06:09:22+00:00</lastmod>
   </url>
   
   <url>
@@ -89,11 +109,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/hurricaneelsa1stofseasoncouldhitfloridanextweek/</loc>
-    <lastmod>2021-07-03T03:07:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
     <lastmod>2021-07-03T03:07:08+00:00</lastmod>
   </url>
   
