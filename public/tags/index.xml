@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 12:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 06:10:41 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ethnos.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
+      <pubDate>Sat, 03 Jul 2021 06:10:41 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>naftemporiki.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Fri, 02 Jul 2021 12:14:01 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 06:10:01 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
@@ -45,15 +54,6 @@
       <pubDate>Thu, 01 Jul 2021 21:09:23 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethnos.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
-      <pubDate>Thu, 01 Jul 2021 18:17:14 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
       <description></description>
     </item>
     
