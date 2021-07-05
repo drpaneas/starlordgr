@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Mon, 05 Jul 2021 06:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 12:14:55 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>space.com</title>
+      <link>https://drpaneas.net/starlordgr/public/en/tags/space.com/</link>
+      <pubDate>Mon, 05 Jul 2021 12:14:55 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/tags/space.com/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>nasa.gov</title>
@@ -27,15 +36,6 @@
       <pubDate>Mon, 05 Jul 2021 00:17:43 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>space.com</title>
-      <link>https://drpaneas.net/starlordgr/public/en/tags/space.com/</link>
-      <pubDate>Sun, 04 Jul 2021 21:04:50 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/en/tags/space.com/</guid>
       <description></description>
     </item>
     
