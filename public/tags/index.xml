@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 18:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jul 2021 21:11:44 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>skai.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Wed, 07 Jul 2021 18:17:51 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 21:11:44 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
+      <pubDate>Wed, 07 Jul 2021 21:11:05 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Wed, 07 Jul 2021 21:10:24 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naftemporiki.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
+      <pubDate>Wed, 07 Jul 2021 21:09:44 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
@@ -58,38 +85,11 @@
     </item>
     
     <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Mon, 05 Jul 2021 18:09:27 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news247.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
       <pubDate>Mon, 05 Jul 2021 18:08:46 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>naftemporiki.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Sat, 03 Jul 2021 06:10:01 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
-      <pubDate>Thu, 01 Jul 2021 21:09:23 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
       <description></description>
     </item>
     
