@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Thu, 08 Jul 2021 00:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 06:07:41 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perihelion to Aphelion</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/periheliontoaphelion/</link>
+      <pubDate>Thu, 08 Jul 2021 06:07:41 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/periheliontoaphelion/</guid>
+      <description>Aphelion for 2021 occurred on July 5th.That&amp;rsquo;s the point in Earth&amp;rsquo;s elliptical orbit when it is farthest from the Sun.Of course, the distance from the Sun doesn&amp;rsquo;t determine the seasons.Those are governed bythe tilt of Earth&amp;rsquo;s axis of rotation,so July is still summer in the north and winter in the southernhemisphere.</description>
+    </item>
     
     <item>
       <title>SpaceX drone ship moves to California for West Coast rocket landings</title>
