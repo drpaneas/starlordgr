@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-07-09T12:13:44+00:00</lastmod>
+    <lastmod>2021-07-09T18:11:07+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-07-09T12:13:44+00:00</lastmod>
+    <lastmod>2021-07-09T18:11:07+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,18 +33,18 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-07-09T12:13:44+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/chineseastronautstaketheirfirstspacewalkoutsidethenewstation/</loc>
+    <lastmod>2021-07-09T18:11:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2021-07-09T12:13:44+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
+    <lastmod>2021-07-09T18:11:07+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-07-09T12:13:44+00:00</lastmod>
+    <lastmod>2021-07-09T18:11:07+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +59,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-07-09T12:13:44+00:00</lastmod>
+    <lastmod>2021-07-09T18:11:07+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -70,6 +70,31 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
+    <lastmod>2021-07-09T18:11:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/celebrationstomark60yearssincesecondsuborbitalspaceflight/</loc>
+    <lastmod>2021-07-09T18:10:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-07-09T18:10:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/earthobservingsatellitestartupplanetisgoingpublic/</loc>
+    <lastmod>2021-07-09T18:09:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/thelastvoyageofnasasspaceshuttlelookingbackatatlantisfinalmission10yearslater/</loc>
+    <lastmod>2021-07-09T18:09:03+00:00</lastmod>
   </url>
   
   <url>
@@ -109,11 +134,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/thereareprobablymanymoreearthsizedworldsthanpreviouslybelieved/</loc>
-    <lastmod>2021-07-09T03:06:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
     <lastmod>2021-07-09T03:06:53+00:00</lastmod>
   </url>
   
