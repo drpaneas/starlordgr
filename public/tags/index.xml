@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 11 Jul 2021 09:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 12:13:28 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 12:13:28 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 12:12:42 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 12:11:55 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naftemporiki.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 12:11:09 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>unboxholics.com</title>
@@ -18,15 +54,6 @@
       <pubDate>Sun, 11 Jul 2021 09:06:45 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Sun, 11 Jul 2021 06:09:15 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
       <description></description>
     </item>
     
@@ -58,38 +85,11 @@
     </item>
     
     <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Wed, 07 Jul 2021 21:11:44 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
       <pubDate>Wed, 07 Jul 2021 21:11:05 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Wed, 07 Jul 2021 21:10:24 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>naftemporiki.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Wed, 07 Jul 2021 21:09:44 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
