@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 11 Jul 2021 12:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 15:12:39 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 15:12:39 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protothema.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 15:12:04 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>skai.gr</title>
@@ -18,15 +36,6 @@
       <pubDate>Sun, 11 Jul 2021 12:13:28 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Sun, 11 Jul 2021 12:12:42 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
       <description></description>
     </item>
     
@@ -63,15 +72,6 @@
       <pubDate>Sat, 10 Jul 2021 09:08:22 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protothema.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
-      <pubDate>Fri, 09 Jul 2021 21:10:16 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
       <description></description>
     </item>
     
