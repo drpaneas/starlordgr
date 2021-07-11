@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 11 Jul 2021 15:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 18:20:42 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>businessdaily.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:20:42 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethnos.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:20:00 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:19:17 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:18:35 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:17:52 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protothema.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:17:09 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news247.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:16:26 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naftemporiki.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
+      <pubDate>Sun, 11 Jul 2021 18:15:44 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>in.gr</title>
@@ -18,42 +90,6 @@
       <pubDate>Sun, 11 Jul 2021 15:12:39 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protothema.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
-      <pubDate>Sun, 11 Jul 2021 15:12:04 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Sun, 11 Jul 2021 12:13:28 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Sun, 11 Jul 2021 12:11:55 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>naftemporiki.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Sun, 11 Jul 2021 12:11:09 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
@@ -67,38 +103,11 @@
     </item>
     
     <item>
-      <title>ethnos.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
-      <pubDate>Sat, 10 Jul 2021 09:08:22 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tovima.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</link>
       <pubDate>Thu, 08 Jul 2021 15:17:14 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
-      <pubDate>Wed, 07 Jul 2021 21:11:05 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news247.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Mon, 05 Jul 2021 18:08:46 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
@@ -126,15 +135,6 @@
       <pubDate>Thu, 24 Jun 2021 18:10:17 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>businessdaily.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
-      <pubDate>Sat, 19 Jun 2021 15:10:13 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
       <description></description>
     </item>
     
