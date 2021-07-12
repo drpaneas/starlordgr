@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Mon, 12 Jul 2021 12:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 15:15:05 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tovima.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</link>
+      <pubDate>Mon, 12 Jul 2021 15:15:05 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esquire.com.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
+      <pubDate>Mon, 12 Jul 2021 15:14:25 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ethnos.gr</title>
@@ -99,24 +117,6 @@
       <pubDate>Sun, 11 Jul 2021 15:12:39 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tovima.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</link>
-      <pubDate>Thu, 08 Jul 2021 15:17:14 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>esquire.com.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
-      <pubDate>Wed, 30 Jun 2021 09:11:28 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
       <description></description>
     </item>
     
