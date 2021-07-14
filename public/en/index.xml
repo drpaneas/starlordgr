@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Wed, 14 Jul 2021 03:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2021 06:08:44 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GW200115: Simulation of a Black Hole Merging with a Neutron Star</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/gw200115simulationofablackholemergingwithaneutronstar/</link>
+      <pubDate>Wed, 14 Jul 2021 06:08:44 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/gw200115simulationofablackholemergingwithaneutronstar/</guid>
+      <description>What happens when a black hole destroys a neutron star?Analyses indicate that just such an event created gravitational wave event GW200115, detected in 2020 January by LIGO and Virgo observatories.To better understand the unusual event, the featured visualization was created from a computer simulation.The visualization video starts with the black hole (about 6 times the Sun&amp;rsquo;s mass) and neutron star (about 1.</description>
+    </item>
     
     <item>
       <title>According to Elon, Starship Could Chomp up Space Junk</title>
