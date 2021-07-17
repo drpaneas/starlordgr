@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Fri, 16 Jul 2021 21:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jul 2021 12:13:53 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>skai.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Fri, 16 Jul 2021 21:08:47 +0000</pubDate>
+      <pubDate>Sat, 17 Jul 2021 12:13:53 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naftemporiki.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
+      <pubDate>Sat, 17 Jul 2021 12:13:05 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
@@ -63,15 +72,6 @@
       <pubDate>Fri, 16 Jul 2021 12:16:26 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>naftemporiki.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Thu, 15 Jul 2021 21:10:37 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
