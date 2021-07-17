@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/alphonsusandarzachel/</loc>
+    <lastmod>2021-07-17T06:06:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
+    <lastmod>2021-07-17T06:06:57+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -18,13 +23,8 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/blueoriginsfirsthumanlaunchwithjeffbezoswhentowatchandwhattoknow/</loc>
-    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
+    <lastmod>2021-07-17T06:06:57+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -38,18 +38,18 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-07-17T06:06:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
+    <lastmod>2021-07-17T06:06:57+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
+    <lastmod>2021-07-17T06:06:57+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
+    <lastmod>2021-07-17T06:06:57+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -75,6 +75,16 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/blueoriginsfirsthumanlaunchwithjeffbezoswhentowatchandwhattoknow/</loc>
+    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-07-17T00:20:14+00:00</lastmod>
   </url>
   
   <url>
@@ -144,11 +154,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/loveandwarbymoonlight/</loc>
-    <lastmod>2021-07-16T06:07:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
     <lastmod>2021-07-16T06:07:38+00:00</lastmod>
   </url>
   
