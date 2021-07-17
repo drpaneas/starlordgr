@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 17 Jul 2021 18:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jul 2021 21:07:09 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>thermisnews.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</link>
+      <pubDate>Sat, 17 Jul 2021 21:07:09 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Sat, 17 Jul 2021 21:06:28 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ethnos.gr</title>
@@ -94,15 +112,6 @@
     </item>
     
     <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Wed, 14 Jul 2021 06:09:31 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tovima.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</link>
       <pubDate>Mon, 12 Jul 2021 15:15:05 +0000</pubDate>
@@ -126,15 +135,6 @@
       <pubDate>Sun, 11 Jul 2021 18:20:42 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thermisnews.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</link>
-      <pubDate>Thu, 24 Jun 2021 18:10:17 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
       <description></description>
     </item>
     
