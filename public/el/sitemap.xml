@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2021-07-18T18:08:03+00:00</lastmod>
+    <lastmod>2021-07-19T09:08:54+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +18,8 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</loc>
-    <lastmod>2021-07-18T18:08:03+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2021-07-18T18:08:03+00:00</lastmod>
+    <lastmod>2021-07-19T09:08:54+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,7 +34,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2021-07-18T18:08:03+00:00</lastmod>
+    <lastmod>2021-07-19T09:08:54+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +49,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2021-07-18T18:08:03+00:00</lastmod>
+    <lastmod>2021-07-19T09:08:54+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +63,27 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</loc>
+    <lastmod>2021-07-19T09:08:54+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2021-07-19T09:08:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%80%CF%8E%CF%82%CE%BA%CE%B1%CE%B9%CF%80%CF%8C%CF%84%CE%B5%CE%BD%CE%B1%CF%80%CE%B1%CF%81%CE%B1%CE%BA%CE%BF%CE%BB%CE%BF%CF%85%CE%B8%CE%AE%CF%83%CE%B5%CF%84%CE%B5%CF%84%CE%B7%CE%BD%CE%B5%CE%BA%CF%84%CF%8C%CE%BE%CE%B5%CF%85%CF%83%CE%B7%CF%84%CE%BF%CF%85jeffbezos%CF%83%CF%84%CE%BF%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1/</loc>
+    <lastmod>2021-07-19T09:08:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%84%CE%BFhubble%CE%B5%CF%80%CE%AD%CF%83%CF%84%CF%81%CE%B5%CF%88%CE%B5%CE%BF%CE%B9%CF%80%CF%81%CE%BF%CF%83%CF%80%CE%AC%CE%B8%CE%B5%CE%B9%CE%B5%CF%82%CF%84%CF%89%CE%BD%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD%CF%83%CF%84%CE%AD%CF%86%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD%CE%BC%CE%B5%CE%B5%CF%80%CE%B9%CF%84%CF%85%CF%87%CE%AF%CE%B1/</loc>
+    <lastmod>2021-07-19T09:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</loc>
     <lastmod>2021-07-18T18:08:03+00:00</lastmod>
   </url>
   
@@ -105,11 +120,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
     <lastmod>2021-07-18T12:12:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</loc>
-    <lastmod>2021-07-18T09:06:05+00:00</lastmod>
   </url>
   
   <url>
