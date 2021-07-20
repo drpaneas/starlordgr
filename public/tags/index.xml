@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Tue, 20 Jul 2021 15:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 18:21:14 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>ethnos.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
-      <pubDate>Tue, 20 Jul 2021 15:21:15 +0000</pubDate>
+      <pubDate>Tue, 20 Jul 2021 18:21:14 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>skai.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 20 Jul 2021 15:20:33 +0000</pubDate>
+      <pubDate>Tue, 20 Jul 2021 18:20:24 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protothema.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
+      <pubDate>Tue, 20 Jul 2021 18:19:35 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
       <description></description>
     </item>
     
@@ -54,15 +63,6 @@
       <pubDate>Tue, 20 Jul 2021 15:18:25 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protothema.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
-      <pubDate>Tue, 20 Jul 2021 15:17:43 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
       <description></description>
     </item>
     
