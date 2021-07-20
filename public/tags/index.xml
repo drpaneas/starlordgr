@@ -7,17 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Tue, 20 Jul 2021 12:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 15:21:15 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ethnos.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
+      <pubDate>Tue, 20 Jul 2021 15:21:15 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>skai.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 20 Jul 2021 12:21:33 +0000</pubDate>
+      <pubDate>Tue, 20 Jul 2021 15:20:33 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esquire.com.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
+      <pubDate>Tue, 20 Jul 2021 15:19:52 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
+      <pubDate>Tue, 20 Jul 2021 15:19:09 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Tue, 20 Jul 2021 15:18:25 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protothema.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
+      <pubDate>Tue, 20 Jul 2021 15:17:43 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
       <description></description>
     </item>
     
@@ -36,24 +81,6 @@
       <pubDate>Tue, 20 Jul 2021 09:10:09 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Mon, 19 Jul 2021 21:13:25 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protothema.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
-      <pubDate>Mon, 19 Jul 2021 21:12:43 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
       <description></description>
     </item>
     
@@ -85,38 +112,11 @@
     </item>
     
     <item>
-      <title>news.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
-      <pubDate>Sun, 18 Jul 2021 15:09:53 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>thermisnews.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</link>
       <pubDate>Sat, 17 Jul 2021 21:07:09 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethnos.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
-      <pubDate>Sat, 17 Jul 2021 18:07:46 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>esquire.com.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
-      <pubDate>Fri, 16 Jul 2021 12:17:08 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
       <description></description>
     </item>
     
