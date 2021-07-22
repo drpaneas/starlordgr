@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 09:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 15:15:26 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>esquire.com.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
+      <pubDate>Thu, 22 Jul 2021 15:15:26 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>naftemporiki.gr</title>
@@ -81,15 +90,6 @@
       <pubDate>Tue, 20 Jul 2021 18:21:14 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>esquire.com.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
-      <pubDate>Tue, 20 Jul 2021 15:19:52 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
       <description></description>
     </item>
     
