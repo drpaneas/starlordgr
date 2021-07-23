@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-07-23T03:07:18+00:00</lastmod>
+    <lastmod>2021-07-23T06:08:56+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-07-23T03:07:18+00:00</lastmod>
+    <lastmod>2021-07-23T06:08:56+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,18 +33,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/micrometeoriteschurnupthesurfaceofeuropa.ifyouwanttofindlifeyoullneedtodigdownameterorso/</loc>
-    <lastmod>2021-07-23T03:07:18+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/elephantbatandsquid/</loc>
+    <lastmod>2021-07-23T06:08:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-07-23T06:08:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-07-23T03:07:18+00:00</lastmod>
+    <lastmod>2021-07-23T06:08:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-07-23T03:07:18+00:00</lastmod>
+    <lastmod>2021-07-23T06:08:56+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-07-23T03:07:18+00:00</lastmod>
+    <lastmod>2021-07-23T06:08:56+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -70,6 +75,11 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/micrometeoriteschurnupthesurfaceofeuropa.ifyouwanttofindlifeyoullneedtodigdownameterorso/</loc>
+    <lastmod>2021-07-23T03:07:18+00:00</lastmod>
   </url>
   
   <url>
@@ -160,11 +170,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/nasasperseverancerovergearsuptocaptureits1stmarsrocksample/</loc>
     <lastmod>2021-07-22T12:13:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2021-07-22T06:09:11+00:00</lastmod>
   </url>
   
   <url>
