@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 25 Jul 2021 09:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 18:07:47 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>esquire.com.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
-      <pubDate>Sun, 25 Jul 2021 09:07:39 +0000</pubDate>
+      <pubDate>Sun, 25 Jul 2021 18:07:47 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news247.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
+      <pubDate>Sun, 25 Jul 2021 18:07:09 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
@@ -90,15 +99,6 @@
       <pubDate>Fri, 23 Jul 2021 15:13:29 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news247.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Fri, 23 Jul 2021 15:12:52 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
