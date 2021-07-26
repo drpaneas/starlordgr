@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-07-26T12:18:34+00:00</lastmod>
+    <lastmod>2021-07-26T15:15:37+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-07-26T12:18:34+00:00</lastmod>
+    <lastmod>2021-07-26T15:15:37+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -34,17 +34,12 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-07-26T12:18:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2021-07-26T12:18:34+00:00</lastmod>
+    <lastmod>2021-07-26T15:15:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-07-26T12:18:34+00:00</lastmod>
+    <lastmod>2021-07-26T15:15:37+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +54,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-07-26T12:18:34+00:00</lastmod>
+    <lastmod>2021-07-26T15:15:37+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -70,6 +65,31 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
+    <lastmod>2021-07-26T15:15:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/zhurongfindsitsownparachuteonthesurfaceofmars/</loc>
+    <lastmod>2021-07-26T15:15:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/whenthesundiesearthsmagnetospherewontprovideprotectionanymore/</loc>
+    <lastmod>2021-07-26T15:14:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/asteroidthesizeofthegreatpyramidofgizajustflewsafelybyearth/</loc>
+    <lastmod>2021-07-26T15:14:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-07-26T15:14:06+00:00</lastmod>
   </url>
   
   <url>
@@ -104,11 +124,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/observingthenightsideofvenusisactuallyprettytricky/</loc>
-    <lastmod>2021-07-25T15:13:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
     <lastmod>2021-07-25T15:13:47+00:00</lastmod>
   </url>
   
