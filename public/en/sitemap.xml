@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-08-05T06:08:59+00:00</lastmod>
+    <lastmod>2021-08-05T12:19:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-08-05T06:08:59+00:00</lastmod>
+    <lastmod>2021-08-05T12:19:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,18 +33,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2021-08-05T06:08:59+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
+    <lastmod>2021-08-05T12:19:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-08-05T06:08:59+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-08-05T12:19:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/spacexliftshugesuperheavyrocketontolaunchstandphotos/</loc>
+    <lastmod>2021-08-05T12:19:08+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-08-05T06:08:59+00:00</lastmod>
+    <lastmod>2021-08-05T12:19:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-08-05T06:08:59+00:00</lastmod>
+    <lastmod>2021-08-05T12:19:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -73,17 +78,32 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/whatwilltheearthbelikein500years/</loc>
+    <lastmod>2021-08-05T12:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/9yearsonmarscuriosityrovermarksanotheranniversary/</loc>
+    <lastmod>2021-08-05T12:17:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/curiosityroverfindscutelittlerocklizardonmars/</loc>
+    <lastmod>2021-08-05T12:16:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-08-05T06:08:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/tychoandclavius/</loc>
     <lastmod>2021-08-05T06:08:59+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/netflixwillcoproduceadocumentaryaboutspacexsinspiration4mission/</loc>
-    <lastmod>2021-08-05T00:20:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
     <lastmod>2021-08-05T00:20:44+00:00</lastmod>
   </url>
   
