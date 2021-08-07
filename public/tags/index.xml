@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 07 Aug 2021 12:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Aug 2021 15:09:16 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Sat, 07 Aug 2021 15:09:16 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>naftemporiki.gr</title>
@@ -117,15 +126,6 @@
       <pubDate>Mon, 26 Jul 2021 21:15:02 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tanea.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Mon, 26 Jul 2021 18:06:21 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
       <description></description>
     </item>
     
