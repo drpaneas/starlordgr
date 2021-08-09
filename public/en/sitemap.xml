@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+    <lastmod>2021-08-09T12:20:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+    <lastmod>2021-08-09T12:20:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,23 +33,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/jupiterenergycrisiscausedbyaurorasscientistsfindinnewstudy/</loc>
+    <lastmod>2021-08-09T12:20:11+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+    <lastmod>2021-08-09T12:20:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/perseusandthelostmeteors/</loc>
-    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-08-09T12:20:11+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+    <lastmod>2021-08-09T12:20:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+    <lastmod>2021-08-09T12:20:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -75,6 +75,31 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/stellarpulsesaretransformedintoacelestialsymphony/</loc>
+    <lastmod>2021-08-09T12:19:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/sendingarttospaceaninterviewwithartistmicahjohnson/</loc>
+    <lastmod>2021-08-09T12:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/humaninfluenceonglobalwarmingisunequivocalunreportsays/</loc>
+    <lastmod>2021-08-09T12:17:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/perseusandthelostmeteors/</loc>
+    <lastmod>2021-08-09T06:08:01+00:00</lastmod>
   </url>
   
   <url>
@@ -89,11 +114,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/alleyesonvenus2spacecraftgearupforclosevenusflybysthisweek/</loc>
-    <lastmod>2021-08-08T15:11:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
     <lastmod>2021-08-08T15:11:03+00:00</lastmod>
   </url>
   
