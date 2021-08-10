@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Tue, 10 Aug 2021 03:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 06:09:40 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fire in Space</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/fireinspace/</link>
+      <pubDate>Tue, 10 Aug 2021 06:09:40 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/fireinspace/</guid>
+      <description>What does fire look like in space?In the gravity on Earth, heated air rises and expands, causing flames to be teardrop shaped.In the microgravity of the air-filled International Space Station (ISS), however, flames are spheres.Fire is the rapid acquisition of oxygen, and space flames meet new oxygen molecules when they float by randomly from all directions &amp;ndash; creating the enveloping sphere.</description>
+    </item>
     
     <item>
       <title>Astronomy Jargon 101: Parallax</title>
