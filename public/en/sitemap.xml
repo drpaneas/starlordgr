@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/astronomyjargon101luminosity/</loc>
+    <lastmod>2021-08-18T18:23:28+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
+    <lastmod>2021-08-18T18:23:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
+    <lastmod>2021-08-18T18:23:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,23 +38,13 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/intuitivemachinespicksspacexfalcon9rockettolaunchitsmoonlanderfornasa/</loc>
-    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
+    <lastmod>2021-08-18T18:23:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
+    <lastmod>2021-08-18T18:23:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -64,7 +59,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
+    <lastmod>2021-08-18T18:23:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -75,6 +70,46 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
+    <lastmod>2021-08-18T18:23:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/ingenuityseesperseverancefromabove/</loc>
+    <lastmod>2021-08-18T18:22:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/youcantellhowbigablackholeisbyhowiteats/</loc>
+    <lastmod>2021-08-18T18:21:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-08-18T18:20:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/theaugust2021fullmoonissomehowabluemoon.hereswhy./</loc>
+    <lastmod>2021-08-18T18:20:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/chineseastronomerseyetibetanplateausiteforobservatoryproject/</loc>
+    <lastmod>2021-08-18T18:19:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/spacexstarlinksatellitesresponsibleforoverhalfofcloseencountersinorbitscientistsays/</loc>
+    <lastmod>2021-08-18T18:18:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/intuitivemachinespicksspacexfalcon9rockettolaunchitsmoonlanderfornasa/</loc>
+    <lastmod>2021-08-18T12:18:20+00:00</lastmod>
   </url>
   
   <url>
@@ -99,11 +134,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/2024artemislandingscouldslipbecauseofalackofspacesuits.muskofferstodevelopthem/</loc>
-    <lastmod>2021-08-18T03:07:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
     <lastmod>2021-08-18T03:07:28+00:00</lastmod>
   </url>
   
