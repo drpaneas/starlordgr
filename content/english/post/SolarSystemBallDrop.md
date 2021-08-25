@@ -1,0 +1,14 @@
+---
+title: "Solar System Ball Drop"
+date: 2021-08-25T06:08:46+00:00
+images:
+  - "images/post/"
+author: "AstroBot"
+categories: ["News"]
+tags: ["nasa.gov"]
+draft: false
+---
+
+Does a ball drop faster on Earth, Jupiter, or Uranus? The featured animation shows a ball dropping from one kilometer high toward the surfaces of famous solar system bodies, assuming no air resistance. The force of gravity depends on the mass of the attracting object, with higher masses pulling down with greater forces.But gravitational force also depends on distance from the center of gravity, with shorter distances causing the ball to drop faster. Combining both mass and distance, it might be surprising to see that Uranus pulls the ball down slightly slower than Earth, despite containing over 14 times more mass.This happens because Uranus has a much lower density, which puts its cloud tops further away from its center of mass. Although the falling ball always speeds up, if you were on the ball you would not feel this acceleration because you would be in free-fall.Of the three planets mentioned, the video demonstrates a ball drops even faster on Jupiter than either Earth and Uranus.
+
+Διαβάστε περισσότερα: https://apod.nasa.gov/apod/ap210825.html

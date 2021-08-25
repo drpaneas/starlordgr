@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Tue, 24 Aug 2021 06:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 06:08:46 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solar System Ball Drop</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/solarsystemballdrop/</link>
+      <pubDate>Wed, 25 Aug 2021 06:08:46 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/solarsystemballdrop/</guid>
+      <description>Does a ball drop faster on Earth, Jupiter, or Uranus? The featured animation shows a ball dropping from one kilometer high toward the surfaces of famous solar system bodies, assuming no air resistance. The force of gravity depends on the mass of the attracting object, with higher masses pulling down with greater forces.</description>
+    </item>
     
     <item>
       <title>PDS 70: Disk, Planets, and Moons</title>
