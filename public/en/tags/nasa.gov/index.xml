@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Sat, 28 Aug 2021 06:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Aug 2021 06:08:25 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Orbits of Potentially Hazardous Asteroids</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/orbitsofpotentiallyhazardousasteroids/</link>
+      <pubDate>Sun, 29 Aug 2021 06:08:25 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/orbitsofpotentiallyhazardousasteroids/</guid>
+      <description>Are asteroids dangerous?Some are, but the likelihood of a dangerous asteroid striking the Earth during any given year is low.Because some past mass extinction events have been linked to asteroid impacts, however, humanity has made it a priority to find and catalog those asteroids that may one day affect life on Earth.</description>
+    </item>
     
     <item>
       <title>Mars Rock Rochette</title>
