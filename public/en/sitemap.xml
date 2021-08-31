@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-08-30T21:16:15+00:00</lastmod>
+    <lastmod>2021-08-31T03:12:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-08-30T21:16:15+00:00</lastmod>
+    <lastmod>2021-08-31T03:12:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -34,12 +34,22 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-08-30T21:16:15+00:00</lastmod>
+    <lastmod>2021-08-31T03:12:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-08-31T03:12:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/starwarsandhalloweencollideinidwsghostsofvaderscastleminiseriesfirstlook/</loc>
+    <lastmod>2021-08-31T03:12:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-08-30T21:16:15+00:00</lastmod>
+    <lastmod>2021-08-31T03:12:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -54,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-08-30T21:16:15+00:00</lastmod>
+    <lastmod>2021-08-31T03:12:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -65,6 +75,16 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/amazinghubbletelescopephotoshowsspaceswordpiercinghugecelestialheart/</loc>
+    <lastmod>2021-08-31T03:11:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/hurricaneidafromspacephotosfromastronautsandsatellites/</loc>
+    <lastmod>2021-08-31T03:10:49+00:00</lastmod>
   </url>
   
   <url>
@@ -79,11 +99,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/smallcracksfoundininternationalspacestationmodulereport/</loc>
-    <lastmod>2021-08-30T21:15:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
     <lastmod>2021-08-30T21:15:19+00:00</lastmod>
   </url>
   
