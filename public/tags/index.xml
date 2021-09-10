@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Fri, 10 Sep 2021 09:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 12:22:00 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ethnos.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
+      <pubDate>Fri, 10 Sep 2021 12:22:00 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Fri, 10 Sep 2021 12:21:12 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>esquire.com.gr</title>
@@ -63,24 +81,6 @@
       <pubDate>Thu, 09 Sep 2021 21:08:27 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Thu, 09 Sep 2021 15:14:16 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethnos.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
-      <pubDate>Tue, 07 Sep 2021 21:13:20 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
       <description></description>
     </item>
     

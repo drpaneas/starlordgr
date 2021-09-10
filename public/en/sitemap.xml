@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
+    <lastmod>2021-09-10T12:20:23+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
+    <lastmod>2021-09-10T12:20:23+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,23 +33,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
+    <lastmod>2021-09-10T12:20:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/rosettascometinview/</loc>
-    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-09-10T12:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/spacexsinspiration4allcivilianspaceflightwhentowatchandwhattoknow/</loc>
+    <lastmod>2021-09-10T12:20:23+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
+    <lastmod>2021-09-10T12:20:23+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
+    <lastmod>2021-09-10T12:20:23+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -75,6 +75,41 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/1stsignofelusivetrianglesingularityshowsparticlesswappingidentitiesinmidflight/</loc>
+    <lastmod>2021-09-10T12:19:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/nasahelpsstudentslaunchintonewschoolyearwithspacerelatededucationalresources/</loc>
+    <lastmod>2021-09-10T12:18:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/brilliantmeteorlightsupskyoversouthernenglandcoastvideo/</loc>
+    <lastmod>2021-09-10T12:17:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/watchthecastofstartrekstrangenewworldsintroducethemselves/</loc>
+    <lastmod>2021-09-10T12:17:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/startreklowerdecksmidseason2trailerpromisesevenmorespacehijinksforfans/</loc>
+    <lastmod>2021-09-10T12:16:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/rosettascometinview/</loc>
+    <lastmod>2021-09-10T06:09:41+00:00</lastmod>
   </url>
   
   <url>
@@ -90,11 +125,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/whitedwarfscancontinueburninghydrogenevenaftertheyredead/</loc>
     <lastmod>2021-09-10T00:30:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2021-09-10T00:29:34+00:00</lastmod>
   </url>
   
   <url>
