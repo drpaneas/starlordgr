@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 11 Sep 2021 12:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Sep 2021 21:05:52 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>businessdaily.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
+      <pubDate>Sat, 11 Sep 2021 21:05:52 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>esquire.com.gr</title>
@@ -90,15 +99,6 @@
       <pubDate>Thu, 09 Sep 2021 21:08:27 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/thermisnews.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>businessdaily.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
-      <pubDate>Fri, 03 Sep 2021 21:08:08 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
       <description></description>
     </item>
     
