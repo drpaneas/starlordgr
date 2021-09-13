@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 12 Sep 2021 21:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 06:12:05 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Mon, 13 Sep 2021 06:12:05 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news247.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
+      <pubDate>Mon, 13 Sep 2021 06:11:07 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>thermisnews.gr</title>
@@ -67,29 +85,11 @@
     </item>
     
     <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Sat, 11 Sep 2021 09:12:30 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>naftemporiki.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
       <pubDate>Sat, 11 Sep 2021 09:11:45 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news247.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Fri, 10 Sep 2021 09:17:47 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
