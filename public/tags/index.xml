@@ -7,17 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Fri, 17 Sep 2021 06:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 09:24:19 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Fri, 17 Sep 2021 06:09:05 +0000</pubDate>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Fri, 17 Sep 2021 09:24:19 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Fri, 17 Sep 2021 09:22:41 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protothema.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
+      <pubDate>Fri, 17 Sep 2021 09:21:03 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naftemporiki.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
+      <pubDate>Fri, 17 Sep 2021 09:19:24 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
@@ -27,6 +54,15 @@
       <pubDate>Thu, 16 Sep 2021 09:10:08 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Thu, 16 Sep 2021 09:09:19 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
       <description></description>
     </item>
     
@@ -58,38 +94,11 @@
     </item>
     
     <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Thu, 16 Sep 2021 06:16:13 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news247.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
       <pubDate>Thu, 16 Sep 2021 06:15:13 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Thu, 16 Sep 2021 03:14:59 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>naftemporiki.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Thu, 16 Sep 2021 03:13:07 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
@@ -108,15 +117,6 @@
       <pubDate>Wed, 15 Sep 2021 21:17:58 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protothema.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
-      <pubDate>Fri, 10 Sep 2021 06:10:34 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
       <description></description>
     </item>
     
