@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/astronautbloodandurinecouldhelpbuildstructuresonthemoon/</loc>
+    <lastmod>2021-09-18T06:12:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-09-18T00:22:04+00:00</lastmod>
+    <lastmod>2021-09-18T06:12:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-09-18T00:22:04+00:00</lastmod>
+    <lastmod>2021-09-18T06:12:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -34,17 +39,12 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-09-18T00:22:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/somethingbigjusthitjupiter/</loc>
-    <lastmod>2021-09-18T00:22:04+00:00</lastmod>
+    <lastmod>2021-09-18T06:12:08+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-09-18T00:22:04+00:00</lastmod>
+    <lastmod>2021-09-18T06:12:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +59,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-09-18T00:22:04+00:00</lastmod>
+    <lastmod>2021-09-18T06:12:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -74,6 +74,21 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
+    <lastmod>2021-09-18T06:12:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-09-18T06:11:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/rubinsgalaxy/</loc>
+    <lastmod>2021-09-18T06:11:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/somethingbigjusthitjupiter/</loc>
     <lastmod>2021-09-18T00:22:04+00:00</lastmod>
   </url>
   
@@ -369,11 +384,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/aspiralauroraovericeland/</loc>
-    <lastmod>2021-09-12T06:08:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
     <lastmod>2021-09-12T06:08:51+00:00</lastmod>
   </url>
   
