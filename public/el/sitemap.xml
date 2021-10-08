@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CE%BF%CE%B9%CF%80%CF%81%CF%8E%CF%84%CE%B5%CF%82%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B5%CF%82%CE%B1%CF%80%CF%8C%CF%84%CE%B7%CE%BD%CE%B1%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CE%BB%CE%AF%CE%BC%CE%BD%CE%B7%CF%84%CE%BF%CF%85%CE%AC%CF%81%CE%B7%CF%80%CF%8E%CF%82%CE%BC%CE%B5%CF%84%CE%B1%CF%84%CF%81%CE%AC%CF%80%CE%B7%CE%BA%CE%B5%CF%83%CE%B5%CE%BA%CF%81%CE%B1%CF%84%CE%AE%CF%81%CE%B1/</loc>
+    <lastmod>2021-10-08T06:14:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2021-10-08T18:12:38+00:00</lastmod>
+    <lastmod>2021-10-08T06:14:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2021-10-08T18:12:38+00:00</lastmod>
+    <lastmod>2021-10-08T06:14:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +38,13 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
-    <lastmod>2021-10-08T18:12:38+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
+    <lastmod>2021-10-08T06:14:04+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2021-10-08T18:12:38+00:00</lastmod>
+    <lastmod>2021-10-08T06:14:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +59,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2021-10-08T18:12:38+00:00</lastmod>
+    <lastmod>2021-10-08T06:14:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,22 +74,12 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
-    <lastmod>2021-10-08T18:12:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B7nasa%CE%B5%CF%80%CE%AD%CE%BB%CE%B5%CE%BE%CE%B5%CF%84%CE%B7%CE%BD%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE%CF%80%CE%BF%CF%85%CE%B8%CE%B1%CF%83%CF%84%CE%B5%CE%AF%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%81%CF%8C%CE%B2%CE%B5%CF%81%CE%B1%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7%CF%82%CE%BD%CE%B5%CF%81%CE%BF%CF%8D/</loc>
-    <lastmod>2021-10-08T18:12:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/post/%CE%BF%CE%B9%CF%80%CF%81%CF%8E%CF%84%CE%B5%CF%82%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B5%CF%82%CE%B1%CF%80%CF%8C%CF%84%CE%B7%CE%BD%CE%B1%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CE%BB%CE%AF%CE%BC%CE%BD%CE%B7%CF%84%CE%BF%CF%85%CE%AC%CF%81%CE%B7%CF%80%CF%8E%CF%82%CE%BC%CE%B5%CF%84%CE%B1%CF%84%CF%81%CE%AC%CF%80%CE%B7%CE%BA%CE%B5%CF%83%CE%B5%CE%BA%CF%81%CE%B1%CF%84%CE%AE%CF%81%CE%B1/</loc>
     <lastmod>2021-10-08T06:14:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
-    <lastmod>2021-10-08T06:14:04+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</loc>
+    <lastmod>2021-10-08T06:13:13+00:00</lastmod>
   </url>
   
   <url>
