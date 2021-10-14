@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Tue, 12 Oct 2021 21:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 15:18:17 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ethnos.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
+      <pubDate>Thu, 14 Oct 2021 15:18:17 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Thu, 14 Oct 2021 15:17:22 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cnn.gr</title>
@@ -58,15 +76,6 @@
     </item>
     
     <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Fri, 08 Oct 2021 06:14:04 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>protothema.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</link>
       <pubDate>Thu, 07 Oct 2021 21:17:30 +0000</pubDate>
@@ -108,15 +117,6 @@
       <pubDate>Tue, 28 Sep 2021 00:27:37 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethnos.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</link>
-      <pubDate>Sun, 26 Sep 2021 15:06:59 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
       <description></description>
     </item>
     
