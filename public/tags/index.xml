@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Wed, 20 Oct 2021 09:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 12:15:37 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>esquire.com.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
-      <pubDate>Wed, 20 Oct 2021 09:11:49 +0000</pubDate>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Wed, 20 Oct 2021 12:15:37 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
@@ -63,15 +63,6 @@
       <pubDate>Sun, 17 Oct 2021 12:17:53 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Sun, 17 Oct 2021 09:14:53 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
@@ -135,6 +126,15 @@
       <pubDate>Sun, 19 Sep 2021 06:19:47 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esquire.com.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
+      <pubDate>Thu, 16 Sep 2021 09:10:08 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
       <description></description>
     </item>
     
