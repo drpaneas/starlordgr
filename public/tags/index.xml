@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 30 Oct 2021 06:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Oct 2021 15:17:13 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>egno.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/egno.gr/</link>
+      <pubDate>Sun, 31 Oct 2021 15:17:13 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/egno.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Sun, 31 Oct 2021 15:16:18 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>news247.gr</title>
@@ -45,15 +63,6 @@
       <pubDate>Tue, 26 Oct 2021 09:17:24 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 26 Oct 2021 09:16:25 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
@@ -162,15 +171,6 @@
       <pubDate>Thu, 22 Jul 2021 18:11:54 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/maxmag.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>egno.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/egno.gr/</link>
-      <pubDate>Thu, 20 May 2021 15:14:09 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/egno.gr/</guid>
       <description></description>
     </item>
     
