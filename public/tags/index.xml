@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 31 Oct 2021 15:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 12:28:29 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>egno.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/egno.gr/</link>
-      <pubDate>Sun, 31 Oct 2021 15:17:13 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/egno.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>skai.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Sun, 31 Oct 2021 15:16:18 +0000</pubDate>
+      <pubDate>Tue, 02 Nov 2021 12:28:29 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>news247.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Sat, 30 Oct 2021 06:10:57 +0000</pubDate>
+      <pubDate>Tue, 02 Nov 2021 12:27:33 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
@@ -42,9 +33,18 @@
     <item>
       <title>naftemporiki.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Thu, 28 Oct 2021 12:16:25 +0000</pubDate>
+      <pubDate>Tue, 02 Nov 2021 12:26:37 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>egno.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/egno.gr/</link>
+      <pubDate>Sun, 31 Oct 2021 15:17:13 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/egno.gr/</guid>
       <description></description>
     </item>
     
