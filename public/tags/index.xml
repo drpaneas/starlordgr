@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Wed, 03 Nov 2021 15:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 09:13:34 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Thu, 04 Nov 2021 09:13:34 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>unboxholics.com</title>
@@ -18,15 +27,6 @@
       <pubDate>Wed, 03 Nov 2021 15:14:29 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 02 Nov 2021 12:28:29 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
