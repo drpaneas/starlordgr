@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Tue, 16 Nov 2021 18:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 09:15:42 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Wed, 17 Nov 2021 09:15:42 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>skai.gr</title>
@@ -126,15 +135,6 @@
       <pubDate>Sun, 10 Oct 2021 18:08:29 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Sun, 10 Oct 2021 06:10:26 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
       <description></description>
     </item>
     
