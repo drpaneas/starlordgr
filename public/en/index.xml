@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Wed, 17 Nov 2021 00:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 06:09:54 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NGC 3314: When Galaxies Overlap</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/ngc3314whengalaxiesoverlap/</link>
+      <pubDate>Wed, 17 Nov 2021 06:09:54 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/ngc3314whengalaxiesoverlap/</guid>
+      <description>Why doesn&amp;rsquo;t the nearby galaxy create a gravitational lensing effect on the background galaxy?It does, but since both galaxies are so nearby, the angular shift is much smaller than the angular sizes of the galaxies themselves. The featured Hubble image of NGC 3314 shows two large spiral galaxies which happen to line up exactly.</description>
+    </item>
     
     <item>
       <title>A new Simulation of the Universe Contains 60 Trillion Particles, the Most Ever</title>
