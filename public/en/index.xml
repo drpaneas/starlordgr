@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Tue, 23 Nov 2021 03:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 06:09:28 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Sun in X rays from NuSTAR</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/thesuninxraysfromnustar/</link>
+      <pubDate>Tue, 23 Nov 2021 06:09:28 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/thesuninxraysfromnustar/</guid>
+      <description>Why are the regions above sunspots so hot?Sunspots themselves are a bit cooler than the surrounding solar surface because the magnetic fields that create them reduce convective heating. It is therefore unusual that regions overhead &amp;ndash; even much higher up in the Sun&amp;rsquo;s corona &amp;ndash; can be hundreds of times hotter.</description>
+    </item>
     
     <item>
       <title>If Alien Probes are Already in the Solar System, Maybe we Could Detect Them Calling Home</title>
