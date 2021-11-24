@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B5%CE%BA%CF%84%CE%BF%CE%BE%CE%B5%CF%8D%CF%84%CE%B7%CE%BA%CE%B5%CE%B7%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AE%CF%84%CE%B5%CF%83%CF%84dart%CE%AD%CE%BD%CE%B1%CE%BD%CF%84%CE%B9%CE%BC%CE%B5%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%BF%CF%8D%CE%BA%CE%B9%CE%BD%CE%B4%CF%8D%CE%BD%CE%BF%CF%85%CE%B1%CF%80%CF%8C%CE%B1%CF%83%CF%84%CE%B5%CF%81%CE%BF%CE%B5%CE%B9%CE%B4%CE%AE/</loc>
+    <lastmod>2021-11-24T09:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2021-11-23T18:15:27+00:00</lastmod>
+    <lastmod>2021-11-24T09:17:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2021-11-23T18:15:27+00:00</lastmod>
+    <lastmod>2021-11-24T09:17:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +38,13 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/egno.gr/</loc>
-    <lastmod>2021-11-23T18:15:27+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
+    <lastmod>2021-11-24T09:17:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2021-11-23T18:15:27+00:00</lastmod>
+    <lastmod>2021-11-24T09:17:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +59,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2021-11-23T18:15:27+00:00</lastmod>
+    <lastmod>2021-11-24T09:17:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,18 +73,18 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2021-11-24T09:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/egno.gr/</loc>
+    <lastmod>2021-11-23T18:15:27+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CE%B4%CE%AF%CE%B4%CF%85%CE%BC%CE%BF%CF%82%CE%BA%CE%B1%CE%B9%CE%B4%CE%AF%CE%BC%CE%BF%CF%81%CF%86%CE%BF%CF%82%CE%AD%CE%BD%CE%B1%CE%BC%CE%B9%CE%BA%CF%81%CF%8C%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CE%B1%CF%83%CF%84%CE%B5%CF%81%CE%BF%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD%CE%BC%CE%B5%CF%83%CE%B7%CE%BC%CE%B1%CE%BD%CF%84%CE%B9%CE%BA%CF%8C%CF%81%CF%8C%CE%BB%CE%BF%CE%B3%CE%B9%CE%B1%CF%84%CE%B7%CE%BD%CE%B1%CE%BD%CE%B8%CF%81%CF%89%CF%80%CF%8C%CF%84%CE%B7%CF%84%CE%B1/</loc>
     <lastmod>2021-11-23T18:15:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
-    <lastmod>2021-11-23T18:15:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
-    <lastmod>2021-11-23T18:14:26+00:00</lastmod>
   </url>
   
   <url>
