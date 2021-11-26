@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/aspacetelescopewithonejobfindhabitableplanetsatalphacentauri/</loc>
-    <lastmod>2021-11-26T03:08:24+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2021-11-26T03:08:24+00:00</lastmod>
+    <lastmod>2021-11-26T12:13:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -24,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2021-11-26T03:08:24+00:00</lastmod>
+    <lastmod>2021-11-26T12:13:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -39,12 +34,17 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2021-11-26T03:08:24+00:00</lastmod>
+    <lastmod>2021-11-26T12:13:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2021-11-26T12:13:13+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2021-11-26T03:08:24+00:00</lastmod>
+    <lastmod>2021-11-26T12:13:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +59,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2021-11-26T03:08:24+00:00</lastmod>
+    <lastmod>2021-11-26T12:13:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -70,6 +70,21 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/thetrappist1solarsystemnotbombardedbyspacerockslikeearlyearthstudysuggests/</loc>
+    <lastmod>2021-11-26T12:13:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/russianasattestaddsrisktosolarorbiterssupercloseearthflyby/</loc>
+    <lastmod>2021-11-26T12:12:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/aspacetelescopewithonejobfindhabitableplanetsatalphacentauri/</loc>
+    <lastmod>2021-11-26T03:08:24+00:00</lastmod>
   </url>
   
   <url>
@@ -99,11 +114,6 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/nasasperseveranceroveronmarsjustsnaggeditsnewestrocksamplephotos/</loc>
-    <lastmod>2021-11-25T00:23:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
     <lastmod>2021-11-25T00:23:57+00:00</lastmod>
   </url>
   
