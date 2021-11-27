@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thanks for visiting and clear skies!</copyright>
-    <lastBuildDate>Fri, 26 Nov 2021 12:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Nov 2021 03:08:58 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/en/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Machine-Learning Algorithm Just Found 301 Additional Planets in Kepler Data</title>
+      <link>https://drpaneas.net/starlordgr/public/en/post/amachinelearningalgorithmjustfound301additionalplanetsinkeplerdata/</link>
+      <pubDate>Sat, 27 Nov 2021 03:08:58 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/en/post/amachinelearningalgorithmjustfound301additionalplanetsinkeplerdata/</guid>
+      <description>Looking to the future, astronomers are excited to see how machine learning – aka. deep learning and artificial intelligence (AI) – will enhance surveys. One field that is already benefitting in the search for extrasolar planets, where researchers rely on machine-learning algorithms to distinguish between faint signals and background noise. As this field continues to transition from discovery to characterization, the role of machine intelligence is likely to become even more critical.</description>
+    </item>
     
     <item>
       <title>The TRAPPIST-1 solar system not bombarded by space rocks like early Earth, study suggests</title>
