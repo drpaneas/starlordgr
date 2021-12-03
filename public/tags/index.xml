@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Fri, 03 Dec 2021 09:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 13:25:24 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>astronio.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</link>
+      <pubDate>Fri, 03 Dec 2021 13:25:24 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>naftemporiki.gr</title>
