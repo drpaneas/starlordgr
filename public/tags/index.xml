@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Tue, 07 Dec 2021 18:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Dec 2021 00:32:35 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>astronio.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</link>
+      <pubDate>Wed, 08 Dec 2021 00:32:35 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>naftemporiki.gr</title>
@@ -45,15 +54,6 @@
       <pubDate>Tue, 07 Dec 2021 03:09:41 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>astronio.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</link>
-      <pubDate>Fri, 03 Dec 2021 15:49:02 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</guid>
       <description></description>
     </item>
     
