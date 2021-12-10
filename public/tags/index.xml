@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Fri, 10 Dec 2021 12:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Dec 2021 15:13:24 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>in.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
-      <pubDate>Fri, 10 Dec 2021 12:16:18 +0000</pubDate>
+      <title>tovima.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</link>
+      <pubDate>Fri, 10 Dec 2021 15:13:24 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
       <description></description>
     </item>
     
@@ -94,6 +94,15 @@
     </item>
     
     <item>
+      <title>in.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
+      <pubDate>Thu, 18 Nov 2021 09:14:32 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>alfavita.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</link>
       <pubDate>Thu, 11 Nov 2021 21:22:19 +0000</pubDate>
@@ -135,15 +144,6 @@
       <pubDate>Sun, 17 Oct 2021 12:18:47 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tovima.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</link>
-      <pubDate>Sun, 10 Oct 2021 18:08:29 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
       <description></description>
     </item>
     
