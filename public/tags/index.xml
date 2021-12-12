@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 12 Dec 2021 06:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 12:11:07 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>news247.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Sun, 12 Dec 2021 06:11:15 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>naftemporiki.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Sat, 11 Dec 2021 09:09:36 +0000</pubDate>
+      <pubDate>Sun, 12 Dec 2021 12:11:07 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
@@ -90,6 +81,15 @@
       <pubDate>Tue, 23 Nov 2021 18:15:27 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/egno.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news247.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
+      <pubDate>Tue, 23 Nov 2021 09:13:22 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
