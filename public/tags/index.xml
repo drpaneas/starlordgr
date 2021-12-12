@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 12 Dec 2021 00:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 06:11:15 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>businessdaily.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
-      <pubDate>Sun, 12 Dec 2021 00:26:16 +0000</pubDate>
+      <title>news247.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
+      <pubDate>Sun, 12 Dec 2021 06:11:15 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
       <description></description>
     </item>
     
@@ -94,15 +94,6 @@
     </item>
     
     <item>
-      <title>news247.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news247.gr/</link>
-      <pubDate>Tue, 23 Nov 2021 09:13:22 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/news247.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>in.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/in.gr/</link>
       <pubDate>Thu, 18 Nov 2021 09:14:32 +0000</pubDate>
@@ -126,6 +117,15 @@
       <pubDate>Sat, 06 Nov 2021 09:15:31 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>businessdaily.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
+      <pubDate>Tue, 26 Oct 2021 09:18:20 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
       <description></description>
     </item>
     
