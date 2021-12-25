@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 25 Dec 2021 15:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Dec 2021 18:11:37 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>alfavita.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</link>
-      <pubDate>Sat, 25 Dec 2021 15:14:09 +0000</pubDate>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Sat, 25 Dec 2021 18:11:37 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
@@ -45,15 +45,6 @@
       <pubDate>Wed, 08 Dec 2021 22:22:17 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 07 Dec 2021 09:11:08 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
@@ -108,6 +99,15 @@
       <pubDate>Thu, 18 Nov 2021 09:14:32 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alfavita.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</link>
+      <pubDate>Thu, 11 Nov 2021 21:22:19 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
       <description></description>
     </item>
     
