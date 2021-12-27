@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Mon, 27 Dec 2021 18:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 18:12:37 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>alfavita.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</link>
-      <pubDate>Mon, 27 Dec 2021 18:13:37 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>naftemporiki.gr</title>
@@ -108,6 +99,15 @@
       <pubDate>Thu, 18 Nov 2021 09:14:32 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alfavita.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</link>
+      <pubDate>Thu, 11 Nov 2021 21:22:19 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
       <description></description>
     </item>
     
