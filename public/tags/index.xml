@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sun, 26 Dec 2021 21:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 09:09:36 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>businessdaily.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
-      <pubDate>Sun, 26 Dec 2021 21:06:06 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>naftemporiki.gr</title>
@@ -126,6 +117,15 @@
       <pubDate>Sat, 06 Nov 2021 09:15:31 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>businessdaily.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
+      <pubDate>Tue, 26 Oct 2021 09:18:20 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</guid>
       <description></description>
     </item>
     
