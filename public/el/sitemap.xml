@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2022-01-01T21:11:41+00:00</lastmod>
+    <lastmod>2022-01-03T09:09:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +18,8 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</loc>
-    <lastmod>2022-01-01T21:11:41+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2022-01-01T21:11:41+00:00</lastmod>
+    <lastmod>2022-01-03T09:09:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,8 +33,13 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
+    <lastmod>2022-01-03T09:09:42+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2022-01-01T21:11:41+00:00</lastmod>
+    <lastmod>2022-01-03T09:09:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2022-01-01T21:11:41+00:00</lastmod>
+    <lastmod>2022-01-03T09:09:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,6 +69,16 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2022-01-03T09:09:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CF%84%CE%B5%CF%84%CE%B1%CF%81%CF%84%CE%AF%CE%B4%CE%B5%CF%82%CF%83%CF%84%CE%B9%CF%8222.40%CE%BF%CF%81%CE%B1%CF%84%CE%AE%CF%83%CF%84%CE%B7%CF%87%CF%8E%CF%81%CE%B1%CE%BC%CE%B1%CF%82%CE%B7%CE%B2%CF%81%CE%BF%CF%87%CE%AE%CE%B4%CE%B9%CE%B1%CF%84%CF%84%CF%8C%CE%BD%CF%84%CF%89%CE%BD%CE%B1%CF%83%CF%84%CE%AD%CF%81%CF%89%CE%BD/</loc>
+    <lastmod>2022-01-03T09:09:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</loc>
     <lastmod>2022-01-01T21:11:41+00:00</lastmod>
   </url>
   
@@ -140,11 +150,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CE%BF%CF%88%CF%85%CF%87%CF%81%CF%8C%CF%82%CF%80%CF%8C%CE%BB%CE%B5%CE%BC%CE%BF%CF%82%CE%B5%CF%80%CE%AD%CF%83%CF%84%CF%81%CE%B5%CF%88%CE%B5%CF%89%CF%82%CF%80%CF%8C%CE%BB%CE%B5%CE%BC%CE%BF%CF%82%CF%84%CF%89%CE%BD%CE%AC%CF%83%CF%84%CF%81%CF%89%CE%BD/</loc>
     <lastmod>2021-12-07T18:15:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/skai.gr/</loc>
-    <lastmod>2021-12-07T09:11:08+00:00</lastmod>
   </url>
   
   <url>
