@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2022-01-04T09:08:06+00:00</lastmod>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2022-01-04T09:08:06+00:00</lastmod>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,23 +33,13 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/moonsbeyondringsatsaturn/</loc>
-    <lastmod>2022-01-04T09:08:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
-    <lastmod>2022-01-04T09:08:06+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2022-01-04T09:08:06+00:00</lastmod>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2022-01-04T09:08:06+00:00</lastmod>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -63,8 +53,13 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/successwebbsunshieldnowfullydeployed/</loc>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2022-01-04T09:08:06+00:00</lastmod>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -78,22 +73,27 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/happyperihelionearthreachesitsclosestpointtothesunof2022/</loc>
+    <lastmod>2022-01-04T18:13:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2022-01-04T18:13:44+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/nasadelaystighteningjameswebbspacetelescopesunshieldtostudypowersystem/</loc>
     <lastmod>2022-01-02T21:07:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2022-01-02T21:07:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/2029willbetheperfectyeartolaunchamissiontosedna/</loc>
-    <lastmod>2022-01-02T03:10:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
     <lastmod>2022-01-02T03:10:17+00:00</lastmod>
   </url>
   
@@ -115,6 +115,11 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/chinahasmoonssouthpoleinitssightswith3missionslaunchingthisdecade/</loc>
     <lastmod>2021-12-30T12:15:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
+    <lastmod>2021-12-30T06:10:04+00:00</lastmod>
   </url>
   
   <url>
