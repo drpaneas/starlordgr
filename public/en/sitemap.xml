@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2022-01-11T00:28:06+00:00</lastmod>
+    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2022-01-11T00:28:06+00:00</lastmod>
+    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -33,18 +33,23 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2022-01-11T00:28:06+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/googledoodlecelebratesthelifeofcosmologiststephenhawkingforhis80thbirthday/</loc>
+    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/spacextestsitsstarshipcatchinglaunchtower/</loc>
-    <lastmod>2022-01-11T00:28:06+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
+    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2022-01-11T00:28:06+00:00</lastmod>
+    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +64,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2022-01-11T00:28:06+00:00</lastmod>
+    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -70,21 +75,6 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
-    <lastmod>2022-01-11T00:28:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/googledoodlecelebratesthelifeofcosmologiststephenhawkingforhis80thbirthday/</loc>
-    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2022-01-08T15:13:43+00:00</lastmod>
   </url>
   
   <url>
@@ -109,6 +99,11 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/successwebbsunshieldnowfullydeployed/</loc>
+    <lastmod>2022-01-04T18:14:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/universetoday.com/</loc>
     <lastmod>2022-01-04T18:14:38+00:00</lastmod>
   </url>
   
