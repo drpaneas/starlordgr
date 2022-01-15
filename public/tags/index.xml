@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Sat, 15 Jan 2022 12:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 15:10:53 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>news.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
-      <pubDate>Sat, 15 Jan 2022 12:13:36 +0000</pubDate>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Sat, 15 Jan 2022 15:10:53 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
       <description></description>
     </item>
     
@@ -63,15 +63,6 @@
       <pubDate>Fri, 10 Dec 2021 15:13:24 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/tovima.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Wed, 08 Dec 2021 22:22:17 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
       <description></description>
     </item>
     
@@ -144,6 +135,15 @@
       <pubDate>Tue, 26 Oct 2021 09:17:24 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/ethnos.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/news.gr/</link>
+      <pubDate>Sun, 17 Oct 2021 12:18:47 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/news.gr/</guid>
       <description></description>
     </item>
     
