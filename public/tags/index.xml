@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Wed, 26 Jan 2022 09:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 18:22:44 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Wed, 26 Jan 2022 18:22:44 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naftemporiki.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
+      <pubDate>Wed, 26 Jan 2022 18:20:44 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>protothema.gr</title>
@@ -31,15 +49,6 @@
     </item>
     
     <item>
-      <title>naftemporiki.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Wed, 26 Jan 2022 09:17:46 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>esquire.com.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/esquire.com.gr/</link>
       <pubDate>Thu, 20 Jan 2022 12:21:41 +0000</pubDate>
@@ -54,15 +63,6 @@
       <pubDate>Thu, 20 Jan 2022 12:20:41 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/in.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 18 Jan 2022 09:21:32 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
