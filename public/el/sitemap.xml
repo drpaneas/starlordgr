@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/</loc>
-    <lastmod>2022-01-28T00:29:48+00:00</lastmod>
+    <lastmod>2022-01-31T09:13:26+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/</loc>
-    <lastmod>2022-01-28T00:29:48+00:00</lastmod>
+    <lastmod>2022-01-31T09:13:26+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +33,13 @@
   </url>
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</loc>
-    <lastmod>2022-01-28T00:29:48+00:00</lastmod>
+    <loc>https://drpaneas.net/starlordgr/public/tags/news247.gr/</loc>
+    <lastmod>2022-01-31T09:13:26+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/</loc>
-    <lastmod>2022-01-28T00:29:48+00:00</lastmod>
+    <lastmod>2022-01-31T09:13:26+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/tags/</loc>
-    <lastmod>2022-01-28T00:29:48+00:00</lastmod>
+    <lastmod>2022-01-31T09:13:26+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +68,17 @@
   </url>
   
   <url>
+    <loc>https://drpaneas.net/starlordgr/public/post/%CE%B2%CF%8C%CF%81%CE%B5%CE%B9%CE%B1%CE%BA%CE%BF%CF%81%CE%AD%CE%B1%CF%80%CF%8E%CF%82%CF%86%CE%B1%CE%AF%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%CE%BF%CE%B9%CF%80%CF%85%CF%81%CE%B1%CF%85%CE%BB%CE%B9%CE%BA%CE%AD%CF%82%CE%B4%CE%BF%CE%BA%CE%B9%CE%BC%CE%AD%CF%82%CE%B1%CF%80%CF%8C%CF%84%CE%BF%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1/</loc>
+    <lastmod>2022-01-31T09:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drpaneas.net/starlordgr/public/categories/%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2022-01-31T09:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</loc>
     <lastmod>2022-01-28T00:29:48+00:00</lastmod>
   </url>
   
@@ -100,11 +110,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/post/%CF%83%CE%B5%CF%84%CF%81%CE%BF%CF%87%CE%B9%CE%AC%CF%83%CF%8D%CE%B3%CE%BA%CF%81%CE%BF%CF%85%CF%83%CE%B7%CF%82%CE%BC%CE%B5%CF%84%CE%B7%CF%83%CE%B5%CE%BB%CE%AE%CE%BD%CE%B7%CE%AD%CE%BD%CE%B1%CF%84%CE%BC%CE%AE%CE%BC%CE%B1%CF%80%CF%85%CF%81%CE%B1%CF%8D%CE%BB%CE%BF%CF%85%CF%84%CE%B7%CF%82spacex/</loc>
     <lastmod>2022-01-26T09:19:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/tags/news247.gr/</loc>
-    <lastmod>2022-01-26T09:18:43+00:00</lastmod>
   </url>
   
   <url>
