@@ -7,26 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>Ευχαριστούμε για την επίσκεψη</copyright>
-    <lastBuildDate>Wed, 02 Feb 2022 02:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Feb 2022 09:58:25 +0000</lastBuildDate>
     
 	<atom:link href="https://drpaneas.net/starlordgr/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>alfavita.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</link>
-      <pubDate>Wed, 02 Feb 2022 02:35:22 +0000</pubDate>
+      <title>skai.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
+      <pubDate>Thu, 03 Feb 2022 09:58:25 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>skai.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/skai.gr/</link>
-      <pubDate>Tue, 01 Feb 2022 12:20:01 +0000</pubDate>
+      <title>cnn.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
+      <pubDate>Thu, 03 Feb 2022 09:57:27 +0000</pubDate>
       
-      <guid>https://drpaneas.net/starlordgr/public/tags/skai.gr/</guid>
+      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naftemporiki.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
+      <pubDate>Thu, 03 Feb 2022 09:56:30 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>astronio.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</link>
+      <pubDate>Thu, 03 Feb 2022 09:54:36 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</guid>
       <description></description>
     </item>
     
@@ -36,24 +54,6 @@
       <pubDate>Mon, 31 Jan 2022 15:14:46 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/protothema.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cnn.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</link>
-      <pubDate>Fri, 28 Jan 2022 00:29:48 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/cnn.gr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>naftemporiki.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</link>
-      <pubDate>Thu, 27 Jan 2022 15:17:00 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/naftemporiki.gr/</guid>
       <description></description>
     </item>
     
@@ -94,6 +94,15 @@
     </item>
     
     <item>
+      <title>alfavita.gr</title>
+      <link>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</link>
+      <pubDate>Sat, 15 Jan 2022 18:11:25 +0000</pubDate>
+      
+      <guid>https://drpaneas.net/starlordgr/public/tags/alfavita.gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>businessdaily.gr</title>
       <link>https://drpaneas.net/starlordgr/public/tags/businessdaily.gr/</link>
       <pubDate>Sat, 01 Jan 2022 21:11:41 +0000</pubDate>
@@ -108,15 +117,6 @@
       <pubDate>Tue, 07 Dec 2021 03:09:41 +0000</pubDate>
       
       <guid>https://drpaneas.net/starlordgr/public/tags/unboxholics.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>astronio.gr</title>
-      <link>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</link>
-      <pubDate>Fri, 03 Dec 2021 15:49:02 +0000</pubDate>
-      
-      <guid>https://drpaneas.net/starlordgr/public/tags/astronio.gr/</guid>
       <description></description>
     </item>
     
