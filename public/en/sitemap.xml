@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/post/astronomersfinallyfindasecondasteroidinearthstrojanbelt/</loc>
-    <lastmod>2022-02-03T09:53:38+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://drpaneas.net/starlordgr/public/en/post/</loc>
-    <lastmod>2022-02-03T09:53:38+00:00</lastmod>
+    <lastmod>2022-02-03T21:07:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -24,7 +19,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/</loc>
-    <lastmod>2022-02-03T09:53:38+00:00</lastmod>
+    <lastmod>2022-02-03T21:07:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -39,12 +34,17 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/categories/news/</loc>
-    <lastmod>2022-02-03T09:53:38+00:00</lastmod>
+    <lastmod>2022-02-03T21:07:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
+    <lastmod>2022-02-03T21:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/</loc>
-    <lastmod>2022-02-03T09:53:38+00:00</lastmod>
+    <lastmod>2022-02-03T21:07:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -59,7 +59,7 @@
   
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/</loc>
-    <lastmod>2022-02-03T09:53:38+00:00</lastmod>
+    <lastmod>2022-02-03T21:07:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
@@ -70,6 +70,16 @@
                 hreflang="en"
                 href="https://drpaneas.net/starlordgr/public/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/thetop5deepspaceobjectstolookforinthewinternightsky/</loc>
+    <lastmod>2022-02-03T21:07:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drpaneas.net/starlordgr/public/en/post/astronomersfinallyfindasecondasteroidinearthstrojanbelt/</loc>
+    <lastmod>2022-02-03T09:53:38+00:00</lastmod>
   </url>
   
   <url>
@@ -120,11 +130,6 @@
   <url>
     <loc>https://drpaneas.net/starlordgr/public/en/tags/nasa.gov/</loc>
     <lastmod>2022-02-03T09:46:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drpaneas.net/starlordgr/public/en/tags/space.com/</loc>
-    <lastmod>2022-02-03T09:45:08+00:00</lastmod>
   </url>
   
   <url>
